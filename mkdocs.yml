@@ -11,6 +11,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
+      primary: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -18,11 +19,12 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
   font:
-    text: Open Sans
+    text: Lato
     code: Source Code Pro
 
   features:
@@ -39,3 +41,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Publications: publications.md
+
+copyright: Copyright &copy; 2024 KAIST Geometric AI Group

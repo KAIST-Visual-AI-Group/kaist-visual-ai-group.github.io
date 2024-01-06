@@ -34,13 +34,28 @@ hide:
 </style>
 
 
-# Welcome to MkDocs
+# Publications
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 2023
 
-## Commands
+<div class="grid" markdown>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<div class="card" markdown>
+<div class="publication-thumbnail-cell" markdown>
+<img class="publication-thumbnail" src="https://mhsung.github.io/assets/images/salad-thumbnail.png" width="180" alt="thumbnail"/ markdown>
+</div>
+<div class="publication-description-cell" markdown>
+__SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation__<br>
+Juil Koo, Seungwoo Yoo, Minh Hieu Nguyen, Minhyuk Sung<br>
+ICCV 2023<br>
+Project  arXiv  PDF  Code  Hugging Face  3Dpresso (Text-to-3D) 
+</div>
+</div>
+
+</div>
+
+</div>
+
+
+
+
