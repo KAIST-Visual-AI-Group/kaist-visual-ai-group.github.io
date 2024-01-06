@@ -1,3 +1,9 @@
+:root {
+  --md-primary-fg-color:        #00205b;
+  --md-primary-fg-color--light: #224d72;
+  --md-primary-fg-color--dark:  #001a51;
+}
+
 .md-typeset h1,
 .md-typeset h2 {
   font-weight: 600;
