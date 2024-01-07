@@ -21,7 +21,7 @@ hide:
 .publication-description-cell {
     display: inline-table;
     vertical-align: top;
-    p { margin: 0px; }
+    p { margin: 0px; line-height: 140%; }
 }
 
 .publication-thumbnail {
@@ -42,7 +42,19 @@ hide:
 
 <div class="card" markdown>
 <div class="publication-thumbnail-cell" markdown>
-<img class="publication-thumbnail" src="https://mhsung.github.io/assets/images/salad-thumbnail.png" width="180" alt="thumbnail"/ markdown>
+<img class="publication-thumbnail" src="https://mhsung.github.io/assets/images/salad-thumbnail.png" markdown>
+</div>
+<div class="publication-description-cell" markdown>
+__SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation__<br>
+Juil Koo, Seungwoo Yoo, Minh Hieu Nguyen, Minhyuk Sung<br>
+ICCV 2023<br>
+Project  arXiv  PDF  Code  Hugging Face  3Dpresso (Text-to-3D) 
+</div>
+</div>
+
+<div class="card" markdown>
+<div class="publication-thumbnail-cell" markdown>
+<img class="publication-thumbnail" src="https://mhsung.github.io/assets/images/salad-thumbnail.png" markdown>
 </div>
 <div class="publication-description-cell" markdown>
 __SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation__<br>
@@ -53,9 +65,4 @@ Project  arXiv  PDF  Code  Hugging Face  3Dpresso (Text-to-3D) 
 </div>
 
 </div>
-
-</div>
-
-
-
 

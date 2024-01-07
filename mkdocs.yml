@@ -1,35 +1,11 @@
 site_name: KAIST Geometric AI Group
 theme:
   name: material
-  palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      primary: custom
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
-  font:
-    text: Lato
-    code: Source Code Pro
-
+  primary: custom
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  font: false
 
 extra_css:
   - stylesheets/extra.css
@@ -44,6 +20,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - People: people.md
   - Publications: publications.md
 
 copyright: Copyright &copy; 2024 KAIST Geometric AI Group

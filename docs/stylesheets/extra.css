@@ -1,19 +1,64 @@
 :root {
-  --md-primary-fg-color:        #00205b;
-  --md-primary-fg-color--light: #224d72;
-  --md-primary-fg-color--dark:  #001a51;
+  --md-primary-fg-color:        #021230;
+  --md-primary-fg-color--light: #293F51;
+  --md-primary-fg-color--dark:  #0D001A;
+}
+
+/* Thin */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Thin.otf) format('opentype');
+    font-style: normal;
+    font-weight: 100;
+}
+
+/* Light */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Light.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 300;
+}
+
+/* Normal */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Regular.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Medium.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Bold.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* Black */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Black.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 900;
 }
 
 .md-typeset h1,
 .md-typeset h2 {
-  font-weight: 600;
+  font-weight: 700;
+  color: var(--md-primary-fg-color--dark);
 }
 
 .md-grid {
   max-width: 1080px;
-}
-
-.md-typeset {
-  line-height: 1.4;
 }
 
