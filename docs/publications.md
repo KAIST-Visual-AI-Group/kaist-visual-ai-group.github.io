@@ -1,4 +1,5 @@
 ---
+template: custom.html
 hide:
   - navigation
   - toc

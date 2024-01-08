@@ -1,11 +1,12 @@
 site_name: KAIST Geometric AI Group
 theme:
   name: material
-  primary: custom
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.tabs.sticky
   font: false
+  primary: custom
 
 extra_css:
   - stylesheets/extra.css
@@ -22,5 +23,9 @@ nav:
   - Home: index.md
   - People: people.md
   - Publications: publications.md
+
+plugins:
+    - search
+    - macros
 
 copyright: Copyright &copy; 2024 KAIST Geometric AI Group
