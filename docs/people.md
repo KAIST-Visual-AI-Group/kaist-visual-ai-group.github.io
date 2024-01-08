@@ -7,10 +7,6 @@ hide:
 
 <link rel="stylesheet" href="link/to/stylesheet" />
 <style>
-.md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(30%, 3fr))
-}
-
 .people-thumbnail-cell {
     display: inline-table;
     padding-right: 12px;
