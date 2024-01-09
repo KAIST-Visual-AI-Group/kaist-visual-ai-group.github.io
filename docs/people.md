@@ -95,10 +95,10 @@ __{{ item.name }}__
 {% endfor %}
 </div>
 
-## Visitors
+## Alumni Visitors
 
 <div class="grid" markdown>
-{% for item in people.visitors %}
+{% for item in people.alumni_visitors %}
 <div class="card" markdown>
 __{{ item.name }}__
 
@@ -108,7 +108,7 @@ __{{ item.name }}__
 </div>
 
 
-## Alumni (Undergraduate Students)
+## Alumni Undergraduate Students
 
 <div class="grid" markdown>
 {% for item in people.alumni_undergrads %}
