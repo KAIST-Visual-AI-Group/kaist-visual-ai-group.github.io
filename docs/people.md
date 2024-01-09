@@ -49,9 +49,8 @@ __{{ item.name }}__
 
 {{ item.type }}
 
-{% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a> {% endif %}
-&nbsp;
-{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
+{% if item.web %}<a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a>&nbsp;{% endif %}
+{% if item.email %}<a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
 </div>
 </div>
 {% endfor %}
@@ -77,8 +76,7 @@ __{{ item.name }}__
 
 {{ item.type }}
 
-{% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a> {% endif %}
-&nbsp;
+{% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a>&nbsp;{% endif %}
 {% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
 </div>
 </div>
