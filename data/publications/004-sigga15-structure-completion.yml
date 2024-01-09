@@ -9,10 +9,11 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note: (* equal contribution)
-venue: SIGGRAPH Asia 2015
+venue: SIGGRAPH Asia
+year: 2015
 #publication_note: Oral
-project_exist: true
-pdf_exist: true
-supplementary_exist: true
-slides_exist: true
+project: https://mhsung.github.io/publications/structure-completion
+pdf: https://mhsung.github.io/assets/files/structure-completion.pdf
+supplementary: https://mhsung.github.io/assets/files/structure-completion-supplementary.pdf
+slides: https://mhsung.github.io/assets/files/structure-completion-slides.pptx
 code: https://github.com/mhsung/structure-completion

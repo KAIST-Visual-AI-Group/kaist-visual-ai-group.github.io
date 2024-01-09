@@ -10,6 +10,7 @@ authors:
       link: http://www.stulyakov.com/
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
-venue: CVPR 2023
+venue: CVPR
+year: 2023
 project: https://changeit3d.github.io/
 pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Achlioptas_ShapeTalk_A_Language_Dataset_and_Framework_for_3D_Shape_Edits_CVPR_2023_paper.pdf

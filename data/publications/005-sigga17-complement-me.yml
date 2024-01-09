@@ -11,11 +11,12 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: SIGGRAPH Asia 2017
+venue: SIGGRAPH Asia
+year: 2017
 publication_note: Featured in an ACM press release
-project_exist: true
-pdf_exist: true
-slides_exist: true
+project: https://mhsung.github.io/publications/complement-me
+pdf: https://mhsung.github.io/assets/files/complement-me.pdf
+slides: https://mhsung.github.io/assets/files/complement-me-slides.pptx
 arXiv: https://arxiv.org/abs/1708.01841
 code: https://github.com/mhsung/complement-me
 press_release:

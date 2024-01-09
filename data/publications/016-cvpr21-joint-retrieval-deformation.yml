@@ -13,7 +13,8 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: CVPR 2021
+venue: CVPR
+year: 2021
 #publication_note:
 project: https://joint-retrieval-deformation.github.io/
 arXiv: https://arxiv.org/abs/2101.07889

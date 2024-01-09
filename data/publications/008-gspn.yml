@@ -10,7 +10,8 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: CVPR 2019
+venue: CVPR
+year: 2019
 #publication_note:
 arXiv: https://arxiv.org/abs/1812.03320
 code: https://github.com/ericyi/GSPN

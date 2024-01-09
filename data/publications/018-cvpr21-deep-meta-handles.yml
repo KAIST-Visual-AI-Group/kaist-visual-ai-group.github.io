@@ -9,9 +9,10 @@ authors:
     - name: Hao Su
       link: http://cseweb.ucsd.edu/~haosu/
 #authors_note:
-venue: CVPR 2021
+venue: CVPR
+year: 2021
 publication_note: Oral
-project_exist: true
+project: https://mhsung.github.io/publications/deep-meta-handles
 arXiv: https://arxiv.org/abs/2102.09105
 code: https://github.com/Colin97/DeepMetaHandles
 web_demo: https://mhsung.github.io/deep-meta-handles-demo/web_demo.html

@@ -15,7 +15,8 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: CVPR 2021
+venue: CVPR
+year: 2021
 publication_note: Oral
 project: https://cg.cs.tsinghua.edu.cn/people/~huangjh/publication/multibodysync/
 arXiv: https://arxiv.org/abs/2101.06605

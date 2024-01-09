@@ -13,7 +13,8 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: Findings of EMNLP 2022
+venue: Findings of EMNLP
+year: 2022
 arXiv: https://arxiv.org/abs/2212.05011
 pdf: https://ianhuang0630.github.io/me/assets/papers/ladis.pdf
 code: https://github.com/ianhuang0630/LADIS

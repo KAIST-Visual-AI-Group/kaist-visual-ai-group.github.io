@@ -9,10 +9,11 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: SGP 2018
+venue: SGP
+year: 2018
 #publication_note:
-project_exist: true
-pdf_exist: true
-slides_exist: true
+project: https://mhsung.github.io/publications/fuzzy-set-dual
+pdf: https://mhsung.github.io/assets/files/fuzzy-set-dual.pdf
+slides: https://mhsung.github.io/assets/files/fuzzy-set-dual-slides.pptx
 arXiv: https://arxiv.org/abs/1807.01519
 code: https://github.com/mhsung/fuzzy-set-dual

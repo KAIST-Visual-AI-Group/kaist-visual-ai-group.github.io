@@ -11,9 +11,10 @@ authors:
       link: https://geometry.stanford.edu/member/guibas/
     - name: Minhyuk Sung
 #authors_note:
-venue: CVPR 2022
+venue: CVPR
+year: 2022
 publication_note: Oral
-project_exist: true
+project: https://mhsung.github.io/publications/partglot
 arXiv: https://arxiv.org/abs/2112.06390
 code: https://github.com/63days/PartGlot
 video: https://www.youtube.com/watch?v=v06GPLnezqk

@@ -3,5 +3,6 @@ title: "Split, Merge, and Refine: Fitting Tight Bounding Boxes via Learned Over-
 authors:
     - name: Chanhyeok Park
     - name: Minhyuk Sung
-venue: 3DV 2024
+venue: 3DV
+year: 2024
 arXiv: https://arxiv.org/abs/2304.04336

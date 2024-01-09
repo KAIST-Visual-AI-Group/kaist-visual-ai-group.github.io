@@ -8,9 +8,10 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: NeurIPS 2018
+venue: NeurIPS
+year: 2018
 #publication_note:
-pdf_exist: true
-poster_exist: true
+pdf: https://mhsung.github.io/assets/files/deep-functional-dictionaries.pdf
+poster: https://mhsung.github.io/assets/files/deep-functional-dictionaries-poster.pdf
 arXiv: https://arxiv.org/abs/1805.09957
 code: https://github.com/mhsung/deep-functional-dictionaries

@@ -11,7 +11,8 @@ authors:
     - name: Junho Kim
       link: https://home1.kookmin.ac.kr/~junho/
 #authors_note:
-venue: ICCV 2021
+venue: ICCV
+year: 2021
 #publication_note:
 arXiv: https://arxiv.org/abs/2109.02259
 code: https://github.com/jwlee-vcl/CTRL-C

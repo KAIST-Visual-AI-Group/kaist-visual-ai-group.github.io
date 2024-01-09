@@ -3,11 +3,12 @@ title: "Implicit LiDAR Network: LiDAR Super-Resolution via Interpolation Weight 
 authors:
     - name: Youngsun Kwon
       link: https://sgvr.kaist.ac.kr/~yskwon/
-    - name: Minhyuk Sung*
-    - name: Sung-Eui Yoon*
+    - name: Minhyuk Sung\*
+    - name: Sung-Eui Yoon\*
       link: https://sgvr.kaist.ac.kr/~sungeui/
 authors_note: co-corresponding authors
-venue: ICRA 2022
+venue: ICRA
+year: 2022
 #publication_note:
 project: https://sgvr.kaist.ac.kr/~yskwon/papers/icra22-iln/
 arXiv: https://arxiv.org/abs/2203.06413

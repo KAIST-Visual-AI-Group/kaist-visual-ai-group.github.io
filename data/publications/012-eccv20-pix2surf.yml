@@ -13,7 +13,8 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 #authors_note:
-venue: ECCV 2020
+venue: ECCV
+year: 2020
 #publication_note:
 project: https://geometry.stanford.edu/projects/pix2surf/
 arXiv: https://arxiv.org/abs/2008.07760

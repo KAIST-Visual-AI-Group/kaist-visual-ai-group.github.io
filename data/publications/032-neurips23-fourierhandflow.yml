@@ -8,6 +8,7 @@ authors:
     - name: Minhyuk Sung
     - name: Tae-Kyun Kim
       link: https://sites.google.com/view/tkkim/
-venue: NeurIPS 2023
+venue: NeurIPS
+year: 2023
 arXiv: https://arxiv.org/abs/2307.08100
 project: https://jyunlee.github.io/projects/fourier-hand-flow/

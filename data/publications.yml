@@ -5,7 +5,8 @@ publications:
     authors:
         - name: Chanhyeok Park
         - name: Minhyuk Sung
-    venue: 3DV 2024
+    venue: 3DV
+    year: 2024
     arXiv: https://arxiv.org/abs/2304.04336
   - name: 033-neurips23-syncdiffusion
     key: syncdiffusion
@@ -16,7 +17,8 @@ publications:
         - name: Kunho Kim
         - name: Hyunjin Kim
         - name: Minhyuk Sung
-    venue: NeurIPS 2023
+    venue: NeurIPS
+    year: 2023
     project: https://syncdiffusion.github.io/
     arXiv: https://arxiv.org/abs/2306.05178
     pdf: https://syncdiffusion.github.io/static/syncdiffusion_pdf.pdf
@@ -33,15 +35,16 @@ publications:
         - name: Minhyuk Sung
         - name: Tae-Kyun Kim
           link: https://sites.google.com/view/tkkim/
-    venue: NeurIPS 2023
+    venue: NeurIPS
+    year: 2023
     arXiv: https://arxiv.org/abs/2307.08100
     project: https://jyunlee.github.io/projects/fourier-hand-flow/
   - name: 031-pg23-optctrlpoints
     key: optctrlpoints
     title: "OptCtrlPoints: Optimizing Control Points for Biharmonic 3D Shape Deformation"
     authors:
-        - name: Kunho Kim
-        - name: Mikaela Angelina Uy
+        - name: Kunho Kim\*
+        - name: Mikaela Angelina Uy\*
           link: https://mikacuy.github.io/
         - name: Despoina Paschalidou
           link: https://paschalidoud.github.io/
@@ -50,7 +53,9 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
         - name: Minhyuk Sung
-    venue: Pacific Graphics 2023 (Full Paper)
+    authors_note: equal contributions
+    venue: Pacific Graphics
+    year: 2023
     project: https://soulmates2.github.io/publications/OptCtrlPoints/
     arXiv: https://arxiv.org/abs/2309.12899
     pdf: https://soulmates2.github.io/publications/OptCtrlPoints/static/OptCtrlPoints_Main.pdf
@@ -60,23 +65,21 @@ publications:
     key: salad
     title: "SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation"
     authors:
-        - name: Juil Koo*
+        - name: Juil Koo\*
           link: http://63days.github.io/
-        - name: Seungwoo Yoo*
+        - name: Seungwoo Yoo\*
           link: https://dvelopery0115.github.io/
-        - name: Minh Hieu Nguyen*
+        - name: Minh Hieu Nguyen\*
           link: http://min-hieu.github.io/
         - name: Minhyuk Sung
     authors_note: equal contributions
-    venue: ICCV 2023
+    venue: ICCV
+    year: 2023
     project: https://salad3d.github.io/
     arXiv: https://arxiv.org/abs/2303.12236
     pdf: https://salad3d.github.io/assets/salad.pdf
     code: https://github.com/63days/salad
     hugging_face: https://huggingface.co/spaces/KAIST-Geometric-AI-Lab/salad-demo
-    etc:
-        - name: 3Dpresso (Text-to-3D)
-          link: https://3dpresso.ai/textto3d
   - name: 029-cvpr23-im2hands
     key: im2hands
     title: "Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes"
@@ -88,7 +91,8 @@ publications:
           link: https://honggyuchoi.github.io/
         - name: Tae-Kyun Kim
           link: https://sites.google.com/view/tkkim/home
-    venue: CVPR 2023
+    venue: CVPR
+    year: 2023
     project: https://jyunlee.github.io/projects/implicit-two-hands/
     arXiv: https://arxiv.org/abs/2302.14348
   - name: 028-cvpr23-shapetalk
@@ -104,7 +108,8 @@ publications:
           link: http://www.stulyakov.com/
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
-    venue: CVPR 2023
+    venue: CVPR
+    year: 2023
     project: https://changeit3d.github.io/
     pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Achlioptas_ShapeTalk_A_Language_Dataset_and_Framework_for_3D_Shape_Edits_CVPR_2023_paper.pdf
   - name: 027-wacv23-segstruct
@@ -114,11 +119,12 @@ publications:
         - name: Junghyun Kim
         - name: Kaichun Mo
           link: https://cs.stanford.edu/~kaichun/
-        - name: Minhyuk Sung*
-        - name: Woontack Woo*
+        - name: Minhyuk Sung\*
+        - name: Woontack Woo\*
           link: https://uvrlab.org/members
     authors_note: co-corresponding authors
-    venue: WACV 2023 (Algorithm Track)
+    venue: WACV
+    year: 2023
     #publication_note:
     project: https://sites.google.com/view/segstruct
     arXiv: https://arxiv.org/abs/2211.00382
@@ -140,7 +146,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: Findings of EMNLP 2022
+    venue: Findings of EMNLP
+    year: 2022
     arXiv: https://arxiv.org/abs/2212.05011
     pdf: https://ianhuang0630.github.io/me/assets/papers/ladis.pdf
     code: https://github.com/ianhuang0630/LADIS
@@ -160,7 +167,8 @@ publications:
         - name: Daniel Ritchie
           link: https://dritchie.github.io/
     #authors_note:
-    venue: ECCV 2022
+    venue: ECCV
+    year: 2022
     arXiv: https://arxiv.org/abs/2112.00584
     code: https://github.com/brownvc/spsm
   - name: 024-cvpr22-partglot
@@ -177,9 +185,10 @@ publications:
           link: https://geometry.stanford.edu/member/guibas/
         - name: Minhyuk Sung
     #authors_note:
-    venue: CVPR 2022
+    venue: CVPR
+    year: 2022
     publication_note: Oral
-    project_exist: true
+    project: https://mhsung.github.io/publications/partglot
     arXiv: https://arxiv.org/abs/2112.06390
     code: https://github.com/63days/PartGlot
     video: https://www.youtube.com/watch?v=v06GPLnezqk
@@ -187,14 +196,15 @@ publications:
     key: pop-out-motion
     title: "Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian"
     authors:
-        - name: Jihyun Lee*
+        - name: Jihyun Lee\*
           link: https://jyunlee.github.io/
-        - name: Minhyuk Sung*
+        - name: Minhyuk Sung\*
         - name: Hyunjin Kim
         - name: Tae-Kyun Kim
           link: https://sites.google.com/view/tkkim/home
     authors_note: equal contributions
-    venue: CVPR 2022
+    venue: CVPR
+    year: 2022
     #publication_note:
     project: https://jyunlee.github.io/projects/pop-out-motion/
     arXiv: https://arxiv.org/abs/2203.15235
@@ -204,9 +214,9 @@ publications:
     key: point2cyl
     title: "Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders"
     authors:
-        - name: Mikaela Angelina Uy*
+        - name: Mikaela Angelina Uy\*
           link: https://mikacuy.github.io/
-        - name: Yen-yu Chang*
+        - name: Yen-yu Chang\*
           link: https://yuyuchang.github.io/
         - name: Minhyuk Sung
         - name: Purvi Goel
@@ -218,7 +228,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     authors_note: equal contributions
-    venue: CVPR 2022
+    venue: CVPR
+    year: 2022
     #publication_note:
     project: https://point2cyl.github.io/
     arXiv: https://arxiv.org/abs/2112.09329
@@ -231,11 +242,12 @@ publications:
     authors:
         - name: Youngsun Kwon
           link: https://sgvr.kaist.ac.kr/~yskwon/
-        - name: Minhyuk Sung*
-        - name: Sung-Eui Yoon*
+        - name: Minhyuk Sung\*
+        - name: Sung-Eui Yoon\*
           link: https://sgvr.kaist.ac.kr/~sungeui/
     authors_note: co-corresponding authors
-    venue: ICRA 2022
+    venue: ICRA
+    year: 2022
     #publication_note:
     project: https://sgvr.kaist.ac.kr/~yskwon/papers/icra22-iln/
     arXiv: https://arxiv.org/abs/2203.06413
@@ -257,7 +269,8 @@ publications:
         - name: Niloy Mitra
           link: http://www0.cs.ucl.ac.uk/staff/n.mitra/
     #authors_note:
-    venue: ICCV 2021
+    venue: ICCV
+    year: 2021
     #publication_note:
     arXiv: https://arxiv.org/abs/2109.00113
     code: https://github.com/erictuanle/CPFN
@@ -275,7 +288,8 @@ publications:
         - name: Junho Kim
           link: https://home1.kookmin.ac.kr/~junho/
     #authors_note:
-    venue: ICCV 2021
+    venue: ICCV
+    year: 2021
     #publication_note:
     arXiv: https://arxiv.org/abs/2109.02259
     code: https://github.com/jwlee-vcl/CTRL-C
@@ -291,9 +305,10 @@ publications:
         - name: Hao Su
           link: http://cseweb.ucsd.edu/~haosu/
     #authors_note:
-    venue: CVPR 2021
+    venue: CVPR
+    year: 2021
     publication_note: Oral
-    project_exist: true
+    project: https://mhsung.github.io/publications/deep-meta-handles
     arXiv: https://arxiv.org/abs/2102.09105
     code: https://github.com/Colin97/DeepMetaHandles
     web_demo: https://mhsung.github.io/deep-meta-handles-demo/web_demo.html
@@ -316,7 +331,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: CVPR 2021
+    venue: CVPR
+    year: 2021
     publication_note: Oral
     project: https://cg.cs.tsinghua.edu.cn/people/~huangjh/publication/multibodysync/
     arXiv: https://arxiv.org/abs/2101.06605
@@ -337,7 +353,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: CVPR 2021
+    venue: CVPR
+    year: 2021
     #publication_note:
     project: https://joint-retrieval-deformation.github.io/
     arXiv: https://arxiv.org/abs/2101.07889
@@ -356,9 +373,10 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     authors_note: equal contributions
-    venue: SIGGRAPH Asia 2020
+    venue: SIGGRAPH Asia
+    year: 2020
     #publication_note:
-    project_exist: true
+    project: https://mhsung.github.io/publications/deform-sync-net
     arXiv: http://arxiv.org/abs/2009.01456
     pdf_exist: true
     code: https://github.com/Steve-Tod/DeformSyncNet
@@ -376,7 +394,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: ECCV 2020
+    venue: ECCV
+    year: 2020
     #publication_note:
     project: https://deformscan2cad.github.io/
     arXiv: https://arxiv.org/abs/2004.01228
@@ -393,7 +412,8 @@ publications:
         - name: Junho Kim
           link: https://home1.kookmin.ac.kr/~junho/
     #authors_note:
-    venue: ECCV 2020
+    venue: ECCV
+    year: 2020
     #publication_note:
     arXiv: https://arxiv.org/abs/2007.11855
   - name: 012-eccv20-pix2surf
@@ -412,7 +432,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: ECCV 2020
+    venue: ECCV
+    year: 2020
     #publication_note:
     project: https://geometry.stanford.edu/projects/pix2surf/
     arXiv: https://arxiv.org/abs/2008.07760
@@ -423,9 +444,9 @@ publications:
     key: part-assembly
     title: "Learning 3D Part Assembly from a Single Image"
     authors:
-        - name: Yichen Li*
+        - name: Yichen Li\*
           link: https://antheali.github.io/
-        - name: Kaichun Mo*
+        - name: Kaichun Mo\*
           link: https://cs.stanford.edu/~kaichun/
         - name: Lin Shao
           link: https://linsats.github.io/
@@ -433,7 +454,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     authors_note: equal contributions
-    venue: ECCV 2020
+    venue: ECCV
+    year: 2020
     #publication_note:
     project: https://cs.stanford.edu/~kaichun/impartass/
     arXiv: https://arxiv.org/abs/2003.09754
@@ -445,16 +467,17 @@ publications:
     authors:
         - name: Minhyuk Sung
     #author_note:
-    venue: Ph.D. Dissertation. Stanford University. 2019.
+    venue: Ph.D. Dissertation. Stanford University.
+    year: 2019
     #publication_note:
     link: https://searchworks.stanford.edu/view/13333384
   - name: 009-sgpn
     key: spfn
     title: "Supervised Fitting of Geometric Primitives to 3D Point Clouds"
     authors:
-        - name: Lingxiao Li*
+        - name: Lingxiao Li\*
           link: https://www.csail.mit.edu/person/lingxiao-li
-        - name: Minhyuk Sung*
+        - name: Minhyuk Sung\*
         - name: Anastasia Dubrovina
           link: https://anastasiadk.github.io/
         - name: Li Yi
@@ -462,7 +485,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     authors_note: equal contributions
-    venue: CVPR 2019
+    venue: CVPR
+    year: 2019
     publication_note: Oral
     arXiv: https://arxiv.org/abs/1811.08988
     video: https://www.youtube.com/watch?v=BQZ5xKd5kis&t=5815s
@@ -480,7 +504,8 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: CVPR 2019
+    venue: CVPR
+    year: 2019
     #publication_note:
     arXiv: https://arxiv.org/abs/1812.03320
     code: https://github.com/ericyi/GSPN
@@ -495,10 +520,11 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: NeurIPS 2018
+    venue: NeurIPS
+    year: 2018
     #publication_note:
-    pdf_exist: true
-    poster_exist: true
+    pdf: https://mhsung.github.io/assets/files/deep-functional-dictionaries.pdf
+    poster: https://mhsung.github.io/assets/files/deep-functional-dictionaries-poster.pdf
     arXiv: https://arxiv.org/abs/1805.09957
     code: https://github.com/mhsung/deep-functional-dictionaries
   - name: 006-sgp18-fuzzy-set-dual
@@ -513,11 +539,12 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: SGP 2018
+    venue: SGP
+    year: 2018
     #publication_note:
-    project_exist: true
-    pdf_exist: true
-    slides_exist: true
+    project: https://mhsung.github.io/publications/fuzzy-set-dual
+    pdf: https://mhsung.github.io/assets/files/fuzzy-set-dual.pdf
+    slides: https://mhsung.github.io/assets/files/fuzzy-set-dual-slides.pptx
     arXiv: https://arxiv.org/abs/1807.01519
     code: https://github.com/mhsung/fuzzy-set-dual
   - name: 005-sigga17-complement-me
@@ -534,11 +561,12 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note:
-    venue: SIGGRAPH Asia 2017
+    venue: SIGGRAPH Asia
+    year: 2017
     publication_note: Featured in an ACM press release
-    project_exist: true
-    pdf_exist: true
-    slides_exist: true
+    project: https://mhsung.github.io/publications/complement-me
+    pdf: https://mhsung.github.io/assets/files/complement-me.pdf
+    slides: https://mhsung.github.io/assets/files/complement-me-slides.pptx
     arXiv: https://arxiv.org/abs/1708.01841
     code: https://github.com/mhsung/complement-me
     press_release:
@@ -556,12 +584,13 @@ publications:
         - name: Leonidas Guibas
           link: https://geometry.stanford.edu/member/guibas/
     #authors_note: (* equal contribution)
-    venue: SIGGRAPH Asia 2015
+    venue: SIGGRAPH Asia
+    year: 2015
     #publication_note: Oral
-    project_exist: true
-    pdf_exist: true
-    supplementary_exist: true
-    slides_exist: true
+    project: https://mhsung.github.io/publications/structure-completion
+    pdf: https://mhsung.github.io/assets/files/structure-completion.pdf
+    supplementary: https://mhsung.github.io/assets/files/structure-completion-supplementary.pdf
+    slides: https://mhsung.github.io/assets/files/structure-completion-slides.pptx
     code: https://github.com/mhsung/structure-completion
   - name: 003-icip13-unprojection
     key: unprojection
@@ -574,7 +603,8 @@ publications:
         - name: Sang Chul Ahn
           link: https://sites.google.com/view/asckist
     #authors_note:
-    venue: ICIP 2013
+    venue: ICIP
+    year: 2013
     #publication_note:
     link: https://doi.org/10.1109/ICIP.2013.6738034
   - name: 002-cg13-m-best
@@ -585,7 +615,8 @@ publications:
         - name: Junho Kim
           link: https://home1.kookmin.ac.kr/~junho/
     #authors_note:
-    venue: Computers & Graphics 2013
+    venue: Computers & Graphics
+    year: 2013
     #publication_note:
     link: https://doi.org/10.1016/j.cag.2012.11.002
   - name: 001-tvcg12-anisotropic
@@ -599,7 +630,8 @@ publications:
         - name: Sung Yong Shin
         - name: Elaine Cohen
     #authors_note:
-    venue: TVCG 2012
+    venue: TVCG
+    year: 2012
     #publication_note:
     link: https://doi.org/10.1109/TVCG.2012.29
   - name: 000-ms-thesis
@@ -608,6 +640,7 @@ publications:
     authors:
         - name: Min-Hyuk Sung
     #author_note:
-    venue: M.S. Thesis. KAIST. 2010.
+    venue: M.S. Thesis. KAIST.
+    year: 2010
     #publication_note:
     link: http://koasas.kaist.ac.kr/handle/10203/34894

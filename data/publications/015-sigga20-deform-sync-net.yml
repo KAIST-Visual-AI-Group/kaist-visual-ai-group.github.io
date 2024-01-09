@@ -11,9 +11,10 @@ authors:
     - name: Leonidas Guibas
       link: https://geometry.stanford.edu/member/guibas/
 authors_note: equal contributions
-venue: SIGGRAPH Asia 2020
+venue: SIGGRAPH Asia
+year: 2020
 #publication_note:
-project_exist: true
+project: https://mhsung.github.io/publications/deform-sync-net
 arXiv: http://arxiv.org/abs/2009.01456
 pdf_exist: true
 code: https://github.com/Steve-Tod/DeformSyncNet
