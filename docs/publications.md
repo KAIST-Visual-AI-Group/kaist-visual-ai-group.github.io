@@ -6,7 +6,6 @@ hide:
 ---
 
 
-<link rel="stylesheet" href="link/to/stylesheet" />
 <style>
 .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(90%, 1fr))

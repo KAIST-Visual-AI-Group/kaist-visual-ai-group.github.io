@@ -5,7 +5,6 @@ hide:
 ---
 
 
-<link rel="stylesheet" href="link/to/stylesheet" />
 <style>
 .people-thumbnail-cell {
     display: inline-table;
@@ -32,45 +31,81 @@ hide:
 
 # People
 
+## Professor
+
+<div class="grid" markdown>
+
+{% for item in people.professor %}
+<div class="card" markdown>
+<div class="people-thumbnail-cell" markdown>
+<img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
+</div>
+<div class="people-description-cell" markdown>
+{% if item.link %}
+<a href="{{ item.link }}" target="_blank">__{{ item.name }}__</a>
+{% else %}
+__{{ item.name }}__
+{% endif %}
+
+{{ item.type }}
+
+{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
+&nbsp;
+{% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a> {% endif %}
+</div>
+</div>
+{% endfor %}
+
+</div>
+
+
 ## Graduate Students
 
 <div class="grid" markdown>
 
+{% for item in people.graduates %}
 <div class="card" markdown>
 <div class="people-thumbnail-cell" markdown>
-<img class="people-thumbnail" src="https://mhsung.github.io/assets/images/profile.png" markdown>
+<img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
 </div>
 <div class="people-description-cell" markdown>
-__Minhyuk Sung__<br>
-Assistant Professor<br>
-mhsung@kaist.ac.kr
+{% if item.link %}
+<a href="{{ item.link }}" target="_blank">__{{ item.name }}__</a>
+{% else %}
+__{{ item.name }}__
+{% endif %}
+
+{{ item.type }}
+
+{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
+&nbsp;
+{% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a> {% endif %}
 </div>
+</div>
+{% endfor %}
+
 </div>
 
+
+## Undergraduate Students
+
+<div class="grid" markdown>
+{% for item in people.undergrads %}
 <div class="card" markdown>
-<div class="people-thumbnail-cell" markdown>
-<img class="people-thumbnail" src="https://mhsung.github.io/assets/images/profile.png" markdown>
+__{{ item.name }}__
 </div>
-<div class="people-description-cell" markdown>
-__Minhyuk Sung__<br>
-Assistant Professor<br>
-mhsung@kaist.ac.kr
-</div>
+{% endfor %}
 </div>
 
+
+## Alumni (Undergraduate Students)
+
+<div class="grid" markdown>
+{% for item in people.alumni_undergrads %}
 <div class="card" markdown>
-<div class="people-thumbnail-cell" markdown>
-<img class="people-thumbnail" src="https://mhsung.github.io/assets/images/profile.png" markdown>
+__{{ item.name }}__
 </div>
-<div class="people-description-cell" markdown>
-__Minhyuk Sung__<br>
-Assistant Professor<br>
-mhsung@kaist.ac.kr
+{% endfor %}
 </div>
-</div>
-
-</div>
-
-
 
 
