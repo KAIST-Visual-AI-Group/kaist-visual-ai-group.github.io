@@ -1,5 +1,4 @@
 ---
-template: custom.html
 hide:
   - navigation
   - toc
@@ -37,6 +36,9 @@ hide:
 # Publications
 
 ## 2023
+
+{% for item in publications %}
+{% endfor %}
 
 <div class="grid" markdown>
 

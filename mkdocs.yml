@@ -32,5 +32,6 @@ plugins:
     - macros:
         include_yaml:
           - people: data/people.yml
+          - publications: data/publications
 
 copyright: Copyright &copy; 2024 KAIST Geometric AI Group
