@@ -3,11 +3,18 @@ professor:
       type: Assistant Professor
       email: mhsung@kaist.ac.kr
       web: https://mhsung.github.io/
+      twitter: https://twitter.com/minhyuksung
+      linkedin: https://www.linkedin.com/in/mhsung
+      github: https://github.com/mhsung
+      cv: https://mhsung.github.io/cv/sung_cv.pdf
 graduates:
     - name: Juil Koo
       type: Ph.D. Student
       email: 63days@kaist.ac.kr
-      web: https://63days.github.io/
+      web: https://63days.github.io/ 
+      twitter: https://twitter.com/63_days
+      linkedin: https://www.linkedin.com/in/juil-koo-260b93221
+      github: https://github.com/63days
     - name: Hyunjin Kim
       type: M.S. Student
       email: rlaguswls98@kaist.ac.kr
@@ -18,17 +25,31 @@ graduates:
     - name: Eunji Hong
       type: M.S. Student
       email: hong969@kaist.ac.kr
+      linkedin: https://www.linkedin.com/in/eunji-hong-15b2a9213
+      github: https://github.com/eunzihong
     - name: Jaihoon Kim
       type: M.S. Student
       email: jh27kim@kaist.ac.kr
+      twitter: https://twitter.com/KimJaihoon
+      linkedin: https://www.linkedin.com/in/jaihoon-kim-8b2920172
+      github: https://github.com/jh27kim
+      cv: https://jh27kim.github.io/assets/files/Curriculum_Vitae.pdf
     - name: Seungwoo Yoo
       type: M.S. Student
       email: dreamy1534@kaist.ac.kr
       web: https://dvelopery0115.github.io/
+      twitter: https://twitter.com/USeungwoo0115
+      linkedin: https://www.linkedin.com/in/seungwoo-y-1a4b49141
+      github: https://github.com/DveloperY0115
+      cv: https://dvelopery0115.github.io/assets/pdf/CV.pdf
     - name: Yuseung Lee
       type: M.S. Student
       email: phillip0701@kaist.ac.kr
       web: https://phillipinseoul.github.io/
+      twitter: https://twitter.com/yuseungleee
+      linkedin: https://www.linkedin.com/in/yuseung-lee-6b085223a
+      github: https://github.com/phillipinseoul
+      cv: https://mhsung.github.io/cv/sung_cv.pdf
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
@@ -36,9 +57,13 @@ graduates:
       type: M.S. Student
       email: charlieppark@kaist.ac.kr
       web: https://charlieppark.kr/
+      twitter: https://twitter.com/_charlieppark
+      linkedin: https://www.linkedin.com/in/charlieppark
+      github: https://github.com/charlieppark
     - name: Taehoon Yoon
       type: M.S. Student
       email: taehoon@kaist.ac.kr
+      github: https://github.com/sillsill777
 undergrads:
     - name: Nguyen M. Hieu
       web: https://min-hieu.github.io
