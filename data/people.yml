@@ -22,6 +22,10 @@ graduates:
       type: M.S. Student
       email: kaist984@kaist.ac.kr
       web: https://soulmates2.github.io/
+      twitter: https://twitter.com/kunho_kim_
+      linkedin: https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EA%B9%80-192897184/
+      github: https://github.com/Soulmates2
+      cv: https://soulmates2.github.io/assets/cv/cv_KunhoKim.pdf
     - name: Eunji Hong
       type: M.S. Student
       email: hong969@kaist.ac.kr
@@ -49,7 +53,6 @@ graduates:
       twitter: https://twitter.com/yuseungleee
       linkedin: https://www.linkedin.com/in/yuseung-lee-6b085223a
       github: https://github.com/phillipinseoul
-      cv: https://mhsung.github.io/cv/sung_cv.pdf
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
