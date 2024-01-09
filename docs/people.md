@@ -41,17 +41,17 @@ hide:
 <img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
 </div>
 <div class="people-description-cell" markdown>
-{% if item.link %}
-<a href="{{ item.link }}" target="_blank">__{{ item.name }}__</a>
+{% if item.web %}
+<a href="{{ item.web }}" target="_blank">__{{ item.name }}__</a>
 {% else %}
 __{{ item.name }}__
 {% endif %}
 
 {{ item.type }}
 
-{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
-&nbsp;
 {% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a> {% endif %}
+&nbsp;
+{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
 </div>
 </div>
 {% endfor %}
@@ -69,17 +69,17 @@ __{{ item.name }}__
 <img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
 </div>
 <div class="people-description-cell" markdown>
-{% if item.link %}
-<a href="{{ item.link }}" target="_blank">__{{ item.name }}__</a>
+{% if item.web %}
+<a href="{{ item.web }}" target="_blank">__{{ item.name }}__</a>
 {% else %}
 __{{ item.name }}__
 {% endif %}
 
 {{ item.type }}
 
-{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
-&nbsp;
 {% if item.web %} <a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a> {% endif %}
+&nbsp;
+{% if item.email %} <a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a> {% endif %}
 </div>
 </div>
 {% endfor %}
