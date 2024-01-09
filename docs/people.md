@@ -97,6 +97,18 @@ __{{ item.name }}__
 {% endfor %}
 </div>
 
+## Visitors
+
+<div class="grid" markdown>
+{% for item in people.visitors %}
+<div class="card" markdown>
+__{{ item.name }}__
+
+{% if item.now %} Now {{ item.now }} {% endif %}
+</div>
+{% endfor %}
+</div>
+
 
 ## Alumni (Undergraduate Students)
 
