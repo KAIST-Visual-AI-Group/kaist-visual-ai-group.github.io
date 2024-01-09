@@ -35,7 +35,7 @@ hide:
 
 <div class="grid" markdown>
 
-{% for item in people.professor %}
+{% set item = people.professor %}
 <div class="card" markdown>
 <div class="people-thumbnail-cell" markdown>
 <img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
@@ -46,7 +46,6 @@ hide:
 {% if item.web %}<a href="{{ item.web }}" target="_blank">:fontawesome-solid-house:</a>&nbsp; {% endif %}{% if item.email %}<a href="mailto:{{ item.email }}" target="_top">:fontawesome-solid-envelope:</a>&nbsp; {% endif %}{% if item.twitter %} <a href="{{ item.twitter }}" target="_blank">:fontawesome-brands-x-twitter:</a>&nbsp; {% endif %}{% if item.linkedin %} <a href="{{ item.linkedin }}" target="_blank">:fontawesome-brands-linkedin:</a>&nbsp; {% endif %}{% if item.github %} <a href="{{ item.github }}" target="_blank">:fontawesome-brands-github:</a>&nbsp; {% endif %}{% if item.cv %} <a href="{{ item.cv }}" target="_blank">:academicons-cv:</a>&nbsp; {% endif %}
 </div>
 </div>
-{% endfor %}
 
 </div>
 

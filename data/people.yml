@@ -1,12 +1,13 @@
 professor:
-    - name: Minhyuk Sung
-      type: Assistant Professor
-      email: mhsung@kaist.ac.kr
-      web: https://mhsung.github.io/
-      twitter: https://twitter.com/minhyuksung
-      linkedin: https://www.linkedin.com/in/mhsung
-      github: https://github.com/mhsung
-      cv: https://mhsung.github.io/cv/sung_cv.pdf
+  name: Minhyuk Sung
+  legacy_name: Min-Hyuk Sung
+  type: Assistant Professor
+  email: mhsung@kaist.ac.kr
+  web: https://mhsung.github.io/
+  twitter: https://twitter.com/minhyuksung
+  linkedin: https://www.linkedin.com/in/mhsung
+  github: https://github.com/mhsung
+  cv: https://mhsung.github.io/cv/sung_cv.pdf
 graduates:
     - name: Juil Koo
       type: Ph.D. Student
