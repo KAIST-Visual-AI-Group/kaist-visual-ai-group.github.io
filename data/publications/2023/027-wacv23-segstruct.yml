@@ -1,0 +1,16 @@
+key: segstruct
+title: "Seg&Struct: The Interplay Between Part Segmentation and Structure Inference for 3D Shape Parsing"
+authors:
+    - name: Junghyun Kim
+    - name: Kaichun Mo
+      link: https://cs.stanford.edu/~kaichun/
+    - name: Minhyuk Sung\*
+    - name: Woontack Woo\*
+      link: https://uvrlab.org/members
+authors_note: co-corresponding authors
+venue: WACV 2023
+#publication_note:
+project: https://sites.google.com/view/segstruct
+arXiv: https://arxiv.org/abs/2211.00382
+poster: https://drive.google.com/file/d/1Uw6Q-5d0ugrMPWgYAyBpeYd3_MnS5HoI/view
+video: https://www.youtube.com/watch?v=bA8LexA7a0Y
