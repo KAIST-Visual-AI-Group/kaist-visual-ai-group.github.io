@@ -1,19 +1,35 @@
-courses:
-  - title: "CS479: Machine Learning for 3D Data"
-    link: https://mhsung.github.io/kaist-cs479-fall-2023/
-    time: Fall 2023
-  - title: "CS380: Introduction to Computer Graphics"
-    link: https://mhsung.github.io/kaist-cs380-spring-2023/
-    time: Spring 2023
-  - title: "CS492(J): Geometric Modeling and Processing"
-    link: https://mhsung.github.io/kaist-cs492j-fall-2022/
-    time: Fall 2022
-  - title: "CS492(A): Machine Learning for 3D Data"
-    link: https://mhsung.github.io/kaist-cs492a-spring-2022/
-    time: Spring 2022
-  - title: "CS492(D): Geometric Modeling and Processing"
-    link: https://mhsung.github.io/kaist-cs492d-fall-2021/
-    time: Fall 2021
-  - title: "CS492(H): Machine Learning for 3D Data"
-    link: https://mhsung.github.io/courses/kaist-cs492h-spring-2021/
-    time: Spring 2021
+years:
+  - year: 2024
+    courses: 
+      - title: "CS580: Computer Graphics"
+        time: Spring 2024
+  - year: 2023
+    courses: 
+      - title: "CS380: Introduction to Computer Graphics"
+        link: https://mhsung.github.io/kaist-cs380-spring-2023/
+        time: Spring 2023
+        desc: This course provides an introduction to the fundamental concepts of computer graphics.
+      - title: "CS479: Machine Learning for 3D Data"
+        link: https://mhsung.github.io/kaist-cs479-fall-2023/
+        time: Fall 2023
+        desc: This course discusses the recent advances in machine learning techniques for 3D data.
+  - year: 2022
+    courses: 
+      - title: "CS492(A): Machine Learning for 3D Data"
+        link: https://mhsung.github.io/kaist-cs492a-spring-2022/
+        time: Spring 2022
+        desc: This course discusses the recent advances in machine learning techniques for 3D data.
+      - title: "CS492(J): Geometric Modeling and Processing"
+        link: https://mhsung.github.io/kaist-cs492j-fall-2022/
+        time: Fall 2022
+        desc: This course discusses fundamental mathematical methods for geometric 3D modeling and geometric data processing.
+  - year: 2022
+    courses: 
+      - title: "CS492(H): Machine Learning for 3D Data"
+        link: https://mhsung.github.io/courses/kaist-cs492h-spring-2021/
+        time: Spring 2021
+        desc: This course discusses the recent advances in machine learning techniques for 3D data.
+      - title: "CS492(D): Geometric Modeling and Processing"
+        link: https://mhsung.github.io/kaist-cs492d-fall-2021/
+        time: Fall 2021
+        desc: This course discusses fundamental mathematical methods for geometric 3D modeling and geometric data processing.

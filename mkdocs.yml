@@ -26,6 +26,7 @@ nav:
   - Home: index.md
   - People: people.md
   - Publications: publications.md
+  - Courses: courses.md
 
 plugins:
     - search
@@ -33,5 +34,6 @@ plugins:
         include_yaml:
           - people: data/people.yml
           - publications: data/publications.yml
+          - courses: data/courses.yml
 
 copyright: Copyright &copy; 2024 KAIST Geometric AI Group
