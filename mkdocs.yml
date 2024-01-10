@@ -27,6 +27,7 @@ nav:
   - People: people.md
   - Publications: publications.md
   - Courses: courses.md
+  - Contact: contact.md
 
 plugins:
     - search
