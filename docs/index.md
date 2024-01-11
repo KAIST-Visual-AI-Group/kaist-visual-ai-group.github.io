@@ -15,16 +15,16 @@ p { text-align: justify; }
 }
 
 .research-highlights-section {
-    display: table-cell;
-    width: 66.7% !important;
+    display: inline-table;
+    width: 66% !important;
     padding: 0 10px 0 0;
     vertical-align: top;
     p { margin: 0px; }
 }
 
 .news-section {
-    display: table-cell;
-    width: 33.3% !important;
+    display: inline-table;
+    width: 33% !important;
     padding: 0 0 0 10px;
     vertical-align: top;
     p { margin: 0px; }
@@ -33,6 +33,16 @@ p { text-align: justify; }
 .research-highlight-thumbnail {
     width: 80px;
     width: calc(70% - 12px) !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .research-highlights-section {
+        width: 100% !important;
+    }
+
+    .news-section {
+        width: 100% !important;
+    }
 }
 </style>
 
