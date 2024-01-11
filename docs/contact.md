@@ -19,7 +19,7 @@ mhsung (at) kaist.ac.kr
 
 ## Travel Information
 
-[how to get to kAIST](https://www.kaist.ac.kr/en/html/kaist/01200201.html){ .md-button target="_blank" }
+[How to get to KAIST](https://www.kaist.ac.kr/en/html/kaist/01200201.html){ .md-button target="_blank" }
 
 [How to get to the KAIST Campus from Daejeon Station](https://mhsung.github.io/gvc-workshop-2022/assets/daejeon_station_to_KAIST.pdf){ .md-button target="_blank" }
 
