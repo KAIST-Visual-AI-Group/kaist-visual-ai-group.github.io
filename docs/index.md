@@ -80,7 +80,7 @@ KAIST Geometric AI Lab led by Prof. Minhyuk Sung focuses on developing novel mac
 
 <div class="swiper-slide">
 <div class="card" markdown>
-<img src="../assets/teasers/syncdiffusion-teaser.png" markdown>
+<img src="./assets/teasers/syncdiffusion-teaser.png" markdown>
 <b> SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions </b><br>
 A plug-and-play module that synchronizes multiple reverse diffusion processes, producing coherent images of various sizes without additional training.
 <p></p><br>
@@ -89,7 +89,7 @@ A plug-and-play module that synchronizes multiple reverse diffusion processes, p
 
 <div class="swiper-slide">
 <div class="card" markdown>
-<img src="../assets/teasers/salad-teaser.png" markdown>
+<img src="./assets/teasers/salad-teaser.png" markdown>
 <b> SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation </b><br>
 A cascaded diffusion model based on a part-level implicit 3D representation.
 <br><br>

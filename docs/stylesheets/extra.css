@@ -4,6 +4,10 @@
   --md-primary-fg-color--dark:  #0D001A;
 }
 
+:root {
+  --md-accent-fg-color:         #820000;
+}
+
 /* Thin */
 @font-face {
     font-family: 'Proxima Nova';
@@ -50,6 +54,11 @@
     src: url(./proxima-nova/Proxima Nova Black.ttf) format('opentype');
     font-style: normal;
     font-weight: 900;
+}
+
+
+.md-typeset h1 {
+  margin-top: 0;
 }
 
 .md-typeset h1,
