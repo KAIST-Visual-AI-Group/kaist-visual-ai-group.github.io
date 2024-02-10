@@ -28,7 +28,6 @@ nav:
   - Publications: publications.md
   - Courses: courses.md
   - Contact: contact.md
-  - Test: test.md
 
 plugins:
     - search

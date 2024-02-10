@@ -7,60 +7,29 @@ hide:
 <style>
 p { text-align: justify; }
 
-.md-typeset h1 { margin: 0; }
-
-.md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(90%, 1fr))
-}
-
-.research-highlights-section {
-    display: inline-table;
-    width: 66% !important;
-    padding: 0 10px 0 0;
-    vertical-align: top;
-    p { margin: 0px; }
-}
-
-.news-section {
-    display: inline-table;
-    width: 33% !important;
-    padding: 0 0 0 10px;
-    vertical-align: top;
-    p { margin: 0px; }
-}
-
-.research-highlight-thumbnail {
-    width: 80px;
-    width: calc(70% - 12px) !important;
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 1rem;
 }
 
 .swiper {
-  width: 100%;
-  height: 100%;
+    width: 100%;
+    height: 100%;
 }
 
 .swiper-slide {
-  text-align: center;
-  font-size: 18px;
-  background: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    margin-bottom: 1em;
 }
 
-.swiper-slide img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.news-section {
+    justify-items: center;
+    align-items: center;
 }
 
 @media only screen and (max-width: 600px) {
-    .research-highlights-section {
-        width: 100% !important;
-    }
-
-    .news-section {
-        width: 100% !important;
+    .container {
+        grid-template-columns: 1fr;
     }
 }
 </style>
@@ -71,34 +40,56 @@ KAIST Geometric AI Lab led by Prof. Minhyuk Sung focuses on developing novel mac
 
 <!-- Link Swiper's CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-<br>
+
+<div class="container" markdown>
 
 
-<!-- Swiper -->
-<div class="swiper research-highlights-swiper">
-<div class="swiper-wrapper">
+<!-- Researh Highlights -->
+<div class="swiper research-highlights-swiper" markdown>
 
-<div class="swiper-slide">
+## Researh Highlights
+<div class="swiper-wrapper" markdown>
+
+
+<div class="swiper-slide" markdown>
 <div class="card" markdown>
-<img src="./assets/teasers/syncdiffusion-teaser.png" markdown>
-<b> SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions </b><br>
-A plug-and-play module that synchronizes multiple reverse diffusion processes, producing coherent images of various sizes without additional training.
-<p></p><br>
-</div>
-</div>
-
-<div class="swiper-slide">
-<div class="card" markdown>
+<center markdown>
 <img src="./assets/teasers/salad-teaser.png" markdown>
-<b> SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation </b><br>
-A cascaded diffusion model based on a part-level implicit 3D representation.
-<br><br>
+<b>SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation<br>(ICCV 2023)</b><br>
+A cascaded diffusion model based on a part-level implicit 3D representation.<br>
+</center>
 </div>
 </div>
+
+<div class="swiper-slide" markdown>
+<div class="card" markdown>
+<center markdown>
+<img src="./assets/teasers/syncdiffusion-teaser.png" markdown>
+<b> SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions (NeurIPS 2023)</b><br>
+A plug-and-play module that synchronizes multiple reverse diffusion processes, producing coherent images of various sizes without additional training.<br>
+</center>
+</div>
+</div>
+
 
 </div>
 <div class="swiper-pagination"></div>
 </div>
+
+
+<!-- News -->
+<div class="news-section" markdown>
+## News
+- __[Jan 2024]__ One paper has been accepted to 3DV 2024.
+- __[Sep 2023]__ Two papers accepted to NeurIPS 2023.
+- __[Jul 2023]__ One paper has been accepted to Pacific Graphics 2023.
+
+__View all__
+</div>
+
+
+</div>
+
 
 
 <!-- Swiper JS -->
@@ -107,11 +98,16 @@ A cascaded diffusion model based on a part-level implicit 3D representation.
 <!-- Initialize Swiper -->
 <script>
 var swiper = new Swiper(".research-highlights-swiper", {
-  spaceBetween: 30,
-  pagination: {
-    el: ".swiper-pagination",
-    clickable: true,
-  },
+    spaceBetween: 30,
+    centeredSlides: true,
+    autoplay: {
+        delay: 4000,
+        disableOnInteraction: false,
+    },
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+    },
 });
 </script>
 
