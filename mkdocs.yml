@@ -2,12 +2,14 @@ site_name: KAIST Visual AI Group
 
 theme:
   name: material
-  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.tabs.sticky
   font: false
   primary: custom
+  icon:
+    logo: material/safety-goggles
+  favicon: material/safety-goggles
 
 extra_css:
   - stylesheets/extra.css
@@ -41,4 +43,4 @@ plugins:
           - research_highlights: data/research_highlights.yml
           - news: data/news.yml
 
-copyright: Copyright &copy; 2024 KAIST Visual AI Group
+copyright: Copyright &copy; 2021 - 2024 KAIST Visual AI Group

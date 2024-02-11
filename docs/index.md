@@ -81,10 +81,12 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 <div class="section" markdown>
 ## News
 {% for item in news %}
+{% if loop.index <= 3 %}
 - __[{{ item.time }}]__ {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+{% endif %}
 {% endfor %}
 
-__View all__
+[__View all__](../news)
 </div>
 
 <!-- 3D Gallery -->
