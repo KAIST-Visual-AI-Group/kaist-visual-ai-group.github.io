@@ -7,9 +7,13 @@ hide:
 <style>
 p { text-align: justify; }
 
+.md-typeset h2 {
+    margin: 1em 0 0 0;
+}
+
 .container {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;
 }
 
@@ -22,7 +26,7 @@ p { text-align: justify; }
     margin-bottom: 1em;
 }
 
-.news-section {
+.section {
     justify-items: center;
     align-items: center;
 }
@@ -35,14 +39,14 @@ p { text-align: justify; }
 </style>
 
 
-# KAIST Geometric AI Group
-KAIST Geometric AI Lab led by Prof. Minhyuk Sung focuses on developing novel machine learning techniques to solve fundamental problems in 3D geometric data processing and analysis. The 3D data, arising both from sensing the real world as well as in creating content by designers, are widely used in numerous applications in computer vision, computer graphics, and robotics. 3D data is distinguished from the other data modalities by its unique characteristics, such as sparsity, irregularity, fidelity (representing 3D objects as they present in the real world), and their roles as domains wherein the other information is defined (such as physical attributes and semantic annotations). Such characteristics introduce challenging research problems, which cannot be directly solved with conventional techniques developed to process regularly sampled signal data like audio and images. Our goal is to develop novel methodologies specialized in 3D based upon a profound understanding of its nature.
+{% set professor = people.professor %}
+
+
+# {{ config.site_name }}
+The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">__{{ professor.name }}__</a>, focuses on researching and advancing AI technologies specialized in processing, analyzing, and generalizing a variety of visual data, including 2D images and videos, 3D shapes, and 4D animations of 3D objects.
 
 <!-- Link Swiper's CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-
-<div class="container" markdown>
-
 
 <!-- Researh Highlights -->
 <div class="swiper research-highlights-swiper" markdown>
@@ -50,43 +54,44 @@ KAIST Geometric AI Lab led by Prof. Minhyuk Sung focuses on developing novel mac
 ## Researh Highlights
 <div class="swiper-wrapper" markdown>
 
-
+{% for paper in research_highlights %}
 <div class="swiper-slide" markdown>
+
+<a href="{{ paper.link }}" target=_blank>
 <div class="card" markdown>
 <center markdown>
-<img src="./assets/teasers/salad-teaser.png" markdown>
-<b>SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation<br>(ICCV 2023)</b><br>
-A cascaded diffusion model based on a part-level implicit 3D representation.<br>
+<img src="./assets/teasers/{{ paper.key }}-teaser.png" markdown>
+<b>{{ paper.title }} ({{ paper.venue }})</b><br>
+{{ paper.desc }}<br>
 </center>
 </div>
-</div>
+</a>
 
-<div class="swiper-slide" markdown>
-<div class="card" markdown>
-<center markdown>
-<img src="./assets/teasers/syncdiffusion-teaser.png" markdown>
-<b> SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions (NeurIPS 2023)</b><br>
-A plug-and-play module that synchronizes multiple reverse diffusion processes, producing coherent images of various sizes without additional training.<br>
-</center>
 </div>
-</div>
-
+{% endfor %}
 
 </div>
 <div class="swiper-pagination"></div>
 </div>
 
 
+<div class="container" markdown>
+
 <!-- News -->
-<div class="news-section" markdown>
+<div class="section" markdown>
 ## News
-- __[Jan 2024]__ One paper has been accepted to 3DV 2024.
-- __[Sep 2023]__ Two papers accepted to NeurIPS 2023.
-- __[Jul 2023]__ One paper has been accepted to Pacific Graphics 2023.
+{% for item in news %}
+- __[{{ item.time }}]__ {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+{% endfor %}
 
 __View all__
 </div>
 
+<!-- 3D Gallery -->
+<div class="section" markdown>
+## 3D Gallery
+
+</div>
 
 </div>
 
@@ -101,7 +106,7 @@ var swiper = new Swiper(".research-highlights-swiper", {
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
-        delay: 4000,
+        delay: 5000,
         disableOnInteraction: false,
     },
     pagination: {

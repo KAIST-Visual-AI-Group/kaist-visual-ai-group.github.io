@@ -49,11 +49,12 @@ hide:
 
 # Publications
 
-<div class="grid" markdown>
 
 {% for year in publications.years %}
 
 ## {{ year.year }}
+
+<div class="grid" markdown>
 
 {% for paper in year.papers %}
 
@@ -77,10 +78,9 @@ hide:
 
 {% endfor %}
 
-<br>
+</div>
 
 {% endfor %}
 
-</div>
 
 

@@ -17,17 +17,6 @@ graduates:
       linkedin: https://www.linkedin.com/in/juil-koo-260b93221
       github: https://github.com/63days
       cv: https://63days.github.io/assets/CV.pdf
-    - name: Hyunjin Kim
-      type: M.S. Student
-      email: rlaguswls98@kaist.ac.kr
-    - name: Kunho Kim
-      type: M.S. Student
-      email: kaist984@kaist.ac.kr
-      web: https://soulmates2.github.io/
-      twitter: https://twitter.com/kunho_kim_
-      linkedin: https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EA%B9%80-192897184/
-      github: https://github.com/Soulmates2
-      cv: https://soulmates2.github.io/assets/cv/cv_KunhoKim.pdf
     - name: Eunji Hong
       type: M.S. Student
       email: hong969@kaist.ac.kr
@@ -80,9 +69,18 @@ undergrads:
     - name: Sanghwa Hong
     - name: Yonghee Oh
     - name: Yuxin Jiang
-alumni_visitors:
-    - name: Jihyeon Je
-      now: Ph.D. Student at Stanford
+alumni_graduates:
+    - name: Hyunjin Kim
+      type: M.S. Student
+      email: rlaguswls98@kaist.ac.kr
+    - name: Kunho Kim
+      type: M.S. Student
+      email: kaist984@kaist.ac.kr
+      web: https://soulmates2.github.io/
+      twitter: https://twitter.com/kunho_kim_
+      linkedin: https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EA%B9%80-192897184/
+      github: https://github.com/Soulmates2
+      cv: https://soulmates2.github.io/assets/cv/cv_KunhoKim.pdf
 alumni_undergrads:
     - name: Baha E. Yaldiz
     - name: Mirali Ahmadli
@@ -99,4 +97,7 @@ alumni_undergrads:
     - name: Seungyeol Lee
     - name: Hyun-Jin Kim
     - name: Taeyeon Kim
-
+visitors:
+    - name: Jihyeon Je
+      period: Jun 2023 - Aug 2023
+      now: Ph.D. Student at Stanford

@@ -1,0 +1,11 @@
+- key: syncdiffusion
+  title: "SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions"
+  venue: NeurIPS 2023
+  desc: A zero-shot plug-and-play module that synchronizes multiple reverse diffusion processes, producing coherent images of various sizes.
+  link: https://syncdiffusion.github.io/
+
+- key: salad
+  title: "SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation"
+  venue: ICCV 2023
+  link: https://salad3d.github.io/
+  desc: A cascaded diffusion model based on a part-level implicit 3D representation.

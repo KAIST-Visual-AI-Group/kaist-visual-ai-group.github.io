@@ -1,4 +1,5 @@
-site_name: KAIST Geometric AI Group
+site_name: KAIST Visual AI Group
+
 theme:
   name: material
   custom_dir: overrides
@@ -27,6 +28,7 @@ nav:
   - People: people.md
   - Publications: publications.md
   - Courses: courses.md
+  - News: news.md
   - Contact: contact.md
 
 plugins:
@@ -36,5 +38,7 @@ plugins:
           - people: data/people.yml
           - publications: data/publications.yml
           - courses: data/courses.yml
+          - research_highlights: data/research_highlights.yml
+          - news: data/news.yml
 
-copyright: Copyright &copy; 2024 KAIST Geometric AI Group
+copyright: Copyright &copy; 2024 KAIST Visual AI Group

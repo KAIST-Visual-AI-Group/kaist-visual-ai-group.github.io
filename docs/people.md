@@ -80,16 +80,24 @@ __{{ item.name }}__
 {% endfor %}
 </div>
 
-## Alumni Visitors
+
+## Alumni Graduate Students
 
 <div class="grid" markdown>
-{% for item in people.alumni_visitors %}
-<div class="card" markdown>
-__{{ item.name }}__
 
+{% for item in people.alumni_graduates %}
+<div class="card" markdown>
+<div class="people-thumbnail-cell" markdown>
+<img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
+</div>
+<div class="people-description-cell" markdown>
+{% if item.web %}<a href="{{ item.web }}" target="_blank">__{{ item.name }}__</a>{% else %}__{{ item.name }}__{% endif %}<br>
+{{ item.type }}<br>
 {% if item.now %} Now {{ item.now }} {% endif %}
 </div>
+</div>
 {% endfor %}
+
 </div>
 
 
@@ -104,3 +112,14 @@ __{{ item.name }}__
 </div>
 
 
+## Visitors
+
+<div class="grid" markdown>
+{% for item in people.visitors %}
+<div class="card" markdown>
+__{{ item.name }}__<br>
+{% if item.period %} {{ item.period }}<br> {% endif %}
+{% if item.now %} Now {{ item.now }} {% endif %}
+</div>
+{% endfor %}
+</div>
