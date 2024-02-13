@@ -2,7 +2,9 @@ years:
   - year: 2024
     courses: 
       - title: "CS580: Computer Graphics"
+        link: https://mhsung.github.io/kaist-cs580-spring-2024/
         time: Spring 2024
+        desc: This course covers advanced topics in computer graphics, focusing on rendering.
   - year: 2023
     courses: 
       - title: "CS380: Introduction to Computer Graphics"
