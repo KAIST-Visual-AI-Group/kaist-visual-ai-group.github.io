@@ -48,13 +48,6 @@ graduates:
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
-    - name: Chanho Park
-      type: M.S. Student
-      email: charlieppark@kaist.ac.kr
-      web: https://charlieppark.kr/
-      twitter: https://twitter.com/_charlieppark
-      linkedin: https://www.linkedin.com/in/charlieppark
-      github: https://github.com/charlieppark
     - name: Taehoon Yoon
       type: M.S. Student
       email: taehoon@kaist.ac.kr
@@ -97,6 +90,13 @@ alumni_undergrads:
     - name: Seungyeol Lee
     - name: Hyun-Jin Kim
     - name: Taeyeon Kim
+    - name: Chanho Park
+      type: M.S. Student
+      email: charlieppark@kaist.ac.kr
+      web: https://charlieppark.kr/
+      twitter: https://twitter.com/_charlieppark
+      linkedin: https://www.linkedin.com/in/charlieppark
+      github: https://github.com/charlieppark
 visitors:
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023
