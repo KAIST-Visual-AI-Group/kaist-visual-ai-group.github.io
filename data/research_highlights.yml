@@ -3,9 +3,18 @@
   venue: NeurIPS 2023
   desc: A zero-shot plug-and-play module that synchronizes multiple reverse diffusion processes, producing coherent images of various sizes.
   link: https://syncdiffusion.github.io/
-
 - key: salad
   title: "SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation"
   venue: ICCV 2023
   link: https://salad3d.github.io/
   desc: A cascaded diffusion model based on a part-level implicit 3D representation.
+- key: partglot
+  title: "PartGlot: Learning Shape Part Segmentation from Language Reference Games"
+  venue: CVPR 2022 (Oral)
+  link: https://mhsung.github.io/publications/partglot
+  desc: A neural framework for learning semantic part segmentation of 3D shape geometry based solely on part referential language.
+- key: optctrlpoints
+  title: "OptCtrlPoints: Finding the Optimal Control Points for Biharmonic 3D Shape Deformation"
+  venue: Pacific Graphics 2023
+  link: https://soulmates2.github.io/publications/OptCtrlPoints/
+  desc: A data-driven framework identifying the optimal sparse set of control points for biharmonic 3D shape deformation.

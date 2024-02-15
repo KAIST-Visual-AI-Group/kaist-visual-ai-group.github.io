@@ -8,7 +8,7 @@ hide:
 p { text-align: justify; }
 
 .md-typeset h2 {
-    margin: 1em 0 0 0;
+    margin: 0.5em 0 0 0;
 }
 
 .container {
@@ -92,6 +92,8 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 <!-- 3D Gallery -->
 <div class="section" markdown>
 ## 3D Gallery
+
+<iframe width="100%" height="280em" marginheight="20em" src="./assets/gallery/example.html" frameborder="0" scrolling="no"></iframe>
 
 </div>
 

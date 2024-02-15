@@ -55,13 +55,8 @@ graduates:
 undergrads:
     - name: Nguyen M. Hieu
       web: https://min-hieu.github.io
-    - name: Changmin Yoon
-    - name: Jaehyeong Park
-    - name: Jung Yi
     - name: Kyeongmin Yeo
-    - name: Sanghwa Hong
-    - name: Yonghee Oh
-    - name: Yuxin Jiang
+
 alumni_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -78,6 +73,7 @@ alumni_undergrads:
     - name: Baha E. Yaldiz
     - name: Mirali Ahmadli
     - name: Nauryzbay Koishekenov
+    - name: Changmin Yoon
     - name: Donghwan Kim
     - name: Chanhyeok Park
     - name: Hyunho Yang
@@ -97,6 +93,11 @@ alumni_undergrads:
       twitter: https://twitter.com/_charlieppark
       linkedin: https://www.linkedin.com/in/charlieppark
       github: https://github.com/charlieppark
+    - name: Jaehyeong Park
+    - name: Jung Yi
+    - name: Sanghwa Hong
+    - name: Yonghee Oh
+    - name: Yuxin Jiang
 visitors:
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023
