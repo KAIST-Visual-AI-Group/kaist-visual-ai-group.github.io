@@ -26,9 +26,18 @@ p { text-align: justify; }
     margin-bottom: 1em;
 }
 
-.section {
+.news {
     justify-items: center;
     align-items: center;
+}
+
+.gallery {
+    justify-items: center;
+    align-items: center;
+}
+
+.gallery h2 {
+    margin: 0.5em 0 0.5em 0;
 }
 
 @media only screen and (max-width: 600px) {
@@ -78,7 +87,7 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 <div class="container" markdown>
 
 <!-- News -->
-<div class="section" markdown>
+<div class="news" markdown>
 ## News
 {% for item in news %}
 {% if loop.index <= 3 %}
@@ -86,14 +95,14 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 {% endif %}
 {% endfor %}
 
-[__View all__](../news)
+[__View all__](news.md)
 </div>
 
 <!-- 3D Gallery -->
-<div class="section" markdown>
+<div class="gallery" markdown>
 ## 3D Gallery
 
-<iframe width="100%" height="280em" marginheight="20em" src="./assets/gallery/example.html" frameborder="0" scrolling="no"></iframe>
+<iframe width="100%" height="240em" src="./assets/gallery/nupzuki.html" frameborder="0" scrolling="no"></iframe>
 
 </div>
 
