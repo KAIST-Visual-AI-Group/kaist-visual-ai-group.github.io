@@ -731,16 +731,7 @@ void main () {
 
 `.trim();
 
-//let defaultViewMatrix = [
-//    0.7149813783807665, 0.001274576727314298, -0.6991423345949099, 0,
-//    -0.008715746487168118, 0.99993688000384, -0.007090258901065894, 0,
-//    0.6990891676544845, 0.011162950428943904, 0.7149473576465687, -0,
-//    0.009698117452394524, 0.23767216996073245, 4.200771851259573, 0.999999999999857]
-//;
-
-//let defaultViewMatrix = [0.7250955142200447, 0.0008016819724615412, -0.688647843650053, 0, -0.01014773861509558, 0.9999031842389345, -0.009520795647188425, 0, 0.6885735390347866, 0.013891704530799421, 0.7250334488051707, -0, 0.00948765389242452, 0.23755559636115942, 7.300289475630149, 0.9999999999998535];
-
-let defaultViewMatrix = [0.6964256086171294, 0.0008016819724612522, -0.7176285452573338, 0, -0.0105273482816454, 0.9999031842389363, -0.009099290462050364, 0, 0.7175517727665134, 0.013891704530799812, 0.6963666232272068, -0, 0.009322030091387287, 0.2375555963611552, 9.599906000611217, 0.9999999999998537];
+let defaultViewMatrix = [-0.8899561608609746, -0.17517121236650618, 0.4210618459366187, 0, -0.060400682658013904, 0.9604289002399675, 0.2718971958631998, 0, -0.4520285270643733, 0.21654416164348342, -0.8653200776465375, 0, -0.07849438220251653, 0.5163347939300488, 13.602223905852199, 0.9999999999996931];
 let viewMatrix = defaultViewMatrix;
 async function main() {
     // let carousel = false; //juil
@@ -754,7 +745,7 @@ async function main() {
         // "nike.splat",
         // location.href,
         //params.get("url") || "train.splat",
-        params.get("url") || "gs_nerfzooki.splat",
+        params.get("url") || "gs_duck_nupzupki.splat",
         //"https://huggingface.co/cakewalk/splat-data/resolve/main/",
 			  "https://huggingface.co/datasets/63days/splat/resolve/main/",
     );
@@ -927,15 +918,15 @@ async function main() {
     let activeKeys = [];
 	let currentCameraIndex = 0;
 
-    //window.addEventListener("keydown", (e) => {
-    //    // if (document.activeElement != document.body) return;
-    //    carousel = false;
-    //    if (!activeKeys.includes(e.code)) activeKeys.push(e.code);
-    //    if (/\d/.test(e.key)) {
-    //        currentCameraIndex = parseInt(e.key)
-    //        camera = cameras[currentCameraIndex];
-    //        viewMatrix = getViewMatrix(camera);
-    //    }
+		//window.addEventListener("keydown", (e) => {
+		//    // if (document.activeElement != document.body) return;
+		//    carousel = false;
+		//    if (!activeKeys.includes(e.code)) activeKeys.push(e.code);
+		//    if (/\d/.test(e.key)) {
+		//        currentCameraIndex = parseInt(e.key)
+		//        camera = cameras[currentCameraIndex];
+		//        viewMatrix = getViewMatrix(camera);
+		//    }
 		//if (['-', '_'].includes(e.key)){
 		//  currentCameraIndex = (currentCameraIndex + cameras.length - 1) % cameras.length;
 		//  viewMatrix = getViewMatrix(cameras[currentCameraIndex]);
@@ -944,25 +935,25 @@ async function main() {
 		//  currentCameraIndex = (currentCameraIndex + 1) % cameras.length;
 		//  viewMatrix = getViewMatrix(cameras[currentCameraIndex]);
 		//}
-    //    //camid.innerText = "cam  " + currentCameraIndex;
-    //    if (e.code == "KeyV") {
-    //        location.hash =
-    //            "#" +
-    //            JSON.stringify(
-    //                viewMatrix.map((k) => Math.round(k * 100) / 100),
-    //            );
-    //            //camid.innerText =""
-    //    } else if (e.code === "KeyP") {
-    //        carousel = true;
-    //        //camid.innerText =""
-    //    }
+		//    //camid.innerText = "cam  " + currentCameraIndex;
+		//    if (e.code == "KeyV") {
+		//        location.hash =
+		//            "#" +
+		//            JSON.stringify(
+		//                viewMatrix.map((k) => Math.round(k * 100) / 100),
+		//            );
+		//            //camid.innerText =""
+		//    } else if (e.code === "KeyP") {
+		//        carousel = true;
+		//        //camid.innerText =""
+		//    }
+		//});
+		//window.addEventListener("keyup", (e) => {
+		//    activeKeys = activeKeys.filter((k) => k !== e.code);
+		//});
+    //window.addEventListener("blur", () => {
+    //    activeKeys = [];
     //});
-    //window.addEventListener("keyup", (e) => {
-    //    activeKeys = activeKeys.filter((k) => k !== e.code);
-    //});
-    window.addEventListener("blur", () => {
-        activeKeys = [];
-    });
 
     //window.addEventListener(
     //    "wheel",
@@ -1111,16 +1102,17 @@ async function main() {
                 startX = e.touches[0].clientX;
                 startY = e.touches[0].clientY;
                 down = 1;
-            } else if (e.touches.length === 2) {
-                // console.log('beep')
-                carousel = false;
-                startX = e.touches[0].clientX;
-                altX = e.touches[1].clientX;
-                startY = e.touches[0].clientY;
-                altY = e.touches[1].clientY;
-                down = 1;
-            }
-        },
+            } 
+				//  else if (e.touches.length === 2) {
+        //        // console.log('beep')
+        //        carousel = false;
+        //        startX = e.touches[0].clientX;
+        //        altX = e.touches[1].clientX;
+        //        startY = e.touches[0].clientY;
+        //        altY = e.touches[1].clientY;
+        //        down = 1;
+        //    }
+				},
         { passive: false },
     );
     canvas.addEventListener(
@@ -1132,13 +1124,11 @@ async function main() {
                 let dx = (4 * (e.touches[0].clientX - startX)) / innerWidth;
                 let dy = (4 * (e.touches[0].clientY - startY)) / innerHeight;
 
-                //let d = 4;
-								//juil: fix the distance.
+                //let d = 4; //juil: fix the distance.
 								let cam_x = inv[12];
 								let cam_y = inv[13];
 								let cam_z = inv[14];
 								let d = Math.sqrt(cam_x ** 2 + cam_y ** 2 + cam_z ** 2);
-
                 inv = translate4(inv, 0, 0, d);
                 // inv = translate4(inv,  -x, -y, -z);
                 // inv = translate4(inv,  x, y, z);
