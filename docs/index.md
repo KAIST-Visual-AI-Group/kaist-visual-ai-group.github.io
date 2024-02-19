@@ -102,7 +102,7 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 <div class="gallery" markdown>
 ## 3D Gallery
 
-<iframe width="100%" height="240em" src="./assets/gallery/nupzuki.html" frameborder="0" scrolling="no"></iframe>
+<iframe width="100%" height="240em" src="./assets/gallery/nupzuki1.html" frameborder="0" scrolling="no"></iframe>
 
 </div>
 
