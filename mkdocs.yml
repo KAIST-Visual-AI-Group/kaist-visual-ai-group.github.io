@@ -11,6 +11,11 @@ theme:
     logo: material/safety-goggles
   favicon: material/safety-goggles
 
+extra:
+  analytics:
+    provider: google
+    property: G-823443TVP0
+
 extra_css:
   - stylesheets/extra.css
 
