@@ -1,6 +1,52 @@
 years:
   - year: 2024
     papers:
+      - name: 037-cvpr24-pds
+        key: pds
+        title: "Posterior Distillation Sampling"
+        authors:
+            - name: Juil Koo
+              link: https://63days.github.io/
+            - name: Chanho Park
+              link: https://github.com/charlieppark
+            - name: Minhyuk Sung
+        venue: CVPR 2024
+        project: https://posterior-distillation-sampling.github.io/
+        arXiv: https://arxiv.org/abs/2311.13831
+        pdf: https://posterior-distillation-sampling.github.io/static/assets/pds.pdf
+        code: https://github.com/KAIST-Visual-AI-Group/PDS
+        hugging_face: https://huggingface.co/KAIST-Visual-AI-Lab
+      - name: 036-cvpr24-apap
+        key: apap
+        title: "As-Plausible-As-Possible: Semantic-Aware Shape Deformation using 2D Diffusion Priors"
+        authors:
+            - name: Seungwoo Yoo\*
+              link: https://dvelopery0115.github.io/
+            - name: Kunho Kim\*
+              link: https://soulmates2.github.io/
+            - name: Vladimir Kim
+              link: http://www.vovakim.com/
+            - name: Minhyuk Sung
+        authors_note: co-first authors
+        venue: CVPR 2024
+        project: https://as-plausible-as-possible.github.io
+        arXiv: https://arxiv.org/abs/2311.16739
+        pdf: https://as-plausible-as-possible.github.io/static/APAP.pdf
+        code: https://github.com/KAIST-Visual-AI-Group/APAP
+      - name: 035-cvpr24-interhandgen
+        key: interhandgen
+        title: "InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion"
+        authors:
+            - name: Jihyun Lee
+              link: https://jyunlee.github.io/
+            - name: Shunsuke Saito
+              link: https://shunsukesaito.github.io/
+            - name: Giljoo Nam
+              link: https://sites.google.com/view/gjnam
+            - name: Minhyuk Sung
+            - name: Tae-Kyun Kim
+              link: https://sites.google.com/view/tkkim/
+        venue: CVPR 2024
       - name: 034-3dv24-smart
         key: smart
         title: "Split, Merge, and Refine: Fitting Tight Bounding Boxes via Learned Over-Segmentation and Iterative Search"
@@ -78,7 +124,7 @@ years:
         arXiv: https://arxiv.org/abs/2303.12236
         pdf: https://salad3d.github.io/assets/salad.pdf
         code: https://github.com/63days/salad
-        hugging_face: https://huggingface.co/spaces/KAIST-Geometric-AI-Lab/salad-demo
+        hugging_face: https://huggingface.co/spaces/KAIST-Visual-AI-Lab/salad-demo
       - name: 029-cvpr23-im2hands
         key: im2hands
         title: "Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes"
