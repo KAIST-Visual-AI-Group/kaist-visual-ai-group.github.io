@@ -69,6 +69,8 @@ hide:
 <a href="{{ paper.arXiv }}" target=_blank>__{{ paper.title }}__</a>
 {% elif paper.link %}
 <a href="{{ paper.link }}" target=_blank>__{{ paper.title }}__</a>
+{% else %}
+__{{ paper.title }}__
 {% endif %}<br>
 {% for author in paper.authors %}{% if author.name == people.professor.name %}<a href="{{ people.professor.web }}" target=_blank>{{ author.name }}</a>{% elif author.name == people.professor.legacy_name %}<a href="{{ people.professor.web }}" target=_blank>{{ author.name }}</a>{% elif author.link %}<a href="{{ author.link }}" target=_blank>{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{{ ", " if not loop.last else "" }}{% endfor %}{% if paper.authors_note %} (\* {{ paper.authors_note }}){% endif %}<br>
 {{ paper.venue }} {% if paper.publication_note %}__({{ paper.publication_note }})__{% endif %}<br>
