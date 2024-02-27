@@ -4,7 +4,7 @@
   desc: A novel optimization method for editing parameterized images, applicable to NeRF, 3D Gaussian Splatting, and SVG.
   link: https://posterior-distillation-sampling.github.io/
 - key: apap
-  title: "As-Plausible-As-Possible: Semantic-Aware Shape Deformation using 2D Diffusion Priors"
+  title: "As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors"
   venue: CVPR 2024
   desc: A plausibility-aware mesh deformation framework integrating Jacobian-based geometry representation and generative image priors.
   link: https://as-plausible-as-possible.github.io/
