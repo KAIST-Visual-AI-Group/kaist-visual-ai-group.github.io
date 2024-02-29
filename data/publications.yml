@@ -47,6 +47,7 @@ years:
             - name: Tae-Kyun Kim
               link: https://sites.google.com/view/tkkim/
         venue: CVPR 2024
+        project: https://jyunlee.github.io/projects/interhandgen/
       - name: 034-3dv24-smart
         key: smart
         title: "Split, Merge, and Refine: Fitting Tight Bounding Boxes via Learned Over-Segmentation and Iterative Search"
