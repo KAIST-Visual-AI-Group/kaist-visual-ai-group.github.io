@@ -57,10 +57,10 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 <!-- Link Swiper's CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
-<!-- Researh Highlights -->
+<!-- Research Highlights -->
 <div class="swiper research-highlights-swiper" markdown>
 
-## Researh Highlights
+## Research Highlights
 <div class="swiper-wrapper" markdown>
 
 {% for paper in research_highlights %}
