@@ -46,6 +46,11 @@ __We’re looking for undergraduate interns who are interested in building cutti
 - Shape editing/deformation
 - Neural rendering
 
+### What You'll Do
+As an intern, you'll actively engage in hands-on research activities within our lab. The list includes but is not limited to:
+
+- Weekly Meetings: In-depth discussions on technical papers led by two student presenters every week
+- Paper Digest Meetings: Light-weight meetings where we briefly scheme through recently uploaded/published papers
 
 ### Resources
 To find more information about our research, visit the followings:
