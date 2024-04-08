@@ -1,0 +1,94 @@
+---
+hide:
+  - navigation
+  - toc
+
+application_link: https://research.typeform.com/to/MVWvTGvK
+ml3d_link: https://mhsung.github.io/kaist-cs479-fall-2023/
+talk_link: https://kaistackr-my.sharepoint.com/:b:/g/personal/mhsung_kaist_ac_kr/EY5JBy6P7D1DlipHY7chcmwBOEFaUNdLvrou5MpQMgVv3w?e=SLcCde
+map_link: https://goo.gl/maps/Cv7wKzf4jhA1ezuh7
+---
+
+<style>
+p { text-align: justify; }
+
+.md-typeset h3 {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+.md-typeset ul li {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+</style>
+
+
+# Call for Internship
+
+### Internship Period: July 1, 2024 - August 30, 2024.
+### Application Deadline: Sunday, April 28, 2024, 23:59 KST.
+
+<br />
+[Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
+<br />
+<br />
+
+
+__We’re looking for undergraduate interns who are interested in building cutting-edge machine learning technologies for visual data!__
+
+
+### Research Topics
+- Diffusion models
+- 3D generative models
+- Video generative models
+- Multimodal LLMs
+- Graph generative models
+- Shape editing/deformation
+- Neural rendering
+
+
+### Resources
+To find more information about our research, visit the followings:
+
+- [Publications Tab](publications.md){:target="_blank}
+- [Machine Learning for 3D Data Course Webpage]({{page.meta.ml3d_link}}){:target="_blank}
+- [Minhyuk's Recent Talk]({{page.meta.talk_link}}){:target="_blank}
+
+
+### Requirements
+- We're looking for students who have experience in developing any __deep learning__ techniques (either with PyTorch or TensorFlow).
+- Candidates who have taken or audited the [__Machine Learning for 3D Data Course__]({{page.meta.ml3d_link}}){:target="_blank} will be preferred (but not required).
+- Interns will be required to be __physically present__ in our lab during the internship.<br>
+  Location: [__KAIST, N1 Bldg, Rm 622, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank}
+- Candidates who can extend the internship for the following semester will be preferred. (Remote work can be considered for the extension.)
+
+
+### Conditions
+- Interns will be expected to commit to the internship for __full-time at least 8 weeks__.
+- Interns will be __paid__ and provided with a desk in our lab and computing resources.<br>Students enrolled in a university outside of Korea cannot be paid due to administrative restrictions.
+
+
+### How to Apply
+Click the [__''Application Form''__](#) button at the top. You'll need to prepare the following files:
+
+- a copy of your __transcript__, and
+- your __CV/resume__ (including your previous experience in research, internship, or course projects, and your programming skills. Not required but recommended).
+
+
+### FAQ
+- __Q. Can non-KAIST students apply?__<br>
+A. Yes.
+
+- __Q. Can non-KAIST students stay in a KAIST dormitory during the internship?__<br>
+A. Yes.
+
+- __Q. Can international students who are not enrolled in any Korean institutions apply?__<br>
+A. Yes, KAIST has a <a href="https://io.kaist.ac.kr/menu/io.do?mguid=D4CD2D0A-21E5-E511-940C-2C44FD7DF8B9" target="_blank">Visiting Student Researcher Program</a>, although it is preferred for students who intend to undertake a longer-term internship (at least six months).
+
+
+<br />
+[Back to top](#)
+
+<br />
+

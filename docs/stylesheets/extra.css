@@ -2,9 +2,7 @@
   --md-primary-fg-color:        #021230;
   --md-primary-fg-color--light: #293F51;
   --md-primary-fg-color--dark:  #0D001A;
-}
-
-:root {
+  --md-primary-bg-color--light: #866D4B;
   --md-accent-fg-color:         #820000;
 }
 
@@ -70,3 +68,7 @@
   max-width: 1080px;
 }
 
+.md-banner {
+  background-color: var(--md-primary-bg-color--light);
+  font-weight: 600;
+}

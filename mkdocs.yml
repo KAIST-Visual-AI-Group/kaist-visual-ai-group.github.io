@@ -2,6 +2,7 @@ site_name: KAIST Visual AI Group
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -37,6 +38,7 @@ nav:
   - Courses: courses.md
   - News: news.md
   - Contact: contact.md
+  - Internship: internship.md
 
 plugins:
     - search

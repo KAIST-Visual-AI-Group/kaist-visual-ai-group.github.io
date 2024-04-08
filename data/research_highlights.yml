@@ -1,3 +1,13 @@
+- key: synctweedies
+  title: "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
+  venue: arXiv 2024
+  desc: A novel approach for synchronizing multiple reverse diffusion processes to generate diverse visual content.
+  link: https://synctweedies.github.io/
+- key: reground
+  title: "ReGround: Improving Textual and Spatial Grounding at No Cost"
+  venue: arXiv 2024
+  desc: A cost-free network reconfiguration for improving the text-prompt fidelity in layout-guided image generation.
+  link: https://re-ground.github.io/
 - key: pds
   title: "Posterior Distillation Sampling"
   venue: CVPR 2024

@@ -56,7 +56,11 @@ undergrads:
     - name: Nguyen M. Hieu
       web: https://min-hieu.github.io
     - name: Kyeongmin Yeo
-
+    - name: Mingyu Park
+    - name: Honggi Lee
+    - name: Sangmin Lee
+    - name: Sangwoo Ye
+    - name: Woongyeong Yeo
 alumni_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -103,3 +107,5 @@ visitors:
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023
       now: Ph.D. Student at Stanford
+    - name: Daniel Korth
+      period: March 2024 - Present
