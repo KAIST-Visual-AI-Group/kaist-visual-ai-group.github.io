@@ -49,6 +49,8 @@ __We’re looking for undergraduate interns who are interested in building cutti
 ### What You'll Do
 As an intern, you'll actively engage in hands-on research activities within our lab. The list includes but is not limited to:
 
+- Tutorials: Curated coding assignments spanning recent research topics such as NeRFs and diffusion models
+- Projects: Small-scale research projects initiated and led by interns based on their research interests
 - Weekly Meetings: In-depth discussions on technical papers led by two student presenters every week
 - Paper Digest Meetings: Light-weight meetings where we briefly scheme through recently uploaded/published papers
 
