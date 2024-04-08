@@ -30,6 +30,11 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 nav:
   - Home: index.md

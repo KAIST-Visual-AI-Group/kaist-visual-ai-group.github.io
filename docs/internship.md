@@ -26,10 +26,9 @@ p { text-align: justify; }
 
 # Call for Internship
 
-### Internship Period: July 1, 2024 - August 30, 2024.
-### Application Deadline: Sunday, April 28, 2024, 23:59 KST.
+#### ==Application Deadline: Sunday, April 28, 2024, 23:59 KST.==
+#### Internship Period: July 1, 2024 - August 30, 2024.
 
-<br />
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
 <br />

@@ -1,9 +1,11 @@
 :root {
-  --md-primary-fg-color:        #021230;
-  --md-primary-fg-color--light: #293F51;
-  --md-primary-fg-color--dark:  #0D001A;
-  --md-primary-bg-color--light: #866D4B;
-  --md-accent-fg-color:         #820000;
+    /* https://www.color-hex.com/ */
+    --md-primary-fg-color:          #021230;
+    --md-primary-fg-color--light:   #293F51;
+    --md-primary-fg-color--dark:    #0D001A;
+    --md-primary-bg-color--light:   #866D4B;
+    --md-primary-bg-color--lighter: #CEC7B7;
+    --md-accent-fg-color:           #820000;
 }
 
 /* Thin */
@@ -62,6 +64,10 @@
 .md-typeset h2 {
   font-weight: 700;
   color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset mark {
+  background-color: var(--md-primary-bg-color--lighter);
 }
 
 .md-grid {
