@@ -46,13 +46,15 @@ nav:
   - Internship: internship.md
 
 plugins:
-    - search
-    - macros:
-        include_yaml:
-          - people: data/people.yml
-          - publications: data/publications.yml
-          - courses: data/courses.yml
-          - research_highlights: data/research_highlights.yml
-          - news: data/news.yml
+  - search
+  - macros:
+      include_yaml:
+        - people: data/people.yml
+        - publications: data/publications.yml
+        - courses: data/courses.yml
+        - research_highlights: data/research_highlights.yml
+        - news: data/news.yml
+  - social:
+      cards_layout: default
 
 copyright: Copyright &copy; 2021 - 2024 KAIST Visual AI Group
