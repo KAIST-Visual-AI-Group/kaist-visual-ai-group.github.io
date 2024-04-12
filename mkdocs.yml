@@ -1,4 +1,5 @@
 site_name: KAIST Visual AI Group
+site_url: https://visualai.kaist.ac.kr/
 
 theme:
   name: material
