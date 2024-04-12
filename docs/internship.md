@@ -49,10 +49,10 @@ __We’re looking for undergraduate interns who are interested in building cutti
 ### What You'll Do
 As an intern, you'll actively engage in hands-on research activities within our lab. The list includes but is not limited to:
 
-- Tutorials: Curated coding assignments spanning recent research topics such as NeRFs and diffusion models
-- Projects: Small-scale research projects initiated and led by interns based on their research interests
-- Weekly Meetings: In-depth discussions on technical papers led by two student presenters every week
-- Paper Digest Meetings: Light-weight meetings where we briefly scheme through recently uploaded/published papers
+- Tutorials: Curated coding assignments covering recent research topics such as NeRFs and diffusion models.
+- Project: A small-scale research project based on an idea provided by our group. Interns are also welcome to pitch their own ideas for the project.
+- Weekly Meetings: In-depth discussions on technical papers led by two student presenters (including both graduate students and undergraduate interns) every week.
+- Paper Digest Meetings: Lightweight meetings for briefly skimming through recent papers.
 
 ### Resources
 To find more information about our research, visit the followings:
@@ -80,6 +80,11 @@ Click the [__''Application Form''__](#) button at the top. You'll need to prepar
 
 - a copy of your __transcript__, and
 - your __CV/resume__ (including your previous experience in research, internship, or course projects, and your programming skills. Not required but recommended).
+
+
+### Contact
+
+mhsung (at) kaist.ac.kr
 
 
 ### FAQ
