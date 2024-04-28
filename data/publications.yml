@@ -15,7 +15,6 @@ years:
         arXiv: https://arxiv.org/abs/2311.13831
         pdf: https://posterior-distillation-sampling.github.io/static/assets/pds.pdf
         code: https://github.com/KAIST-Visual-AI-Group/PDS
-        hugging_face: https://huggingface.co/KAIST-Visual-AI-Lab
       - name: 036-cvpr24-apap
         key: apap
         title: "As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors"
@@ -48,6 +47,9 @@ years:
               link: https://sites.google.com/view/tkkim/
         venue: CVPR 2024
         project: https://jyunlee.github.io/projects/interhandgen/
+        arXiv: https://arxiv.org/abs/2403.17422
+        pdf: https://jyunlee.github.io/projects/interhandgen/data/interhandgen.pdf
+        code: https://github.com/jyunlee/InterHandGen
       - name: 034-3dv24-smart
         key: smart
         title: "Split, Merge, and Refine: Fitting Tight Bounding Boxes via Learned Over-Segmentation and Iterative Search"
@@ -72,7 +74,7 @@ years:
         arXiv: https://arxiv.org/abs/2306.05178
         pdf: https://syncdiffusion.github.io/static/syncdiffusion_pdf.pdf
         code: https://github.com/KAIST-Geometric-AI-Group/SyncDiffusion
-        hugging_face: https://huggingface.co/spaces/KAIST-Geometric-AI-Lab/syncdiffusion-demo
+        hugging_face: https://huggingface.co/spaces/KAIST-Visual-AI-Group/syncdiffusion-demo
       - name: 032-neurips23-fourierhandflow
         key: fourierhandflow
         title: "FourierHandFlow: Neural 4D Hand Representation Using Fourier Query Flow"
@@ -125,7 +127,7 @@ years:
         arXiv: https://arxiv.org/abs/2303.12236
         pdf: https://salad3d.github.io/assets/salad.pdf
         code: https://github.com/63days/salad
-        hugging_face: https://huggingface.co/spaces/KAIST-Visual-AI-Lab/salad-demo
+        hugging_face: https://huggingface.co/spaces/KAIST-Visual-AI-Group/salad-demo
       - name: 029-cvpr23-im2hands
         key: im2hands
         title: "Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes"
