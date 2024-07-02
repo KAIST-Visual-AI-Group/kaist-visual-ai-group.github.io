@@ -57,10 +57,13 @@ undergrads:
       web: https://min-hieu.github.io
     - name: Kyeongmin Yeo
     - name: Mingyu Park
-    - name: Honggi Lee
-    - name: Sangmin Lee
     - name: Sangwoo Ye
-    - name: Woongyeong Yeo
+    - name: Yuxin Jiang
+    - name: Prin Phunyaphibarn
+    - name: Hwidong Kim
+    - name: Evan Kim
+    - name: Sejeong Lee
+    - name: Daehyeon Choi
 alumni_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -102,7 +105,9 @@ alumni_undergrads:
     - name: Jung Yi
     - name: Sanghwa Hong
     - name: Yonghee Oh
-    - name: Yuxin Jiang
+    - name: Honggi Lee
+    - name: Sangmin Lee
+    - name: Woongyeong Yeo
 visitors:
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023

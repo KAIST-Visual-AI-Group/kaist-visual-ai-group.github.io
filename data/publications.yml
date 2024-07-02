@@ -1,6 +1,25 @@
 years:
   - year: 2024
     papers:
+      - name: 039-eccv24-reground
+        key: reground
+        title: "ReGround: Improving Textual and Spatial Grounding at No Cost"
+        authors:
+            - name: Yuseung Lee
+              link: https://phillipinseoul.github.io/
+            - name: Minhyuk Sung
+        venue: ECCV 2024
+        project: https://re-ground.github.io/
+        arXiv: https://arxiv.org/abs/2403.13589
+        pdf: https://re-ground.github.io/static/reground_paper.pdf
+      - name: 038-eccv24-partstad
+        key: partstad
+        title: "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation"
+        authors:
+            - name: Hyunjin Kim
+            - name: Minhyuk Sung
+        venue: ECCV 2024
+        arXiv: https://arxiv.org/abs/2401.05906
       - name: 037-cvpr24-pds
         key: pds
         title: "Posterior Distillation Sampling"
