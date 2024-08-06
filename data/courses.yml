@@ -5,6 +5,10 @@ years:
         link: https://mhsung.github.io/kaist-cs580-spring-2024/
         time: Spring 2024
         desc: This course covers advanced topics in computer graphics, focusing on rendering.
+      - title: "CS492(D): Diffusion Models and Their Applications"
+        link: https://mhsung.github.io/kaist-cs492d-fall-2024/
+        time: Fall 2024
+        desc: This course discusses the theoretical foundations and practical applications of diffusion models.
   - year: 2023
     courses: 
       - title: "CS380: Introduction to Computer Graphics"
