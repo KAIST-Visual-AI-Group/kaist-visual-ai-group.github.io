@@ -93,7 +93,7 @@ __{{ item.name }}__
 <div class="people-description-cell" markdown>
 {% if item.web %}<a href="{{ item.web }}" target="_blank">__{{ item.name }}__</a>{% else %}__{{ item.name }}__{% endif %}<br>
 {{ item.type }}<br>
-{% if item.now %} Now {{ item.now }} {% endif %}
+{% if item.now %} Now at {{ item.now }} {% endif %}
 </div>
 </div>
 {% endfor %}
