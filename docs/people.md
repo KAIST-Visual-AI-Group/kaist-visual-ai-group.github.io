@@ -81,11 +81,11 @@ __{{ item.name }}__
 </div>
 
 
-## Alumni Graduate Students
+## Former Graduate Students
 
 <div class="grid" markdown>
 
-{% for item in people.alumni_graduates %}
+{% for item in people.former_graduates %}
 <div class="card" markdown>
 <div class="people-thumbnail-cell" markdown>
 <img class="people-thumbnail" src="../assets/profile/{{ item.name }}.png" markdown>
@@ -101,10 +101,10 @@ __{{ item.name }}__
 </div>
 
 
-## Alumni Undergraduate Students
+## Former Undergraduate Students
 
 <div class="grid" markdown>
-{% for item in people.alumni_undergrads %}
+{% for item in people.former_undergrads %}
 <div class="card" markdown>
 __{{ item.name }}__
 </div>

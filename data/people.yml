@@ -56,7 +56,7 @@ undergrads:
     - name: Hwidong Kim
     - name: Sejeong Lee
     - name: Daehyeon Choi
-alumni_graduates:
+former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
       email: rlaguswls98@kaist.ac.kr
@@ -76,7 +76,7 @@ alumni_graduates:
       email: hong969@kaist.ac.kr
       linkedin: https://www.linkedin.com/in/eunji-hong-15b2a9213
       github: https://github.com/eunzihong
-alumni_undergrads:
+former_undergrads:
     - name: Baha E. Yaldiz
     - name: Mirali Ahmadli
     - name: Nauryzbay Koishekenov
