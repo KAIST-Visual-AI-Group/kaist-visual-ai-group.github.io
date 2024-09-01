@@ -53,9 +53,6 @@ graduates:
 undergrads:
     - name: Kyeongmin Yeo
     - name: Prin Phunyaphibarn
-    - name: Hwidong Kim
-    - name: Sejeong Lee
-    - name: Daehyeon Choi
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -112,6 +109,9 @@ former_undergrads:
     - name: Yuxin Jiang
     - name: Evan Kim
     - name: Sangwoo Ye
+    - name: Hwidong Kim
+    - name: Sejeong Lee
+    - name: Daehyeon Choi
 visitors:
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023
