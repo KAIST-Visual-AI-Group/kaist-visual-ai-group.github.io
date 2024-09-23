@@ -1,6 +1,15 @@
 years:
   - year: 2024
     papers:
+          - name: 040-sigasia24-odc
+        key: odc
+        title: "Occupancy-Based Dual Contouring"
+        authors:
+            - name: Jisung Hwang
+            - name: Minhyuk Sung
+        venue: SIGGRAPH Asia 2024
+        arXiv: https://arxiv.org/abs/2403.13589
+        code: https://github.com/KAIST-Visual-AI-Group/ODC
       - name: 039-eccv24-reground
         key: reground
         title: "ReGround: Improving Textual and Spatial Grounding at No Cost"
