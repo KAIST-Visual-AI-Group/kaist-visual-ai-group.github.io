@@ -1,3 +1,8 @@
+- key: odc
+  title: "Occupancy-Based Dual Contouring"
+  venue: SIGGRAPH Asia 2024
+  desc: A dual contouring method that provides state-of-the-art performance for various neural implicit functions.
+  link: https://github.com/KAIST-Visual-AI-Group/ODC
 - key: synctweedies
   title: "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
   venue: arXiv 2024
