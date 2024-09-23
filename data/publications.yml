@@ -1,7 +1,7 @@
 years:
   - year: 2024
     papers:
-          - name: 040-sigasia24-odc
+      - name: 040-sigasia24-odc
         key: odc
         title: "Occupancy-Based Dual Contouring"
         authors:
