@@ -53,6 +53,9 @@ graduates:
 undergrads:
     - name: Kyeongmin Yeo
     - name: Prin Phunyaphibarn
+    - name: Jaeyoung Hwang
+    - name: Changhae Lee
+    - name: Minjae Jung
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -113,8 +116,10 @@ former_undergrads:
     - name: Sejeong Lee
     - name: Daehyeon Choi
 visitors:
+    - name: Wei-Tung Lin
+      period: Sep 2024 - Present
+    - name: Daniel Korth
+      period: Mar 2024 - Jul 2024
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023
       now: Ph.D. Student at Stanford
-    - name: Daniel Korth
-      period: March 2024 - Present
