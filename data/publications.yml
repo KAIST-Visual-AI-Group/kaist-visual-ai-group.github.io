@@ -50,6 +50,7 @@ years:
               link: https://mikacuy.github.io/
             - name: Minhyuk Sung
         venue: NeurIPS 2024
+        arXiv: https://arxiv.org/abs/2406.10853
       - name: 040-sigasia24-odc
         key: odc
         title: "Occupancy-Based Dual Contouring"
