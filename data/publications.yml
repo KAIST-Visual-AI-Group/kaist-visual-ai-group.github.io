@@ -1,6 +1,18 @@
 years:
   - year: 2024
     papers:
+      - name: 041-neurips24-npr
+        key: npr
+        title: "Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses"
+        authors:
+            - name: Seungwoo Yoo
+              link: https://dvelopery0115.github.io/
+            - name: Juil Koo
+              link: https://63days.github.io/
+            - name: Kyeongmin Yeo
+            - name: Minhyuk Sung
+        venue: NeurIPS 2024
+        arXiv: https://arxiv.org/abs/2406.09728
       - name: 040-sigasia24-odc
         key: odc
         title: "Occupancy-Based Dual Contouring"

@@ -1,3 +1,8 @@
+- key: npr
+  title: "Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses"
+  venue: NeurIPS 2024
+  desc: A framework for learning neural pose representations that facilitate the generation and transfer of non-rigid object poses.
+  link: https://arxiv.org/abs/2406.09728
 - key: odc
   title: "Occupancy-Based Dual Contouring"
   venue: SIGGRAPH Asia 2024
