@@ -1,7 +1,7 @@
 years:
   - year: 2024
     papers:
-      - name: 042-neurips24-synctweedies
+      - name: 044-neurips24-synctweedies
         key: synctweedies
         title: "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
         authors:
@@ -11,12 +11,13 @@ years:
               link: https://63days.github.io/
             - name: Kyeongmin Yeo\*
             - name: Minhyuk Sung
+        authors_note: equal contributions
         venue: NeurIPS 2024
         project: https://synctweedies.github.io/
         arXiv: https://arxiv.org/abs/2403.14370
         pdf: https://synctweedies.github.io/static/synctweedies.pdf
         code: https://github.com/KAIST-Visual-AI-Group/SyncTweedies
-      - name: 041-neurips24-npr
+      - name: 043-neurips24-npr
         key: npr
         title: "Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses"
         authors:
@@ -28,6 +29,27 @@ years:
             - name: Minhyuk Sung
         venue: NeurIPS 2024
         arXiv: https://arxiv.org/abs/2406.09728
+      - name: 042-neurips24-groundit
+        key: groundit
+        title: "GrounDiT: Grounding Diffusion Transformers via Noisy Image Patch Transplantation"
+        authors:
+            - name: Phillip Y. Lee\*
+              link: https://phillipinseoul.github.io/
+            - name: Taehoon Yoon\*
+            - name: Minhyuk Sung
+        authors_note: equal contributions
+        venue: NeurIPS 2024
+      - name: 041-mv2cyl
+        key: mv2cyl
+        title: "MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images"
+        authors:
+            - name: Eunji Hong
+            - name: Nguyen Minh Hieu
+              link: https://hieuristics.xyz/
+            - name: Mikaela Angelina Uy
+              link: https://mikacuy.github.io/
+            - name: Minhyuk Sung
+        venue: NeurIPS 2024
       - name: 040-sigasia24-odc
         key: odc
         title: "Occupancy-Based Dual Contouring"
@@ -83,7 +105,7 @@ years:
             - name: Vladimir Kim
               link: http://www.vovakim.com/
             - name: Minhyuk Sung
-        authors_note: co-first authors
+        authors_note: equal contributions
         venue: CVPR 2024
         project: https://as-plausible-as-possible.github.io
         arXiv: https://arxiv.org/abs/2311.16739
