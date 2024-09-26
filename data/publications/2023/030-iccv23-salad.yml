@@ -13,5 +13,5 @@ venue: ICCV 2023
 project: https://salad3d.github.io/
 arXiv: https://arxiv.org/abs/2303.12236
 pdf: https://salad3d.github.io/assets/salad.pdf
-code: https://github.com/63days/salad
+code: https://github.com/KAIST-Visual-AI-Group/SALAD
 hugging_face: https://huggingface.co/spaces/KAIST-Visual-AI-Group/salad-demo
