@@ -1,6 +1,6 @@
 - key: synctweedies
   title: "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
-  venue: arXiv 2024
+  venue: NeurIPS 2024
   desc: A novel approach for synchronizing multiple reverse diffusion processes to generate diverse visual content.
   link: https://synctweedies.github.io/
 - key: npr
