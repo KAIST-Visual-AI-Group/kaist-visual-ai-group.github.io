@@ -79,6 +79,7 @@ years:
               link: https://kormachine.github.io/
             - name: Minhyuk Sung
         venue: ECCV 2024
+        project: https://partstad.github.io/
         arXiv: https://arxiv.org/abs/2401.05906
         code: https://github.com/KAIST-Visual-AI-Group/PartSTAD
       - name: 037-cvpr24-pds
