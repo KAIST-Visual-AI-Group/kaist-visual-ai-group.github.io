@@ -43,8 +43,9 @@ nav:
   - Publications: publications.md
   - Courses: courses.md
   - News: news.md
-  - Contact: contact.md
+  - Join Us: join_us.md
   - Internship: internship.md
+  - Contact: contact.md
 
 plugins:
   - search

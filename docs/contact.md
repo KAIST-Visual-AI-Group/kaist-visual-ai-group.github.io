@@ -7,10 +7,6 @@ hide:
 
 # Contact
 
-## Join Our Group!
-[Information for Prospective Students (in Korean)](https://docs.google.com/document/d/1hK0CBqNOQwNUx0GgUEWbuADkAOu6Lw9QA6Pl2Z0yXHI/edit?usp=sharing){ .md-button target="_blank" }
-
-
 ## E-mail
 
 mhsung (at) kaist.ac.kr
