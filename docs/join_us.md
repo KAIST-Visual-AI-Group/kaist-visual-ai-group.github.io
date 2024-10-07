@@ -91,7 +91,7 @@ We consider the following aspects: (* number: Importance)
 
 ### Recruiting Process
 
-- Please do not send a contact email without any questions. Note that our recruiting process begins after the admission decision.
+- Please do not send a contact email without any questions. Note that our recruiting process begins after the university's admission decision.
 
 - If you are curious about which openings would be best for you to apply for, or how many openings remain for late admissions, please [**contact**](../contact/){:target="_blank} us.
 
