@@ -27,7 +27,7 @@ p { text-align: justify; }
 
 # Call for Graduate Students (Spring 2025)
 
-#### ==First Round Deadline: October 19, 2024 (Saturday), 23:59 KST.==
+#### ==Application Deadline: October 19, 2024 (Saturday), 23:59 KST.==
 
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
