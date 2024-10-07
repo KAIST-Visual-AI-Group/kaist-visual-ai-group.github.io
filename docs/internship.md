@@ -59,12 +59,16 @@ As an intern, you'll actively engage in hands-on research activities within our 
 - Weekly Meetings: In-depth discussions on technical papers led by two student presenters (including both graduate students and undergraduate interns) every week.
 - Paper Digest Meetings: Lightweight meetings for briefly skimming through recent papers.
 
-### Resources
-To find more information about our research, visit the followings:
 
-- [Publications Tab](publications.md){:target="_blank}
-- [Machine Learning for 3D Data Course Webpage]({{page.meta.ml3d_link}}){:target="_blank}
-- [Minhyuk's Recent Talk]({{page.meta.talk_link}}){:target="_blank}
+### Resources
+To find more information about our group, visit the followings:
+
+- [**Group introduction slides (Sep 2024)**](https://docs.google.com/presentation/d/e/2PACX-1vRXLQHMECnZG8K62PMiAhQlgkljHmTAILPdFWGBbtM5CNzB4zWdfnTHUAvu_yWWLPIRdOfkwFdj9Or_/pub?start=false&loop=false&delayms=30000&slide=id.g22e9e6d247f_2_3){:target="_blank}
+- [**Publications page**](../publications/){:target="_blank}
+- **Course webpages**
+    - [**Diffusion Models and Their Applications (Fall 2024)**](https://mhsung.github.io/kaist-cs492d-fall-2024/){:target="_blank}
+    - [**Machine Learning for 3D Data (Fall 2024)**](https://mhsung.github.io/kaist-cs479-fall-2023/){:target="_blank}
+- [**Minhyuk's recent talk slides**](https://onedrive.live.com/?authkey=%21AHL%5FdHl6y%5FVYEao&id=60562023B6640282%2132943&cid=60562023B6640282&parId=root&parQt=sharedby&o=OneUp){:target="_blank}
 
 
 ### Requirements
