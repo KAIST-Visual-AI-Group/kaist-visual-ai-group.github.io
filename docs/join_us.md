@@ -54,8 +54,11 @@ Please check out our recent publications [**here**](../publications/){:target="_
 
 ###Openings
 
+#### International Applicants
+For international applicants, we have special openings with no limitations on the available slots. Please [**contact**](../contact/){:target="_blank} us before applying for the Master’s program.
+
 #### Korean Applicants
-For Korean students, we currently have openings for:
+For Korean applicants, we currently have openings for:
 
 - Two government-funded School of Computing Master's students,
 - One KAIST scholarship School of Computing Master's student,
@@ -63,9 +66,6 @@ For Korean students, we currently have openings for:
 - One Metaverse Graduate School Master's student
 
 Using the KAIST scholarship openings is exceptional. To join our group, we recommend applying for the government-funded School of Computing Master's program or [**contacting**](../contact/){:target="_blank} us before applying.
-
-#### International Applicants
-For international students, we have special openings avaigrouple. Please [**contact**](../contact/){:target="_blank} us before applying for the Master’s program.
 
 #### Spring vs. Fall Admissions
 During the Fall admissions, only remaining openings that were not filled during the Spring admissions can be utilized. Therefore, we recommend applying in the Spring admissions. The likelihood of having openings for Fall applicants is low. If you must apply for the Fall admissions, please [**contact**](../contact/){:target="_blank} us by the summer (August) of the previous year.
