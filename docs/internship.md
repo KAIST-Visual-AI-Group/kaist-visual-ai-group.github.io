@@ -67,7 +67,7 @@ To find more information about our group, visit the followings:
 - [**Publications page**](../publications/){:target="_blank}
 - **Course webpages**
     - [**Diffusion Models and Their Applications (Fall 2024)**](https://mhsung.github.io/kaist-cs492d-fall-2024/){:target="_blank}
-    - [**Machine Learning for 3D Data (Fall 2024)**](https://mhsung.github.io/kaist-cs479-fall-2023/){:target="_blank}
+    - [**Machine Learning for 3D Data (Fall 2023)**](https://mhsung.github.io/kaist-cs479-fall-2023/){:target="_blank}
 - [**Minhyuk's recent talk slides**](https://onedrive.live.com/?authkey=%21AHL%5FdHl6y%5FVYEao&id=60562023B6640282%2132943&cid=60562023B6640282&parId=root&parQt=sharedby&o=OneUp){:target="_blank}
 
 
