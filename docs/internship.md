@@ -33,7 +33,7 @@ p { text-align: justify; }
 
 
 #### ==Application Deadline: Saturday, November 16, 2024, 23:59 KST.==
-#### Internship Period: December 26, 2024 - December 21, 2025.
+#### Internship Period: December 26, 2024 - February 21, 2025.
 
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
