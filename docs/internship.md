@@ -65,7 +65,8 @@ As an intern, you'll have the opportunity to cultivate hands-on experience in re
 ### Resources
 To find more information about our group, visit the followings:
 
-- [**Group introduction slides (Sep 2024)**](https://docs.google.com/presentation/d/e/2PACX-1vRXLQHMECnZG8K62PMiAhQlgkljHmTAILPdFWGBbtM5CNzB4zWdfnTHUAvu_yWWLPIRdOfkwFdj9Or_/pub?start=false&loop=false&delayms=30000&slide=id.g22e9e6d247f_2_3){:target="_blank}
+- [**Group introduction slides (Oct 2024)**](https://onedrive.live.com/?authkey=%21AEyg998lR6fLIwo&id=60562023B6640282%2133854&cid=60562023B6640282&parId=root&parQt=sharedby&o=OneUp
+){:target="_blank}
 - [**Minhyuk's recent talk slides**](https://onedrive.live.com/?authkey=%21AHL%5FdHl6y%5FVYEao&id=60562023B6640282%2132943&cid=60562023B6640282&parId=root&parQt=sharedby&o=OneUp){:target="_blank}
 - [**Publications page**](../publications/){:target="_blank}
 - **Course webpages**
