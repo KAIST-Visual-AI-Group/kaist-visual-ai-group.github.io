@@ -1,5 +1,5 @@
 key: groundit
-title: "GrounDiT: Grounding Diffusion Transformers via Noisy Image Patch Transplantation"
+title: "GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation"
 authors:
     - name: Phillip Y. Lee\*
       link: https://phillipinseoul.github.io/
@@ -7,3 +7,5 @@ authors:
     - name: Minhyuk Sung
 authors_note: equal contributions
 venue: NeurIPS 2024
+arXiv: https://arxiv.org/abs/2410.20474
+web: https://groundit-diffusion.github.io/
