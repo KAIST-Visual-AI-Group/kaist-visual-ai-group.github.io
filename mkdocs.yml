@@ -58,6 +58,6 @@ plugins:
         - news: data/news.yml
   - social:
       cards_layout_options:
-        background_color: transparent
+        background_color: [0, 0, 0, 0]
 
 copyright: Copyright &copy; 2021 - 2024 KAIST Visual AI Group
