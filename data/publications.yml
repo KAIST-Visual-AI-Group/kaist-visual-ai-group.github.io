@@ -61,9 +61,9 @@ years:
             - name: Jisung Hwang
             - name: Minhyuk Sung
         venue: SIGGRAPH Asia 2024
+        project: https://occupancybased-dual-contouring.github.io/
         arXiv: https://arxiv.org/abs/2409.13418
         code: https://github.com/KAIST-Visual-AI-Group/ODC
-        project: https://occupancybased-dual-contouring.github.io/
       - name: 039-eccv24-reground
         key: reground
         title: "ReGround: Improving Textual and Spatial Grounding at No Cost"
