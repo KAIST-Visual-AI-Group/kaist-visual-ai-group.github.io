@@ -12,7 +12,7 @@
   title: "Occupancy-Based Dual Contouring"
   venue: SIGGRAPH Asia 2024
   desc: A dual contouring method that provides state-of-the-art performance for various neural implicit functions.
-  link: https://occupancybased-dual-contouring.github.io/
+  link: https://occupancy-based-dual-contouring.github.io/
 - key: reground
   title: "ReGround: Improving Textual and Spatial Grounding at No Cost"
   venue: ECCV 2024
