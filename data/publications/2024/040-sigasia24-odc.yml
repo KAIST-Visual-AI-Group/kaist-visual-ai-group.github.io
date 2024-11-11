@@ -4,6 +4,6 @@ authors:
     - name: Jisung Hwang
     - name: Minhyuk Sung
 venue: SIGGRAPH Asia 2024
-project: https://occupancybased-dual-contouring.github.io/
+project: https://occupancy-based-dual-contouring.github.io/
 arXiv: https://arxiv.org/abs/2409.13418
 code: https://github.com/KAIST-Visual-AI-Group/ODC
