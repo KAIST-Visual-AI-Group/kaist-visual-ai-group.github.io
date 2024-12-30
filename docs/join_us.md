@@ -25,12 +25,14 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Graduate Students (Spring 2025)
+# Call for Graduate Students (Spring 2025) — Closed
 
 <!-- #### ==Application Deadline: October 19, 2024 (Saturday), 23:59 KST.== -->
 
+<!--
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
+-->
 
 
 ## Join Our Group!

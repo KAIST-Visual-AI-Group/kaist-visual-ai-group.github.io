@@ -25,13 +25,14 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Internship (Winter 2024)
+# Call for Internship (Winter 2024) — Closed
 
 <!--
 #### ==We will begin accepting internship applications for Winter 2025 at the end of October. Please stay tuned for further updates.==
 -->
 
 
+<!--
 #### ==Application Deadline: Saturday, November 16, 2024, 23:59 KST.==
 #### Internship Period: December 26, 2024 - February 21, 2025.
 
@@ -39,8 +40,11 @@ p { text-align: justify; }
 <br />
 <br />
 
-
 __We’re looking for undergraduate interns who are interested in building cutting-edge machine learning technologies for visual data!__
+-->
+
+<br />
+__We'll begin hiring Summer 2025 interns in mid-April 2025. Stay tuned for more updates!__
 
 
 ### Research Topics

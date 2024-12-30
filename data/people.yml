@@ -4,16 +4,16 @@ professor:
   type: Assistant Professor
   email: mhsung@kaist.ac.kr
   web: https://mhsung.github.io/
-  twitter: https://twitter.com/minhyuksung
+  twitter: https://x.com/minhyuksung
   linkedin: https://www.linkedin.com/in/mhsung
   github: https://github.com/mhsung
   cv: https://mhsung.github.io/cv/sung_cv.pdf
-graduates:
+phd:
     - name: Juil Koo
       type: Ph.D. Student
       email: 63days@kaist.ac.kr
       web: https://63days.github.io/ 
-      twitter: https://twitter.com/63_days
+      twitter: https://x.com/63_days
       linkedin: https://www.linkedin.com/in/juil-koo-260b93221
       github: https://github.com/63days
       cv: https://63days.github.io/assets/CV.pdf
@@ -21,7 +21,7 @@ graduates:
       type: Ph.D. Student
       email: jh27kim@kaist.ac.kr
       web: https://jh27kim.github.io/ 
-      twitter: https://twitter.com/KimJaihoon
+      twitter: https://x.com/KimJaihoon
       linkedin: https://www.linkedin.com/in/jaihoon-kim-8b2920172
       github: https://github.com/jh27kim
       cv: https://jh27kim.github.io/assets/files/curriculum_vitae.pdf
@@ -29,7 +29,7 @@ graduates:
       type: M.S. Student
       email: dreamy1534@kaist.ac.kr
       web: https://dvelopery0115.github.io/
-      twitter: https://twitter.com/USeungwoo0115
+      twitter: https://x.com/USeungwoo0115
       linkedin: https://www.linkedin.com/in/seungwoo-y-1a4b49141
       github: https://github.com/DveloperY0115
       cv: https://dvelopery0115.github.io/assets/pdf/CV.pdf
@@ -37,9 +37,10 @@ graduates:
       type: M.S. Student
       email: phillip0701@kaist.ac.kr
       web: https://phillipinseoul.github.io/
-      twitter: https://twitter.com/yuseungleee
+      twitter: https://x.com/yuseungleee
       linkedin: https://www.linkedin.com/in/yuseung-lee-6b085223a
       github: https://github.com/phillipinseoul
+master:
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
@@ -50,12 +51,37 @@ graduates:
     - name: Mingyu Park
       type: M.S. Student
       email: kicikicik@kaist.ac.kr
+    - name: Chanho Park
+      type: M.S. Student
+      email: charlieppark@kaist.ac.kr
+      web: https://charlieppark.kr/
+      twitter: https://x.com/_charlieppark
+      linkedin: https://www.linkedin.com/in/charlieppark
+      github: https://github.com/charlieppark
+    - name: Prin Phunyaphibarn
+      type: M.S. Student
+      email: prin10517@kaist.ac.kr
+    - name: Daehyeon Choi
+      type: M.S. Student
+      email: daehyeonchoi@kaist.ac.kr
+      web: https://choidaedae.github.io/
+      linkedin: https://www.linkedin.com/in/choi-daehyeon-570b0a214/
+      cv: https://drive.google.com/file/d/1-3IMPOVSl3PWnQQN_kuu_9iXf77PIZIb/view?usp=sharing
+    - name: Yunhong Min
+      type: M.S. Student
+      email: dbsghd363@kaist.ac.kr
+    - name: Seoyoung Hwang
+      type: M.S. Student
+      email: sheongee@gmail.com
 undergrads:
     - name: Kyeongmin Yeo
-    - name: Prin Phunyaphibarn
-    - name: Jaeyoung Hwang
-    - name: Changhae Lee
-    - name: Minjae Jung
+      type: Undergraduate Student
+      email: aaaaa@kaist.ac.kr
+      twitter: https://x.com/KyeongminYeo
+    - name: Junha Jang
+    - name: Junwoo Choi
+    - name: Jaeyeong Kim
+    - name: Joohyun Kwon
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -66,7 +92,7 @@ former_graduates:
       type: M.S. Student
       email: kaist984@kaist.ac.kr
       web: https://soulmates2.github.io/
-      twitter: https://twitter.com/kunho_kim_
+      twitter: https://x.com/kunho_kim_
       linkedin: https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EA%B9%80-192897184/
       github: https://github.com/Soulmates2
       cv: https://soulmates2.github.io/assets/cv/cv_KunhoKim.pdf
@@ -94,13 +120,6 @@ former_undergrads:
     - name: Seungyeol Lee
     - name: Hyun-Jin Kim
     - name: Taeyeon Kim
-    - name: Chanho Park
-      type: M.S. Student
-      email: charlieppark@kaist.ac.kr
-      web: https://charlieppark.kr/
-      twitter: https://twitter.com/_charlieppark
-      linkedin: https://www.linkedin.com/in/charlieppark
-      github: https://github.com/charlieppark
     - name: Jaehyeong Park
     - name: Jung Yi
     - name: Sanghwa Hong
@@ -115,7 +134,9 @@ former_undergrads:
     - name: Sangwoo Ye
     - name: Hwidong Kim
     - name: Sejeong Lee
-    - name: Daehyeon Choi
+    - name: Jaeyoung Hwang
+    - name: Changhae Lee
+    - name: Minjae Jung
 visitors:
     - name: Wei-Tung Lin
       period: Sep 2024 - Present
