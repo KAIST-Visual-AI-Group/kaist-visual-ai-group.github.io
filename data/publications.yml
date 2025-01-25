@@ -11,6 +11,7 @@ years:
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: ICLR 2025
+        project: https://stochsync.github.io/
   - year: 2024
     papers:
       - name: 044-neurips24-synctweedies
