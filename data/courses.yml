@@ -1,4 +1,10 @@
 years:
+  - year: 2025
+    courses:
+      - title: "CS479: Machine Learning for 3D Data"
+        link: https://mhsung.github.io/kaist-cs479-spring-2025/
+        time: Spring 2025
+        desc: This course discusses the recent advances in machine learning techniques for 3D data.
   - year: 2024
     courses: 
       - title: "CS580: Computer Graphics"
