@@ -1,3 +1,8 @@
+- key: stochsync
+  title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
+  venue: ICLR 2025
+  desc: A method that combines diffusion synchronization and score distillation sampling for generating images in arbitrary spaces (e.g., 360° panoramas and mesh textures).
+  link: https://stochsync.github.io/
 - key: synctweedies
   title: "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
   venue: NeurIPS 2024
