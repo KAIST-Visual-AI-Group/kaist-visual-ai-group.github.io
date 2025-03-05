@@ -1,6 +1,42 @@
 years:
   - year: 2025
     papers:
+      - name: 047-cvpr25-videohandles
+        key: videohandles
+        title: "VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors"
+        authors:
+            - name: Juil Koo
+              link: https://63days.github.io/
+            - name: Paul Guerrero
+              link: https://paulguerrero.net/
+            - name: Chun-Hao Paul Huang
+              link: https://paulchhuang.wixsite.com/chhuang
+            - name: Duygu Ceylan
+              link: https://www.duygu-ceylan.com/
+            - name: Minhyuk Sung 
+        venue: CVPR 2025
+        project: https://videohandles.github.io/
+        arXiv: https://arxiv.org/abs/2503.01107
+      - name: 046-cvpr25-egocentric
+        key: egocentric
+        title: "Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning"
+        authors:
+            - name: Jihyun Lee
+              link: https://jyunlee.github.io/
+            - name: Weipeng Xu
+              link: https://sites.google.com/view/xuweipeng
+            - name: Alexander Richard
+              link: https://alexanderrichard.github.io/
+            - name: Shih-En Wei
+            - name: Shunsuke Saito
+              link: https://shunsukesaito.github.io/
+            - name: Shaojie Bai
+            - name: Te-Li Wang
+            - name: Minhyuk Sung
+            - name: Tae-Kyun Kim
+              link: https://sites.google.com/view/tkkim/home
+            - name: Jason Saragih 
+        venue: CVPR 2025
       - name: 045-iclr25-stochsync
         key: stochsync
         title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
@@ -12,6 +48,8 @@ years:
         authors_note: equal contributions
         venue: ICLR 2025
         project: https://stochsync.github.io/
+        arXiv: https://arxiv.org/abs/2501.15445
+        code: https://github.com/KAIST-Visual-AI-Group/StochSync
   - year: 2024
     papers:
       - name: 044-neurips24-synctweedies

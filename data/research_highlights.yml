@@ -1,3 +1,8 @@
+- key: videohandles
+  title: "VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors"
+  venue: CVPR 2025
+  desc: The first method for 3D object composition editing in videos without any training.
+  link: https://videohandles.github.io/
 - key: stochsync
   title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
   venue: ICLR 2025
