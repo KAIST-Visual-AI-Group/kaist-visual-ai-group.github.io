@@ -1,7 +1,7 @@
 professor:
   name: Minhyuk Sung
   legacy_name: Min-Hyuk Sung
-  type: Assistant Professor
+  type: Associate Professor
   email: mhsung@kaist.ac.kr
   web: https://mhsung.github.io/
   twitter: https://x.com/minhyuksung
@@ -26,7 +26,7 @@ phd:
       github: https://github.com/jh27kim
       cv: https://jh27kim.github.io/assets/files/curriculum_vitae.pdf
     - name: Seungwoo Yoo
-      type: M.S. Student
+      type: Ph.D. Student
       email: dreamy1534@kaist.ac.kr
       web: https://dvelopery0115.github.io/
       twitter: https://x.com/USeungwoo0115
@@ -34,7 +34,7 @@ phd:
       github: https://github.com/DveloperY0115
       cv: https://dvelopery0115.github.io/assets/pdf/CV.pdf
     - name: Phillip (Yuseung) Lee
-      type: M.S. Student
+      type: Ph.D. Student
       email: phillip0701@kaist.ac.kr
       web: https://phillipinseoul.github.io/
       twitter: https://x.com/yuseungleee
