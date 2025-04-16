@@ -51,7 +51,7 @@ __We'll begin hiring Summer 2025 interns in mid-April 2025. Stay tuned for more 
     - Autoregressive diffusion models
     - Large language diffusion models
     - Video generative models
-    - Generative models for diverse data modalities
+    - Generative models across diverse data modalities
     - Inference-time scaling
 - VLM / LLM / Foundation models
     - VLMs for spatial understanding
