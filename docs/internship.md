@@ -47,16 +47,17 @@ __We'll begin hiring Summer 2025 interns in mid-April 2025. Stay tuned for more 
 
 ### Research Topics
 - Diffusion models / Flow models / Autoregressive models
-- Discrete generative models
-- Large language diffusion models
-- Video generative models
-- Generative models for diverse data types
-- Inference-time scaling
+    - Discrete generative models
+    - Autoregressive diffusion models
+    - Large language diffusion models
+    - Video generative models
+    - Generative models for diverse data types
+    - Inference-time scaling
 - VLM / LLM / Foundation models
-- VLMs for spatial understanding
-- RL-based fine-tuning of foundation models
-- 3D generation, editing, and deformation
-- Neural rendering
+    - VLMs for spatial understanding
+    - RL-based fine-tuning of foundation models
+- 3D / Neural rendering
+    - 3D generation, editing, and deformation
 
 
 ### What You'll Do
