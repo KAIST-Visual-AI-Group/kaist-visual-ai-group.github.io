@@ -51,7 +51,7 @@ Please check out our recent publications [**here**](../publications/){:target="_
 - CV: CVPR, ICCV, ECCV
 - CG: SIGGRAPH, SIGGRAPH Asia
 
-**We’re building a strong team! In 2024, all our graduate students have published papers as first authors in the aforementioned top-tier conferences.** Beyond just publishing papers, our ultimate goal is to create technologies that can change the world.
+<!-- **We’re building a strong team! In 2024, all our graduate students have published papers as first authors in the aforementioned top-tier conferences.** Beyond just publishing papers, our ultimate goal is to create technologies that can change the world. -->
 
 
 To find more information about our group, visit the followings:
