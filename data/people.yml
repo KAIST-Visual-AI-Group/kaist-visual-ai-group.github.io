@@ -48,7 +48,7 @@ master:
       type: M.S. Student
       email: taehoon@kaist.ac.kr
       github: https://github.com/taehoon-yoon/
-    - name: Mingyu Park
+    - name: Mingue Park
       type: M.S. Student
       email: kicikicik@kaist.ac.kr
     - name: Chanho Park
@@ -79,9 +79,11 @@ undergrads:
       email: aaaaa@kaist.ac.kr
       web: https://32v.github.io/
       twitter: https://x.com/KyeongminYeo
-    - name: Junha Jang
-    - name: Junwoo Choi
-    - name: Jaeyeong Kim
+    - name: Sangwoo Youn
+    - name: Hyunseo Lee
+    - name: Wonseo Choi
+    - name: Minsoo Lee
+    - name: Le Duc Nhuan
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -137,7 +139,12 @@ former_undergrads:
     - name: Jaeyoung Hwang
     - name: Changhae Lee
     - name: Minjae Jung
+    - name: Junha Jang
+    - name: Junwoo Choi
+    - name: Jaeyeong Kim
 visitors:
+    - name: Nail Ibrahimli
+      period: May 2025 - Present
     - name: Wei-Tung Lin
       period: Sep 2024 - Jan 2025
     - name: Daniel Korth
