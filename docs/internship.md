@@ -26,9 +26,9 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Internship (Summer 2025)
+# Call for Internship (Summer 2025) - Closed
 
-
+<!--
 #### ==Application Deadline: Saturday, May 17, 2025, 23:59 KST.==
 #### Internship Period: June 23, 2025 - August 29, 2025.
 
@@ -37,12 +37,9 @@ p { text-align: justify; }
 <br />
 
 __We’re looking for undergraduate interns who are interested in building cutting-edge machine learning technologies for visual data!__
-
-
-<!--
-<br />
-__We'll begin hiring Summer 2025 interns in mid-April 2025. Stay tuned for more updates!__
 -->
+
+### We'll begin hiring Winter 2025 interns in mid-October 2025. Stay tuned for more updates!
 
 
 ### Research Topics

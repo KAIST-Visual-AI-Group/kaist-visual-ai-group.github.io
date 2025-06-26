@@ -56,7 +56,5 @@ plugins:
         - courses: data/courses.yml
         - research_highlights: data/research_highlights.yml
         - news: data/news.yml
-  - social:
-      cards_layout: default
 
 copyright: Copyright &copy; 2021 - 2024 KAIST Visual AI Group

@@ -67,7 +67,7 @@ The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">
 
 <a href="{{ paper.link }}" target=_blank>
 <div class="card" markdown>
-<center markdown>
+<center>
 <img src="./assets/teasers/{{ paper.key }}-teaser.png" markdown>
 <b>{{ paper.title }} ({{ paper.venue }})</b><br>
 {{ paper.desc }}<br>
