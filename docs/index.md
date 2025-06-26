@@ -52,8 +52,7 @@ p { text-align: justify; }
 
 
 # {{ config.site_name }}
-The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">__{{ professor.name }}__</a>, researches advancing technologies for processing, analyzing, and generalizing diverse visual data. Our research spans areas such as computer graphics, computer vision, and machine learning.
-
+The KAIST Visual AI Group, led by <a href="{{ professor.web }}" target="_blank">__{{ professor.name }}__</a>, conducts research on advancing technologies for generating, processing, and analyzing diverse visual data. Our work spans areas such as machine learning, computer vision, and computer graphics.
 <!-- Link Swiper's CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
