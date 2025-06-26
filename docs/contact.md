@@ -28,7 +28,7 @@ mhsung (at) kaist.ac.kr
 
 KAIST School of Computing
 
-Rm. 507, Bldg. N3-5,
+Rm. 507, Bldg. E3-5 (KRAFTON Building),
 
 291 Daehak-ro, Yuseong-gu,
 
