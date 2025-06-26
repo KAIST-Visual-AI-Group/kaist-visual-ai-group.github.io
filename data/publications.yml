@@ -1,6 +1,20 @@
 years:
   - year: 2025
     papers:
+      - name: 048-tmlr25-membench
+        key: membench
+        title: "MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models"
+        authors:
+            - name: Chunsan Hong
+              link: https://sites.google.com/view/chunsanhong
+            - name: Tae-Hyun Oh\*
+              link: https://ami.kaist.ac.kr/members/tae-hyun-oh
+            - name: Minhyuk Sung\*
+        authors_note: co-corresponding authors
+        venue: TMLR
+        arXiv: https://arxiv.org/abs/2407.17095
+        pdf: https://openreview.net/pdf?id=z3RIiidJgD
+        code: https://github.com/chunsanHong/MemBench_code
       - name: 047-cvpr25-videohandles
         key: videohandles
         title: "VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors"
@@ -17,9 +31,10 @@ years:
         venue: CVPR 2025
         project: https://videohandles.github.io/
         arXiv: https://arxiv.org/abs/2503.01107
+        pdf: https://videohandles.github.io/static/assets/videohandles.pdf
       - name: 046-cvpr25-egocentric
         key: egocentric
-        title: "Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning"
+        title: "REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning"
         authors:
             - name: Jihyun Lee
               link: https://jyunlee.github.io/
@@ -37,6 +52,8 @@ years:
               link: https://sites.google.com/view/tkkim/home
             - name: Jason Saragih 
         venue: CVPR 2025
+        project: https://jyunlee.github.io/projects/rewind/
+        arXiv: https://arxiv.org/pdf/2504.04956
       - name: 045-iclr25-stochsync
         key: stochsync
         title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
