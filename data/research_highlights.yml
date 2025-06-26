@@ -1,3 +1,8 @@
+- key: apc
+  title: "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation"
+  venue: ICCV 2025
+  desc: A framework for vision-language models to perform spatial reasoning in arbitrary perspectives.
+  link: https://apc-vlm.github.io/
 - key: videohandles
   title: "VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors"
   venue: CVPR 2025
