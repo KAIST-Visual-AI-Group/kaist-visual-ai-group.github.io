@@ -5,6 +5,10 @@ years:
         link: https://mhsung.github.io/kaist-cs479-spring-2025/
         time: Spring 2025
         desc: This course discusses the recent advances in machine learning techniques for 3D data.
+      - title: "CS492(C): Diffusion and Flow Models"
+        link: https://diffusion.kaist.ac.kr/
+        time: Fall 2025
+        desc: This course discusses the theoretical foundations and practical applications of diffusion and flow models.
   - year: 2024
     courses: 
       - title: "CS580: Computer Graphics"
