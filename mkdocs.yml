@@ -39,7 +39,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - People: people.md
+  - Members: members.md
   - Publications: publications.md
   - Courses: courses.md
   - News: news.md
@@ -51,7 +51,7 @@ plugins:
   - search
   - macros:
       include_yaml:
-        - people: data/people.yml
+        - members: data/members.yml
         - publications: data/publications.yml
         - courses: data/courses.yml
         - research_highlights: data/research_highlights.yml

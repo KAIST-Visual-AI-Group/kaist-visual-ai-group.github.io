@@ -48,7 +48,7 @@ p { text-align: justify; }
 </style>
 
 
-{% set professor = people.professor %}
+{% set professor = members.professor %}
 
 
 # {{ config.site_name }}
