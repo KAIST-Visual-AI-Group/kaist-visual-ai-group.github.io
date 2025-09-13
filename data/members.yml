@@ -80,10 +80,6 @@ undergrads:
       web: https://32v.github.io/
       twitter: https://x.com/KyeongminYeo
     - name: Sangwoo Youn
-    - name: Hyunseo Lee
-    - name: Wonseo Choi
-    - name: Minsoo Lee
-    - name: Le Duc Nhuan
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -142,6 +138,10 @@ former_undergrads:
     - name: Junha Jang
     - name: Junwoo Choi
     - name: Jaeyeong Kim
+    - name: Hyunseo Lee
+    - name: Wonseo Choi
+    - name: Minsoo Lee
+    - name: Le Duc Nhuan
 visitors:
     - name: Nail Ibrahimli
       period: May 2025 - Present
