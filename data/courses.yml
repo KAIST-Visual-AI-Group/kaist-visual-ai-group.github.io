@@ -2,7 +2,7 @@ years:
   - year: 2025
     courses:
       - title: "CS479: Machine Learning for 3D Data"
-        link: https://mhsung.github.io/kaist-cs479-spring-2025/
+        link: http://3dml.kaist.ac.kr/
         time: Spring 2025
         desc: This course discusses the recent advances in machine learning techniques for 3D data.
       - title: "CS492(C): Diffusion and Flow Models"
