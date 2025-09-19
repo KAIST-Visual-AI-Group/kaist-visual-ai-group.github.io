@@ -40,10 +40,12 @@ phd:
       twitter: https://x.com/yuseungleee
       linkedin: https://www.linkedin.com/in/yuseung-lee-6b085223a
       github: https://github.com/phillipinseoul
+      cv: https://phillipinseoul.github.io/assets/files/CV_PhillipYuseungLee.pdf
 master:
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
+      linkedin: https://www.linkedin.com/in/jisung-hwang-1a9365340/
     - name: Taehoon Yoon
       type: M.S. Student
       email: taehoon@kaist.ac.kr
@@ -61,15 +63,22 @@ master:
     - name: Prin Phunyaphibarn
       type: M.S. Student
       email: prin10517@kaist.ac.kr
+      github: https://github.com/puzzlingConundrum
     - name: Daehyeon Choi
       type: M.S. Student
       email: daehyeonchoi@kaist.ac.kr
       web: https://choidaedae.github.io/
+      twitter: https://x.com/choi_daedae
       linkedin: https://www.linkedin.com/in/choi-daehyeon-570b0a214/
       cv: https://drive.google.com/file/d/1-3IMPOVSl3PWnQQN_kuu_9iXf77PIZIb/view?usp=sharing
     - name: Yunhong Min
       type: M.S. Student
       email: dbsghd363@kaist.ac.kr
+      web: https://myh4832.github.io/
+      twitter: https://x.com/myh4832
+      linkedin: https://www.linkedin.com/in/yunhong-min-b51ba92b9/
+      github: https://github.com/myh4832
+      cv: https://myh4832.github.io/assets/CV.pdf
     - name: Seoyoung Hwang
       type: M.S. Student
       email: sheongee@gmail.com
@@ -79,6 +88,7 @@ undergrads:
       email: aaaaa@kaist.ac.kr
       web: https://32v.github.io/
       twitter: https://x.com/KyeongminYeo
+      github: https://github.com/32V
     - name: Sangwoo Youn
 former_graduates:
     - name: Hyunjin Kim
