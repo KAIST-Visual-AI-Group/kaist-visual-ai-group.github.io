@@ -3,11 +3,7 @@ hide:
   - navigation
   - toc
 
-application_link: https://research.typeform.com/to/CSFyilFJ
-intro_link: None
-ml3d_link: https://mhsung.github.io/kaist-cs479-fall-2023/
-talk_link: https://kaistackr-my.sharepoint.com/:b:/g/personal/mhsung_kaist_ac_kr/EY5JBy6P7D1DlipHY7chcmwBOEFaUNdLvrou5MpQMgVv3w?e=SLcCde
-map_link: https://goo.gl/maps/Cv7wKzf4jhA1ezuh7
+application_link: https://form.typeform.com/to/hA83LYxK
 ---
 
 <style>
@@ -25,15 +21,12 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Graduate Students (Fall 2025)
+# Call for Graduate Students (Spring 2026)
 
-#### ==Applications will open at the end of September.==
-<!-- #### ==Application Deadline: October 18, 2025 (Saturday), 23:59 KST.== -->
+#### ==Application Deadline: October 12, 2025 (Sunday), 23:59 KST.==
 
-<!--
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
--->
 
 
 ## Join Our Group!
@@ -57,7 +50,7 @@ Please check out our recent publications [**here**](../publications/){:target="_
 
 To find more information about our group, visit the followings:
 
-<!--- [**Group introduction slides (Oct 2024)**](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy82MDU2MjAyM2I2NjQwMjgyL0VZSUNaTFlqSUZZZ2dHQS1oQUFBQUFBQmxqLS04RHFMN3RaN2NoNHViTzd2R0E%5FZT1oZHV5Vkc&cid=60562023B6640282&id=60562023B6640282%2133854&parId=60562023B6640282%212031&o=OneUp){:target="_blank}-->
+- [**Group introduction slides (Sep 2025)**](https://drive.google.com/file/d/1tDndYcCSiWAy5y8OF6vkFPPREKi-EA9Z/view?usp=sharing){:target="_blank}
 - [**Minhyuk's recent talk slides**](https://drive.google.com/file/d/1zexSlwFvJiuDY2ye2e2lwAurSlGM2F1l/view?pli=1){:target="_blank}
 - [**Publications page**](../publications/){:target="_blank}
 - **Course webpages**
