@@ -81,18 +81,18 @@ If you have questions about which openings would be best to apply for, please re
 
 ### Recruiting Criteria
 
-**We recruit Master’s students who are willing to pursue a Ph.D. in our group.** Students who have demonstrated strong performance through internships in our group will be given priority; however, we do not automatically select all students who have interned with us. Currently, approximately 30% of our graduate students joined without having interned in the group. Next, we prioritize students who have performed well in our courses. You can check the avaigrouple courses on my website.
+**We recruit Master’s students who are willing to pursue a Ph.D. in our group.** Students who have demonstrated strong performance through internships in our group will be given priority; however, we do not automatically select all students who have interned with us. Currently, approximately 30% of our graduate students joined without having interned in the group. Next, we prioritize students who have performed well in our courses. You can check the courses in the [**courses**](../courses/){:target="_blank} page.
 
 We consider the following aspects: (* number: Importance)
 
 - **Motivation (\*\*\*)**: Your reasons for wanting to conduct research in our group and the kind of research you wish to pursue.
 - **Knowledge (\*\*)**: Relevant courses taken and grades received, or level of related knowledge, including:
     - Linear algebra, probability and statistics, optimization, discrete mathematics, etc.
-    - Computer graphics, computer vision, machine learning, deep learning, etc.
+    - Machine learning, deep learning, computer graphics, computer vision, etc.
 - **Programming Skills (\*\*)**: Experience with PyTorch, TensorFlow, Python, C++, etc.
-- **English Skills (\*)**: The group's weekly meetings are conducted in English. Research achievements are published in English papers, which must also be presented in English. Colgrouporation with individuals from various countries is common during the research process.
 - **GPA (\*)**: Overall GPA and grades in relevant courses.
 - **Experience (\*)**: Participation in related research projects and internships, particularly in our group.
+- **English Skills (\*)**
 
 
 ### Recruiting Process
