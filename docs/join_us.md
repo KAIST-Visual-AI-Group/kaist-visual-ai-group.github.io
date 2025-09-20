@@ -90,9 +90,9 @@ We consider the following aspects: (* number: Importance)
     - Linear algebra, probability and statistics, optimization, discrete mathematics, etc.
     - Machine learning, deep learning, computer graphics, computer vision, etc.
 - **Programming Skills (\*\*)**: Experience with PyTorch, TensorFlow, Python, C++, etc.
+- **Communication skills (\*\*)**
 - **GPA (\*)**: Overall GPA and grades in relevant courses.
 - **Experience (\*)**: Participation in related research projects and internships, particularly in our group.
-- **English Skills (\*)**
 
 
 ### Recruiting Process
