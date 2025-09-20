@@ -50,12 +50,12 @@ Please check out our recent publications [**here**](../publications/){:target="_
 
 To find more information about our group, visit the followings:
 
-- [**Group introduction slides (Sep 2025)**](https://drive.google.com/file/d/1tDndYcCSiWAy5y8OF6vkFPPREKi-EA9Z/view?usp=sharing){:target="_blank}
+- [**Group introduction slides (September 2025)**](https://drive.google.com/file/d/1tDndYcCSiWAy5y8OF6vkFPPREKi-EA9Z/view?usp=sharing){:target="_blank}
 - [**Minhyuk's recent talk slides**](https://drive.google.com/file/d/1zexSlwFvJiuDY2ye2e2lwAurSlGM2F1l/view?pli=1){:target="_blank}
 - [**Publications page**](../publications/){:target="_blank}
 - **Course webpages**
     - [**Diffusion and Flow Models (Fall 2025)**](https://diffusion.kaist.ac.kr/){:target="_blank}
-    - [**Machine Learning for 3D Data (Spring 2024)**](https://3dml.kaist.ac.kr){:target="_blank}
+    - [**Machine Learning for 3D Data (Spring 2025)**](https://3dml.kaist.ac.kr){:target="_blank}
 
 
 ###Openings
