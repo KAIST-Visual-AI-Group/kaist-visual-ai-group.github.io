@@ -1,3 +1,8 @@
+- key: origen
+  title: "ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation"
+  venue: NeurIPS 2025
+  desc: The first zero-shot method for 3D orientation grounding in text-to-image generation across multiple objects and diverse categories.
+  link: https://origen2025.github.io/
 - key: psisampler
   title: "Ψ-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models"
   venue: NeurIPS 2025
