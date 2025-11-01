@@ -4,6 +4,11 @@ hide:
   - toc
 
 application_link: https://form.typeform.com/to/hA83LYxK
+lab_intro_link: https://drive.google.com/file/d/1tDndYcCSiWAy5y8OF6vkFPPREKi-EA9Z/view?usp=sharing
+talk_link: https://drive.google.com/file/d/1zexSlwFvJiuDY2ye2e2lwAurSlGM2F1l/view?pli=1
+diffusion_course_link: https://diffusion.kaist.ac.kr/
+ml3d_course_link: https://3dml.kaist.ac.kr/
+map_link: https://goo.gl/maps/Cv7wKzf4jhA1ezuh7
 ---
 
 <style>
@@ -21,15 +26,18 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Graduate Students (Spring 2026)
+# Call for Graduate Students (Spring 2026) — Closed
 
+<!--
 #### ==Application Deadline: October 12, 2025 (Sunday), 23:59 KST.==
 
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
 
-
 ## Join Our Group!
+-->
+
+### We’ll begin recruiting master’s students for Fall 2026 in mid-April 2026. Stay tuned for updates!
 
 ### Introduction to the KAIST Visual AI Group
 
@@ -50,12 +58,12 @@ Please check out our recent publications [**here**](../publications/){:target="_
 
 To find more information about our group, visit the followings:
 
-- [**Group introduction slides (September 2025)**](https://drive.google.com/file/d/1tDndYcCSiWAy5y8OF6vkFPPREKi-EA9Z/view?usp=sharing){:target="_blank}
-- [**Minhyuk's recent talk slides**](https://drive.google.com/file/d/1zexSlwFvJiuDY2ye2e2lwAurSlGM2F1l/view?pli=1){:target="_blank}
+- [**Group introduction slides (September 2025)**]({{page.meta.lab_intro_link}}){:target="_blank}
+- [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank}
 - [**Publications page**](../publications/){:target="_blank}
 - **Course webpages**
-    - [**Diffusion and Flow Models (Fall 2025)**](https://diffusion.kaist.ac.kr/){:target="_blank}
-    - [**Machine Learning for 3D Data (Spring 2025)**](https://3dml.kaist.ac.kr){:target="_blank}
+    - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank}
+    - [**Machine Learning for 3D Data (Spring 2025)**]({{page.meta.ml3d_course_link}}){:target="_blank}
 
 
 ###Openings
