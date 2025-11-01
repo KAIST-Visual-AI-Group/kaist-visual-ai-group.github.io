@@ -1,3 +1,12 @@
+- key: psisampler
+  title: "Ψ-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models"
+  venue: NeurIPS 2025
+  desc: A framework for score-based generative models enabling efficient inference-time reward alignment via initial particle sampling.
+  link: https://psi-sampler.github.io/
+- key: neuralgreen
+  title: "Neural Green’s Functions"
+  venue: NeurIPS 2025
+  desc: A neural operator designed for linear PDEs, providing strong generalization across diverse source terms, boundary conditions, and geometries.
 - key: apc
   title: "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation"
   venue: ICCV 2025
