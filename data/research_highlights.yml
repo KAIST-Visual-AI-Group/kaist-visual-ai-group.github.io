@@ -1,17 +1,8 @@
-- key: origen
-  title: "ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation"
-  venue: NeurIPS 2025
-  desc: The first zero-shot method for 3D orientation grounding in text-to-image generation across multiple objects and diverse categories.
-  link: https://origen2025.github.io/
-- key: psisampler
-  title: "Ψ-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models"
-  venue: NeurIPS 2025
-  desc: A framework for score-based generative models enabling efficient inference-time reward alignment via initial particle sampling.
-  link: https://psi-sampler.github.io/
 - key: neuralgreen
   title: "Neural Green’s Functions"
   venue: NeurIPS 2025
   desc: A neural operator designed for linear PDEs, providing strong generalization across diverse source terms, boundary conditions, and geometries.
+  link: https://openreview.net/forum?id=t2wMLGmcXd
 - key: apc
   title: "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation"
   venue: ICCV 2025
