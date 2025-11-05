@@ -17,6 +17,7 @@
   title: "Neural Green’s Functions"
   venue: NeurIPS 2025
   desc: A neural operator designed for linear PDEs, providing strong generalization across diverse source terms, boundary conditions, and geometries.
+  link: https://arxiv.org/abs/2511.01924
 - key: apc
   title: "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation"
   venue: ICCV 2025

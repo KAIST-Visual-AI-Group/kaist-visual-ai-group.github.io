@@ -90,6 +90,7 @@ years:
             - name: Jisung Hwang
             - name: Minhyuk Sung
         venue: NeurIPS 2025
+        arXiv: https://arxiv.org/abs/2511.01924
       - name: 049-iccv25-apc
         key: apc
         title: "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation"
