@@ -1,6 +1,15 @@
 years:
   - year: 2026
     papers:
+      - name: 056-3dv26-gsdeform
+        key: gsdeform
+        title: "Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation"
+        authors:
+            - name: Jaeyeong Kim
+            - name: Seungwoo Yoo
+              link: https://dvelopery0115.github.io/
+            - name: Minhyuk Sung
+        venue: 3DV 2026
       - name: 055-wacv26-unconditional
         key: unconditional
         title: "Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models"
