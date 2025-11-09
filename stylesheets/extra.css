@@ -1,0 +1,80 @@
+:root {
+    /* https://www.color-hex.com/ */
+    --md-primary-fg-color:          #021230;
+    --md-primary-fg-color--light:   #293F51;
+    --md-primary-fg-color--dark:    #0D001A;
+    --md-primary-bg-color--light:   #866D4B;
+    --md-primary-bg-color--lighter: #CEC7B7;
+    --md-accent-fg-color:           #051C2C; /* PANTONE® 296 C */
+}
+
+/* Thin */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Thin.otf) format('opentype');
+    font-style: normal;
+    font-weight: 100;
+}
+
+/* Light */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Light.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 300;
+}
+
+/* Normal */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Regular.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Medium.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Bold.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* Black */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url(./proxima-nova/Proxima Nova Black.ttf) format('opentype');
+    font-style: normal;
+    font-weight: 900;
+}
+
+.md-typeset h1 {
+    margin: -0.2em 0 0 0;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+  color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset mark {
+  background-color: var(--md-primary-bg-color--lighter);
+}
+
+.md-grid {
+  max-width: 1080px;
+}
+
+.md-banner {
+  background-color: var(--md-primary-bg-color--light);
+  font-weight: 600;
+}
