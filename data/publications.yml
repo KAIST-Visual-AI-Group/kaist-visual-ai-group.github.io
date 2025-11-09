@@ -12,7 +12,7 @@ years:
         venue: 3DV 2026
       - name: 056-wacv26-boxsplitgen
         key: boxsplitgen
-        title: "BOXSPLITGEN: A Generative Model for 3D Part Bounding Boxes in Varying Granularity"
+        title: "BoxSplitGen: A Generative Model for 3D Part Bounding Boxes in Varying Granularity"
         authors:
             - name: Juil Koo\*
               link: https://63days.github.io/
