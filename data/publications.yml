@@ -103,7 +103,7 @@ years:
         arXiv: https://arxiv.org/abs/2509.07027
       - name: 050-neurips25-neuralgreen
         key: neuralgreen
-        title: "Neural Green’s Functions for Solving Poisson’s Equation"
+        title: "Neural Green’s Functions"
         authors:
             - name: Seungwoo Yoo
               link: https://dvelopery0115.github.io/
