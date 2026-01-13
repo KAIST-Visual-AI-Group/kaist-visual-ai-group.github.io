@@ -79,17 +79,21 @@ master:
       linkedin: https://www.linkedin.com/in/yunhong-min-b51ba92b9/
       github: https://github.com/myh4832
       cv: https://myh4832.github.io/assets/CV.pdf
-#    - name: Seoyoung Hwang
-#      type: M.S. Student
-#      email: sheongee@gmail.com
 undergrads:
-  - name: Kyeongmin Yeo
+    - name: Kyeongmin Yeo
       type: Undergraduate Student
       email: aaaaa@kaist.ac.kr
       web: https://32v.github.io/
       twitter: https://x.com/KyeongminYeo
       github: https://github.com/32V
-#    - name: Sangwoo Youn
+    - name: Byoungkwon Kim
+    - name: Eunjun Lee
+    - name: Jin Yoo
+    - name: Jiwon Choi
+    - name: Minseo Kim
+    - name: Nguyên Trần Bảo
+    - name: Seungjun Kim
+    - name: Yunjae Jeong
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -152,6 +156,7 @@ former_undergrads:
     - name: Wonseo Choi
     - name: Minsoo Lee
     - name: Le Duc Nhuan
+    - name: Sangwoo Youn
 visitors:
     - name: Nail Ibrahimli
       period: May 2025 - Dec 2025

@@ -26,8 +26,9 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Internship (Winter 2025-2026)
+# Call for Internship (Winter 2025-2026) - Closed
 
+<!--
 #### ==Application Deadline: November 15, 2025 (Saturday), 23:59 KST.==
 #### Internship Period: December 22, 2025 - February 27, 2026  (Break: December 26–30, 2025)
 
@@ -36,10 +37,9 @@ p { text-align: justify; }
 <br />
 
 __We’re looking for undergraduate interns who are interested in building cutting-edge machine learning technologies for visual data!__
-
-<!--
-### We'll begin recruiting Winter 2025-2026 interns in mid-October 2025. Stay tuned for more updates!
 -->
+
+### We'll begin recruiting Summer 2026 interns in late April 2026. Stay tuned for more updates!
 
 
 ### Research Topics
