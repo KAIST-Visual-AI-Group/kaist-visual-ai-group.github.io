@@ -1,6 +1,36 @@
 years:
   - year: 2026
     papers:
+      - name: 061-iclr-bezierflow
+        key: bezierflow
+        title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
+        authors:
+            - name: Yunhong Min\*
+              link: https://myh4832.github.io/
+            - name: Juil Koo\*
+              link: https://63days.github.io/
+            - name: Seungwoo Yoo
+              link: https://dvelopery0115.github.io/
+            - name: Minhyuk Sung
+        authors_note: equal contributions
+        venue: ICLR 2026
+        arXiv: https://arxiv.org/abs/2512.13255
+        project: https://bezierflow.github.io/
+        code: https://github.com/KAIST-Visual-AI-Group/BezierFlow
+      - name: 060-iclr-pairflow
+        key: pairflow
+        title: "PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models"
+        authors:
+            - name: Mingue Park\*
+            - name: Jisung Hwang\*
+            - name: Seungwoo Yoo\*
+              link: https://dvelopery0115.github.io/
+            - name: Kyeongmin Yeo
+              link: https://32v.github.io/
+            - name: Minhyuk Sung
+        authors_note: equal contributions
+        venue: ICLR 2026
+        arXiv: https://arxiv.org/html/2512.20063v2
       - name: 059-aistats-demystifying-tm
         key: demystifying-tm
         title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
@@ -27,6 +57,7 @@ years:
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: TMLR
+        pdf: https://openreview.net/pdf?id=OCzcGOzgzz
       - name: 057-3dv26-gsdeform
         key: gsdeform
         title: "Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation"

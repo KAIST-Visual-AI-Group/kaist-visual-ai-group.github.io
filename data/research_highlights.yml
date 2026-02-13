@@ -1,3 +1,13 @@
+- key: bezierflow
+  title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
+  venue: ICLR 2026
+  desc: A lightweight training framework parameterizing stochastic interpolant schedulers via Bézier functions to optimize sampling trajectories for efficient few-step generation.
+  link: https://bezierflow.github.io/
+- key: pairflow
+  title: "PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models"
+  venue: ICLR 2026
+  desc: A lightweight preprocessing step for training Discrete Flow Models (DFMs) to achieve few-step sampling without requiring a pretrained teacher.
+  link: https://arxiv.org/abs/2512.20063v2
 - key: rbf
   title: "Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing"
   venue: NeurIPS 2025
