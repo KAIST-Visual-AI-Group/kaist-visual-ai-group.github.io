@@ -41,18 +41,15 @@ phd:
       linkedin: https://www.linkedin.com/in/phillip-lee-6b085223a/
       github: https://github.com/phillipinseoul
       cv: https://phillipinseoul.github.io/assets/files/CV_PhillipYuseungLee.pdf
-master:
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
       linkedin: https://www.linkedin.com/in/jisung-hwang-1a9365340/
-    - name: Taehoon Yoon
-      type: M.S. Student
-      email: taehoon@kaist.ac.kr
-      github: https://github.com/taehoon-yoon/
+master:
     - name: Mingue Park
       type: M.S. Student
       email: kicikicik@kaist.ac.kr
+      web: https://uygnim99.github.io/
     - name: Chanho Park
       type: M.S. Student
       email: charlieppark@kaist.ac.kr
@@ -79,13 +76,13 @@ master:
       linkedin: https://www.linkedin.com/in/yunhong-min-b51ba92b9/
       github: https://github.com/myh4832
       cv: https://myh4832.github.io/assets/CV.pdf
-undergrads:
     - name: Kyeongmin Yeo
       type: Undergraduate Student
       email: aaaaa@kaist.ac.kr
       web: https://32v.github.io/
       twitter: https://x.com/KyeongminYeo
       github: https://github.com/32V
+undergrads:
     - name: Byoungkwon Kim
     - name: Eunjun Lee
     - name: Jin Yoo
@@ -115,6 +112,10 @@ former_graduates:
       linkedin: https://www.linkedin.com/in/eunji-hong-15b2a9213
       github: https://github.com/eunzihong
       now: NAVER LABS
+    - name: Taehoon Yoon
+      type: M.S. Student
+      email: taehoon@kaist.ac.kr
+      github: https://github.com/taehoon-yoon/
 former_undergrads:
     - name: Baha E. Yaldiz
     - name: Mirali Ahmadli
