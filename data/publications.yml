@@ -1,6 +1,37 @@
 years:
   - year: 2026
     papers:
+      - name: 063-matlat
+        key: matlat
+        title: "MatLat: Material Latent Space for PBR Texture Generation"
+        authors:
+            - name: Kyeongmin Yeo 
+              link: https://32v.github.io/
+            - name: Yunhong Min
+              link: https://myh4832.github.io/
+            - name: Jaihoon Kim
+              link: https://jh27kim.github.io/
+            - name: Minhyuk Sung
+        venue: CVPR 2026
+        project: https://matlat-proj.github.io/
+        arXiv: https://arxiv.org/abs/2512.17302
+      - name: 062-token-warping
+        key: token-warping
+        title: "Token Warping Helps MLLMs Look from Nearby Viewpoints"
+        authors:
+            - name: Phillip Y. Lee\*
+              link: https://phillipinseoul.github.io/
+            - name: Chanho Park\*
+              link: https://charlieppark.kr/
+            - name: Mingue Park
+              link: https://uygnim99.github.io/
+            - name: Seungwoo Yoo
+              link: https://dvelopery0115.github.io/
+            - name: Juil Koo
+              link: https://63days.github.io/
+            - name: Minhyuk Sung
+        authors_note: equal contributions
+        venue: CVPR 2026
       - name: 061-iclr-bezierflow
         key: bezierflow
         title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
