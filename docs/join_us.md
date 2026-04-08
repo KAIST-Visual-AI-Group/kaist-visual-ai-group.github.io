@@ -26,7 +26,7 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Graduate Students (Spring 2026) — Closed
+# Call for Graduate Students
 
 <!--
 #### ==Application Deadline: October 12, 2025 (Sunday), 23:59 KST.==
@@ -37,19 +37,19 @@ p { text-align: justify; }
 ## Join Our Group!
 -->
 
-### We’ll begin recruiting master’s students for Fall 2026 in mid-April 2026. Stay tuned for updates!
-
 ### Introduction to the KAIST Visual AI Group
 
 In our group, we mainly research machine learning technologies for visual data. We currently focus on three main research topics (while not limited to these, we explore a wider range related to them):
 
-- Generative AI
+- Generative Modeling
+- Protein and Biological Data Generation
 - Spatial Intelligence
+- RL / Policy Learning
 - Multimodal Foundation Models
 
 Please check out our recent publications [**here**](../publications/){:target="_blank}. We actively publish papers in the following top-tier conferences in Machine Learning, Computer Vision, and Computer Graphics:
 
-- ML: NeurIPS, ICML, ICLR
+- ML: NeurIPS, ICML, ICLR, AISTATS
 - CV: CVPR, ICCV, ECCV
 - CG: SIGGRAPH, SIGGRAPH Asia
 
