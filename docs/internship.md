@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 
-application_link: https://form.typeform.com/to/oM6SJEI9
-lab_intro_link: https://drive.google.com/file/d/1tDndYcCSiWAy5y8OF6vkFPPREKi-EA9Z/view?usp=sharing
-talk_link: https://drive.google.com/file/d/1zexSlwFvJiuDY2ye2e2lwAurSlGM2F1l/view?pli=1
+application_link: https://form.typeform.com/to/yF96qyZS
+lab_intro_link: https://docs.google.com/presentation/d/1Ohw3EqYD9vQi8fEYfd8iJgA-mH7SnKKRIhEKvc-ELUA/edit?usp=sharing
+talk_link: https://drive.google.com/file/d/1gNBUsJcHuliuKctyuZrtFezg--v41gm4/view?usp=sharing
 diffusion_course_link: https://diffusion.kaist.ac.kr/
 ml3d_course_link: https://3dml.kaist.ac.kr/
 map_link: https://naver.me/xZjWQAMo
@@ -26,50 +26,50 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Internship (Winter 2025-2026) - Closed
+# Call for Internship (Summer 2026)
 
-<!--
-#### ==Application Deadline: November 15, 2025 (Saturday), 23:59 KST.==
-#### Internship Period: December 22, 2025 - February 27, 2026  (Break: December 26–30, 2025)
+#### ==Application Deadline: May 16, 2026 (Saturday), 23:59 KST.==
+#### Internship Period: June 29, 2026 - August 28, 2026
 
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
 <br />
 
-__We’re looking for undergraduate interns who are interested in building cutting-edge machine learning technologies for visual data!__
--->
-
-### We'll begin recruiting Summer 2026 interns in late April 2026. Stay tuned for more updates!
-
 
 ### Research Topics
-- Generative Models
-    - Continuous/Discrete diffusion/flow models
-    - Generative models across diverse data modalities
-    - Inference-time scaling
-- Multimodal Foundation Models
-    - Spatial Intelligence
-    - RL techniques for fine-tuning
+- Generative Modeling
+    - Cross-Modal Generative Modeling
+    - Continuous and Discrete Diffusion and Flow Models
+    - Reward-Guided Sampling
+- Generative Modeling for Biological Data
+    - Protein and DNA Generation
+    - Energy-Based Generative Models
+- Generative Policy Learning
+    - Online and Offline Diffusion Policy Learning
+    - Vision-Language-Action (VLA) Models 
+- Spatial Intelligence
+    - Embodied Question Answering
+    - World Modeling
 
 
 ### What You'll Do
-As an intern, you'll have the opportunity to cultivate hands-on experience in research while participating in the following activities:
+As an intern, you'll have the opportunity to gain hands-on research experience in research while participating in the following activities:
 
 - Tutorials: Curated coding assignments covering recent research topics.
 - Project: A small-scale research project based on an idea provided by our group. Interns are also welcome to pitch their own ideas for the project.
-- Weekly Meetings: In-depth discussions on technical papers led by two student presenters (including both graduate and undergraduate students) every week.
+- Weekly Meetings: In-depth discussions on technical papers led each week by two student presenters (including both graduate and undergraduate students).
 - Paper Digest Meetings: Lightweight meetings for briefly skimming through recent papers.
 
 
 ### Resources
-To find more information about our group, visit the followings:
+To find more information about our group, visit the following:
 
-- [**Group introduction slides (September 2025)**]({{page.meta.lab_intro_link}}){:target="_blank}
 - [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank}
+- [**Group introduction slides (Spring 2026)**]({{page.meta.lab_intro_link}}){:target="_blank}
 - [**Publications page**](../publications/){:target="_blank}
 - **Course webpages**
     - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank}
-    - [**Machine Learning for 3D Data (Spring 2025)**]({{page.meta.ml3d_course_link}}){:target="_blank}
+    - [**Machine Learning for 3D Data (Spring 2026)**]({{page.meta.ml3d_course_link}}){:target="_blank}
 
 
 ### Requirements
@@ -77,12 +77,12 @@ To find more information about our group, visit the followings:
 - Candidates who have taken or audited the courses [__Diffusion and Flow Models__]({{page.meta.diff_course_link}}){:target="_blank} and/or [__Machine Learning for 3D Data__]({{page.meta.ml3d_course_link}}){:target="_blank} will be preferred (though this is not required).
 - Interns will be required to be __physically present__ in our lab during the internship.<br>
   Location: [__KAIST, KRAFTON SoC Building(E3-5), Rm 510, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank}
-- Candidates who can extend the internship for the following semester will be preferred. (Remote work can be considered for the extension.)
+- Candidates who are available to continue the internship for the following semester will be preferred. (Remote work can be considered for the extension.)
 
 
 ### Conditions
-- Interns will be expected to commit to the internship for __full-time at least 8 weeks__.
-- Interns will be __paid__, and computing resources will be provided.<br>Students enrolled in a university outside of Korea __cannot__ be paid due to administrative restrictions.
+- Interns will be expected to  commit full-time to the internship for at least __8 weeks__.
+- Interns will be __paid__, and computing resources will be provided. Students enrolled in a university outside of Korea __cannot__ be paid due to administrative restrictions.
 
 
 ### How to Apply
@@ -99,7 +99,7 @@ mhsung (at) kaist.ac.kr
 
 ### FAQ
 - __Q. Can non-KAIST students apply?__<br>
-A. Yes. But we cannot provide financial support for students enrolled in international institutions. (International students enrolled in universities in Korea are eligible.)
+A. Yes. But we cannot provide financial support for students enrolled in institutions outside Korea. (International students enrolled in universities in Korea are eligible.)
 
 - __Q. Can non-KAIST students stay in a KAIST dormitory during the internship?__<br>
 A. Yes.
