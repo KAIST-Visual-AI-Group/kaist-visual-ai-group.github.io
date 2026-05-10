@@ -97,11 +97,9 @@ master:
       cv: https://32v.github.io/cv/
 undergrads:
     - name: Byoungkwon Kim
-    - name: Eunjun Lee
     - name: Jin Yoo
     - name: Jiwon Choi
     - name: Minseo Kim
-    - name: Nguyên Trần Bảo
     - name: Seungjun Kim
     - name: Yunjae Jeong
 former_graduates:
@@ -118,7 +116,7 @@ former_graduates:
       linkedin: https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EA%B9%80-192897184/
       github: https://github.com/Soulmates2
       cv: https://soulmates2.github.io/assets/cv/cv_KunhoKim.pdf
-      now: RebuilderAI
+      now: NC AI
     - name: Eunji Hong
       type: M.S. Student
       email: hong969@kaist.ac.kr
@@ -171,6 +169,8 @@ former_undergrads:
     - name: Minsoo Lee
     - name: Le Duc Nhuan
     - name: Sangwoo Youn
+    - name: Nguyên Trần Bảo
+    - name: Eunjun Lee
 visitors:
     - name: Nail Ibrahimli
       period: May 2025 - Dec 2025
