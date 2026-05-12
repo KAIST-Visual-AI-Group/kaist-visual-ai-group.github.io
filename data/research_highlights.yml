@@ -1,3 +1,7 @@
+- key: matlat
+  title: "MatLat: Material Latent Space for PBR Texture Generation"
+  venue: CVPR 2026 Highlight
+  desc: A material-aware latent diffusion framework that fine-tunes a pretrained VAE to incorporate PBR channels while preserving latent locality.
 - key: bezierflow
   title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
   venue: ICLR 2026
@@ -20,7 +24,7 @@
   link: https://origen2025.github.io/
 - key: psisampler
   title: "Ψ-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models"
-  venue: NeurIPS 2025
+  venue: NeurIPS 2025 Spotlight
   desc: A framework for score-based generative models enabling efficient inference-time reward alignment via initial particle sampling.
   link: https://psi-sampler.github.io/
 - key: neuralgreen
