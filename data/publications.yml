@@ -1,7 +1,7 @@
 years:
   - year: 2026
     papers:
-      - name: 064-projected-gradient
+      - name: 064-icml26-projected-gradient
         key: projected-gradient
         title: "Projected Gradient Ascent for Efficient Reward-Guided Updates with One-Step Generative Models"
         authors:
@@ -9,7 +9,7 @@ years:
             - name: Minhyuk Sung
         venue: ICML 2026
         arXiv: https://arxiv.org/abs/2602.08646
-      - name: 063-matlat
+      - name: 063-cvpr26-matlat
         key: matlat
         title: "MatLat: Material Latent Space for PBR Texture Generation"
         authors:
@@ -24,7 +24,7 @@ years:
         publication_note: Highlight
         project: https://matlat-proj.github.io/
         arXiv: https://arxiv.org/abs/2512.17302
-      - name: 062-token-warping
+      - name: 062-cvpr26-token-warping
         key: token-warping
         title: "Token Warping Helps MLLMs Look from Nearby Viewpoints"
         authors:
@@ -44,7 +44,7 @@ years:
         arXiv: https://arxiv.org/abs/2604.02870
         project: https://token-warping-mllm.github.io/
         code: https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM
-      - name: 061-iclr-bezierflow
+      - name: 061-iclr26-bezierflow
         key: bezierflow
         title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
         authors:
@@ -60,7 +60,7 @@ years:
         arXiv: https://arxiv.org/abs/2512.13255
         project: https://bezierflow.github.io/
         code: https://github.com/KAIST-Visual-AI-Group/BezierFlow
-      - name: 060-iclr-pairflow
+      - name: 060-iclr26-pairflow
         key: pairflow
         title: "PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models"
         authors:
@@ -75,7 +75,7 @@ years:
         venue: ICLR 2026
         arXiv: https://arxiv.org/abs/2512.20063
         project: https://pair-flow.github.io/
-      - name: 059-aistats-demystifying-tm
+      - name: 059-aistats26-demystifying-tm
         key: demystifying-tm
         title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
         authors:
@@ -130,7 +130,7 @@ years:
         title: "Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models"
         authors:
             - name: Prin Phunyaphibarn
-              link: https://github.com/puzzlingConundrum
+              link: https://prinphunya.github.io/
             - name: Phillip Y. Lee
               link: https://phillipinseoul.github.io/
             - name: Jaihoon Kim
