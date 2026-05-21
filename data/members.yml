@@ -67,6 +67,7 @@ master:
     - name: Prin Phunyaphibarn
       type: M.S. Student
       email: prin10517@kaist.ac.kr
+      web: https://prinphunya.github.io/
       google_scholar: https://scholar.google.com/citations?user=mmNOk74AAAAJ
       github: https://github.com/puzzlingConundrum
     - name: Daehyeon Choi
