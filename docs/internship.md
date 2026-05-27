@@ -26,14 +26,18 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Internship (Summer 2026)
+# Call for Internship (Summer 2026) — Closed
+### We’ll begin recruiting Winter 2026–2027 interns in mid-October. Stay tuned for more updates!
 
+
+<!--
 #### ==Application Deadline: May 16, 2026 (Saturday), 23:59 KST.==
 #### Internship Period: June 29, 2026 - August 28, 2026
 
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
 <br />
+-->
 
 
 ### Research Topics
@@ -46,7 +50,7 @@ p { text-align: justify; }
     - Energy-Based Generative Models
 - Generative Policy Learning
     - Online and Offline Diffusion Policy Learning
-    - Vision-Language-Action (VLA) Models 
+    - Vision-Language-Action (VLA) Models
 - Spatial Intelligence
     - Embodied Question Answering
     - World Modeling
@@ -76,7 +80,7 @@ To find more information about our group, visit the following:
 - We're looking for students who have experience in developing any __deep learning__ techniques.
 - Candidates who have taken or audited the courses [__Diffusion and Flow Models__]({{page.meta.diff_course_link}}){:target="_blank} and/or [__Machine Learning for 3D Data__]({{page.meta.ml3d_course_link}}){:target="_blank} will be preferred (though this is not required).
 - Interns will be required to be __physically present__ in our lab during the internship.<br>
-  Location: [__KAIST, KRAFTON SoC Building(E3-5), Rm 510, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank}
+  Location: [__KAIST, KRAFTON SoC Building (E3-5), Rm 510, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank}
 - Candidates who are available to continue the internship for the following semester will be preferred. (Remote work can be considered for the extension.)
 
 
