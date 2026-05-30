@@ -1,9 +1,9 @@
 years:
   - year: 2026
     papers:
-      - name: 064-icml26-projected-gradient
-        key: projected-gradient
-        title: "Projected Gradient Ascent for Efficient Reward-Guided Updates with One-Step Generative Models"
+      - name: 064-icml26-gradient-preconditioning
+        key: gradient-preconditioning
+        title: "Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation"
         authors:
             - name: Jisung Hwang
             - name: Minhyuk Sung
