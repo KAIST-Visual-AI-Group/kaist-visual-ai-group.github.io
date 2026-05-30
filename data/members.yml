@@ -49,7 +49,11 @@ phd:
     - name: Jisung Hwang
       type: M.S. Student
       email: 4011hjs@kaist.ac.kr
+      web: https://jisung0111.github.io
+      google_scholar: https://scholar.google.com/citations?user=0JtvonsAAAAJ
+      x: https://x.com/Jisung0111
       linkedin: https://www.linkedin.com/in/jisung-hwang-1a9365340/
+      cv: https://jisung0111.github.io/cv/cv.pdf
 master:
     - name: Mingue Park
       type: M.S. Student
