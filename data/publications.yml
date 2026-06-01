@@ -6,6 +6,7 @@ years:
         title: "Projected Gradient Ascent for Efficient Reward-Guided Updates with One-Step Generative Models"
         authors:
             - name: Jisung Hwang
+              link: https://jisung0111.github.io/
             - name: Minhyuk Sung
         venue: ICML 2026
         arXiv: https://arxiv.org/abs/2602.08646
@@ -65,7 +66,9 @@ years:
         title: "PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models"
         authors:
             - name: Mingue Park\*
+              link: https://uygnim99.github.io/
             - name: Jisung Hwang\*
+              link: https://jisung0111.github.io/
             - name: Seungwoo Yoo\*
               link: https://dvelopery0115.github.io/
             - name: Kyeongmin Yeo
@@ -169,6 +172,7 @@ years:
             - name: Taehoon Yoon\*
               link: https://github.com/taehoon-yoon/
             - name: Jisung Hwang\*
+              link: https://jisung0111.github.io/
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: NeurIPS 2025
@@ -198,6 +202,7 @@ years:
         title: "Moment- and Power-Spectrum-Based Gaussianity Regularization for Text-to-Image Models"
         authors:
             - name: Jisung Hwang
+              link: https://jisung0111.github.io/
             - name: Jaihoon Kim
               link: https://jh27kim.github.io/
             - name: Minhyuk Sung
@@ -212,6 +217,7 @@ years:
             - name: Kyeongmin Yeo
               link: https://32v.github.io/
             - name: Jisung Hwang
+              link: https://jisung0111.github.io/
             - name: Minhyuk Sung
         venue: NeurIPS 2025
         arXiv: https://arxiv.org/abs/2511.01924
@@ -363,6 +369,7 @@ years:
         title: "Occupancy-Based Dual Contouring"
         authors:
             - name: Jisung Hwang
+              link: https://jisung0111.github.io/
             - name: Minhyuk Sung
         venue: SIGGRAPH Asia 2024
         project: https://occupancy-based-dual-contouring.github.io/
