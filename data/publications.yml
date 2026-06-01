@@ -1,9 +1,9 @@
 years:
   - year: 2026
     papers:
-      - name: 064-icml26-projected-gradient
-        key: projected-gradient
-        title: "Projected Gradient Ascent for Efficient Reward-Guided Updates with One-Step Generative Models"
+      - name: 064-icml26-gradient-preconditioning
+        key: gradient-preconditioning
+        title: "Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation"
         authors:
             - name: Jisung Hwang
               link: https://jisung0111.github.io/
@@ -14,7 +14,7 @@ years:
         key: matlat
         title: "MatLat: Material Latent Space for PBR Texture Generation"
         authors:
-            - name: Kyeongmin Yeo 
+            - name: Kyeongmin Yeo
               link: https://32v.github.io/
             - name: Yunhong Min
               link: https://myh4832.github.io/
@@ -25,6 +25,7 @@ years:
         publication_note: Highlight
         project: https://matlat-proj.github.io/
         arXiv: https://arxiv.org/abs/2512.17302
+        code: https://github.com/KAIST-Visual-AI-Group/MatLat
       - name: 062-cvpr26-token-warping
         key: token-warping
         title: "Token Warping Helps MLLMs Look from Nearby Viewpoints"
@@ -42,8 +43,8 @@ years:
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: CVPR 2026
-        arXiv: https://arxiv.org/abs/2604.02870
         project: https://token-warping-mllm.github.io/
+        arXiv: https://arxiv.org/abs/2604.02870
         code: https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM
       - name: 061-iclr26-bezierflow
         key: bezierflow
@@ -76,8 +77,9 @@ years:
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: ICLR 2026
-        arXiv: https://arxiv.org/abs/2512.20063
         project: https://pair-flow.github.io/
+        arXiv: https://arxiv.org/abs/2512.20063
+        code: https://github.com/KAIST-Visual-AI-Group/PairFlow
       - name: 059-aistats26-demystifying-tm
         key: demystifying-tm
         title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
@@ -91,6 +93,7 @@ years:
               link: https://youngsuk0723.github.io/
         venue: AISTATS 2026
         arXiv: https://arxiv.org/abs/2510.17991
+        code: https://github.com/amazon-science/TransitionFlowMatching
       - name: 058-tmlr-diffusion-rollout
         key: diffusion-rollout
         title: "DiffusionRollout: Uncertainty-Aware Rollout Planning in Long-Horizon PDE Solving"
@@ -128,6 +131,10 @@ years:
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: WACV 2026
+        project: https://boxsplitgen.github.io/
+        arXiv: https://arxiv.org/abs/2602.20666
+        pdf: https://boxsplitgen.github.io/assets/02785.pdf
+        supplementary: https://boxsplitgen.github.io/assets/02785_supp.pdf
       - name: 055-wacv26-unconditional
         key: unconditional
         title: "Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models"
@@ -161,7 +168,6 @@ years:
         publication_note: Spotlight
         project: https://psi-sampler.github.io/
         arXiv: https://arxiv.org/abs/2506.01320
-        pdf: https://arxiv.org/pdf/2506.01320
         code: https://github.com/KAIST-Visual-AI-Group/Psi-Sampler
       - name: 053-neurips25-rbf
         key: rbf
@@ -290,10 +296,12 @@ years:
             - name: Minhyuk Sung
             - name: Tae-Kyun Kim
               link: https://sites.google.com/view/tkkim/home
-            - name: Jason Saragih 
+            - name: Jason Saragih
         venue: CVPR 2025
         project: https://jyunlee.github.io/projects/rewind/
         arXiv: https://arxiv.org/pdf/2504.04956
+        video: https://youtu.be/sMEGyQKHr8c
+        supplementary: https://jyunlee.github.io/projects/rewind/static/supp.pdf
       - name: 045-iclr25-stochsync
         key: stochsync
         title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"

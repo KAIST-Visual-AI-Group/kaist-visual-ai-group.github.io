@@ -47,7 +47,7 @@ phd:
       github: https://github.com/phillipinseoul
       cv: https://phillipinseoul.github.io/assets/files/CV_PhillipLee.pdf
     - name: Jisung Hwang
-      type: M.S. Student
+      type: Ph.D. Student
       email: 4011hjs@kaist.ac.kr
       web: http://jisung0111.github.io/
       google_scholar: https://scholar.google.com/citations?user=0JtvonsAAAAJ&hl=ja
@@ -178,6 +178,8 @@ former_undergrads:
     - name: Nguyên Trần Bảo
     - name: Eunjun Lee
 visitors:
+    - name: Guillaume Vitalis
+      period: Mar 2026 - Present
     - name: Nail Ibrahimli
       period: May 2025 - Dec 2025
     - name: Wei-Tung Lin
