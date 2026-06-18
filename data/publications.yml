@@ -1,6 +1,36 @@
 years:
   - year: 2026
     papers:
+      - name: 066-eccv26-noisetilt
+        key: noisetilt
+        title: "NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment"
+        authors:
+            - name: Jisung Hwang
+              link: https://jisung0111.github.io/
+            - name: Yunhong Min
+              link: https://myh4832.github.io/
+            - name: Jaihoon Kim
+              link: https://jh27kim.github.io/
+            - name: I-Chao Shen\*
+              link: https://jdily.github.io/
+            - name: Minhyuk Sung\*
+        authors_note: co-corresponding authors
+        venue: ECCV 2026
+        arXiv: https://arxiv.org/abs/2606.18066
+      - name: 065-eccv26-diversevar
+        key: diversevar
+        title: "DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models"
+        authors:
+            - name: Mingue Park\*
+              link: https://uygnim99.github.io/
+            - name: Prin Phunyaphibarn\*
+              link: https://prinphunya.github.io/
+            - name: Phillip Y. Lee
+              link: https://phillipinseoul.github.io/
+            - name: Minhyuk Sung
+        authors_note: equal contributions
+        venue: ECCV 2026
+        arXiv: https://arxiv.org/abs/2511.21415
       - name: 064-icml26-gradient-preconditioning
         key: gradient-preconditioning
         title: "Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation"
@@ -46,7 +76,21 @@ years:
         project: https://token-warping-mllm.github.io/
         arXiv: https://arxiv.org/abs/2604.02870
         code: https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM
-      - name: 061-iclr26-bezierflow
+      - name: 061-aistats26-demystifying-tm
+        key: demystifying-tm
+        title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
+        authors:
+            - name: Jaihoon Kim
+              link: https://jh27kim.github.io/
+            - name: Rajarshi Saha
+              link: https://sites.google.com/view/rajarshi-saha/home
+            - name: Minhyuk Sung
+            - name: Youngsuk Park
+              link: https://youngsuk0723.github.io/
+        venue: AISTATS 2026
+        arXiv: https://arxiv.org/abs/2510.17991
+        code: https://github.com/amazon-science/TransitionFlowMatching
+      - name: 060-iclr26-bezierflow
         key: bezierflow
         title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
         authors:
@@ -62,7 +106,7 @@ years:
         arXiv: https://arxiv.org/abs/2512.13255
         project: https://bezierflow.github.io/
         code: https://github.com/KAIST-Visual-AI-Group/BezierFlow
-      - name: 060-iclr26-pairflow
+      - name: 059-iclr26-pairflow
         key: pairflow
         title: "PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models"
         authors:
@@ -80,20 +124,6 @@ years:
         project: https://pair-flow.github.io/
         arXiv: https://arxiv.org/abs/2512.20063
         code: https://github.com/KAIST-Visual-AI-Group/PairFlow
-      - name: 059-aistats26-demystifying-tm
-        key: demystifying-tm
-        title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
-        authors:
-            - name: Jaihoon Kim
-              link: https://jh27kim.github.io/
-            - name: Rajarshi Saha
-              link: https://sites.google.com/view/rajarshi-saha/home
-            - name: Minhyuk Sung
-            - name: Youngsuk Park
-              link: https://youngsuk0723.github.io/
-        venue: AISTATS 2026
-        arXiv: https://arxiv.org/abs/2510.17991
-        code: https://github.com/amazon-science/TransitionFlowMatching
       - name: 058-tmlr-diffusion-rollout
         key: diffusion-rollout
         title: "DiffusionRollout: Uncertainty-Aware Rollout Planning in Long-Horizon PDE Solving"
