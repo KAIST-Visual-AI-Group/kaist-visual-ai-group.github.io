@@ -525,7 +525,7 @@ years:
         project: https://jyunlee.github.io/projects/fourier-hand-flow/
       - name: 031-pg23-optctrlpoints
         key: optctrlpoints
-        title: "OptCtrlPoints: Optimizing Control Points for Biharmonic 3D Shape Deformation"
+        title: "OptCtrlPoints: Finding the Optimal Control Points for Biharmonic 3D Shape Deformation"
         authors:
             - name: Kunho Kim\*
             - name: Mikaela Angelina Uy\*
@@ -855,7 +855,7 @@ years:
         code: https://github.com/Steve-Tod/DeformSyncNet
       - name: 014-eccv20-deformation-aware
         key: deformation-aware
-        title: "Deformation-Aware 3D Shape Embedding and Retrieval"
+        title: "Deformation-Aware 3D Model Embedding and Retrieval"
         authors:
             - name: Mikaela Angelina Uy
               link: https://mikacuy.github.io/
