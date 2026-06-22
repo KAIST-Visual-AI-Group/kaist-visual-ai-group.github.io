@@ -1,7 +1,7 @@
 years:
   - year: 2026
     papers:
-      - name: 066-eccv26-noisetilt
+      - name: 067-eccv26-noisetilt
         key: noisetilt
         title: "NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment"
         authors:
@@ -17,7 +17,7 @@ years:
         authors_note: co-corresponding authors
         venue: ECCV 2026
         arXiv: https://arxiv.org/abs/2606.18066
-      - name: 065-eccv26-diversevar
+      - name: 066-eccv26-diversevar
         key: diversevar
         title: "DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models"
         authors:
@@ -31,6 +31,18 @@ years:
         authors_note: equal contributions
         venue: ECCV 2026
         arXiv: https://arxiv.org/abs/2511.21415
+      - name: 065-eccv26-morphgs
+        key: morphgs
+        title: "MorphGS: Morphology-Adaptive Articulated Motion Transfer from Videos"
+        authors:
+            - name: Taeyeon Kim\*
+            - name: Youngju Na\*
+            - name: Jumin Lee
+            - name: Minhyuk Sung
+            - name: Sung-eui Yoon
+        authors_note: equal contributions
+        venue: ECCV 2026
+        arXiv: https://arxiv.org/abs/2601.02716
       - name: 064-icml26-gradient-preconditioning
         key: gradient-preconditioning
         title: "Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation"
