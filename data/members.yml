@@ -102,12 +102,16 @@ master:
       github: https://github.com/32V
       cv: https://32v.github.io/cv/
 undergrads:
+    - name: Sangwoo Youn
     - name: Byoungkwon Kim
-    - name: Jin Yoo
     - name: Jiwon Choi
-    - name: Minseo Kim
-    - name: Seungjun Kim
     - name: Yunjae Jeong
+    - name: Deokyeong Lee
+    - name: Hanjun Yoo
+    - name: Heeyeon Hwang
+    - name: Jongwook Jeon
+    - name: Juneha Hwang
+    - name: Ualibyek Nurgulan
 former_graduates:
     - name: Hyunjin Kim
       type: M.S. Student
@@ -174,9 +178,11 @@ former_undergrads:
     - name: Wonseo Choi
     - name: Minsoo Lee
     - name: Le Duc Nhuan
-    - name: Sangwoo Youn
     - name: Nguyên Trần Bảo
     - name: Eunjun Lee
+    - name: Jin Yoo
+    - name: Minseo Kim
+    - name: Seungjun Kim
 visitors:
     - name: Guillaume Vitalis
       period: Mar 2026 - Present
