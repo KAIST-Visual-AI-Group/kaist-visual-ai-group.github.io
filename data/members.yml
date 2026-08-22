@@ -55,12 +55,12 @@ phd:
       linkedin: https://www.linkedin.com/in/jisung-hwang-1a9365340/
       github: https://github.com/Jisung0111
       cv: https://jisung0111.github.io/cv/cv.pdf
-master:
     - name: Mingue Park
       type: M.S. Student
       email: kicikicik@kaist.ac.kr
       web: https://uygnim99.github.io/
       linkedin: https://www.linkedin.com/in/mingue-park-0a3039272/
+master:
     - name: Chanho Park
       type: M.S. Student
       email: charlieppark@kaist.ac.kr
@@ -93,7 +93,7 @@ master:
       github: https://github.com/myh4832
       cv: https://myh4832.github.io/assets/CV.pdf
     - name: Kyeongmin Yeo
-      type: Undergraduate Student
+      type: M.S. Student
       email: aaaaa@kaist.ac.kr
       web: https://32v.github.io/
       google_scholar: https://scholar.google.com/citations?user=4GShW2oAAAAJ
@@ -101,13 +101,17 @@ master:
       linkedin: https://www.linkedin.com/in/kyeongmin-yeo-a2964535b/
       github: https://github.com/32V
       cv: https://32v.github.io/cv/
+    - name: Byoungkwon Kim
+      type: M.S. Student
+      email: ssamt@kaist.ac.kr
+    - name: Jiwon Choi
+      type: M.S. Student
+      email: zz1529@kaist.ac.kr
+    - name: Yunjae Jeong
+      type: M.S. Student
+      email: frogjj@kaist.ac.kr
 undergrads:
     - name: Sangwoo Youn
-    - name: Byoungkwon Kim
-    - name: Jiwon Choi
-    - name: Yunjae Jeong
-    - name: Deokyeong Lee
-    - name: Hanjun Yoo
     - name: Heeyeon Hwang
     - name: Jongwook Jeon
     - name: Juneha Hwang
@@ -183,6 +187,8 @@ former_undergrads:
     - name: Jin Yoo
     - name: Minseo Kim
     - name: Seungjun Kim
+    - name: Deokyeong Lee
+    - name: Hanjun Yoo
 visitors:
     - name: Guillaume Vitalis
       period: Mar 2026 - Present
