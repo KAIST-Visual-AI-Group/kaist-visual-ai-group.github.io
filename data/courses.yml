@@ -5,7 +5,7 @@ years:
         link: http://3dml.kaist.ac.kr/
         time: Spring 2026
         desc: This course discusses the recent advances in machine learning techniques for 3D data.
-      - title: "AIC313: Introduction to Generative Models"
+      - title: "AIC313/CS378: Introduction to Generative Models"
         link: https://generative-models.kaist.ac.kr/
         time: Fall 2026
         desc: This course covers the fundamental principles and recent advances in generative models.
