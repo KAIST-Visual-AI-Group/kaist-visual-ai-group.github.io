@@ -116,7 +116,7 @@ __{{ item.name }}__
 </div>
 
 
-## Former Graduate Students
+## Alumni
 
 <div class="grid" markdown>
 

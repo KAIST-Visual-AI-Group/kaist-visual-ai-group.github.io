@@ -119,27 +119,24 @@ undergrads:
     - name: Ualibyek Nurgulan
 former_graduates:
     - name: Hyunjin Kim
-      type: M.S. Student
+      type: M.S. 2024
       email: rlaguswls98@kaist.ac.kr
       web: https://kormachine.github.io/
-      now: KRAFTON
     - name: Kunho Kim
-      type: M.S. Student
+      type: M.S. 2024
       email: kaist984@kaist.ac.kr
       web: https://soulmates2.github.io/
       x: https://x.com/kunho_kim_
       linkedin: https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EA%B9%80-192897184/
       github: https://github.com/Soulmates2
       cv: https://soulmates2.github.io/assets/cv/cv_KunhoKim.pdf
-      now: NC AI
     - name: Eunji Hong
-      type: M.S. Student
+      type: M.S. 2024
       email: hong969@kaist.ac.kr
       linkedin: https://www.linkedin.com/in/eunji-hong-15b2a9213
       github: https://github.com/eunzihong
-      now: NAVER LABS
     - name: Taehoon Yoon
-      type: M.S. Student
+      type: M.S. 2026
       email: taehoon@kaist.ac.kr
       github: https://github.com/taehoon-yoon/
 former_undergrads:
