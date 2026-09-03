@@ -22,7 +22,7 @@ phd:
     - name: Jaihoon Kim
       type: Ph.D. Student
       email: jh27kim@kaist.ac.kr
-      web: https://jh27kim.github.io/ 
+      web: https://jh27kim.github.io/
       google_scholar: https://scholar.google.com/citations?user=DJlx5QMAAAAJ
       x: https://x.com/KimJaihoon
       linkedin: https://www.linkedin.com/in/jaihoon-kim-8b2920172
@@ -198,4 +198,3 @@ visitors:
       period: Mar 2024 - Jul 2024
     - name: Jihyeon Je
       period: Jun 2023 - Aug 2023
-      now: Ph.D. Student at Stanford
