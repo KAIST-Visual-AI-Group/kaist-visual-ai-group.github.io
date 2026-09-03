@@ -17,6 +17,7 @@ years:
         authors_note: co-corresponding authors
         venue: ECCV 2026
         arXiv: https://arxiv.org/abs/2606.18066
+        code: https://github.com/KAIST-Visual-AI-Group/NoiseTilt
       - name: 066-eccv26-diversevar
         key: diversevar
         title: "DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models"
@@ -30,7 +31,9 @@ years:
             - name: Minhyuk Sung
         authors_note: equal contributions
         venue: ECCV 2026
+        project: https://diverse-var.github.io/
         arXiv: https://arxiv.org/abs/2511.21415
+        code: https://github.com/KAIST-Visual-AI-Group/DiverseVAR
       - name: 065-eccv26-morphgs
         key: morphgs
         title: "MorphGS: Morphology-Adaptive Articulated Motion Transfer from Videos"

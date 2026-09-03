@@ -1,7 +1,18 @@
+- key: noisetilt
+  title: "NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment"
+  venue: ECCV 2026
+  desc: A reward-guided diffusion sampler that injects reward gradients through the noise term, leaving the pretrained reverse kernel unchanged and requiring only a single sample per step.
+  link: https://github.com/KAIST-Visual-AI-Group/NoiseTilt
+- key: diversevar
+  title: "DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models"
+  venue: ECCV 2026
+  desc: A framework that enables text-conditioned visual autoregressive models to generate diverse outputs from the same prompt, without retraining and with minimal additional compute.
+  link: https://diverse-var.github.io/
 - key: matlat
   title: "MatLat: Material Latent Space for PBR Texture Generation"
   venue: CVPR 2026 Highlight
   desc: A material-aware latent diffusion framework that fine-tunes a pretrained VAE to incorporate PBR channels while preserving latent locality.
+  link: https://matlat-proj.github.io/
 - key: bezierflow
   title: "BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation"
   venue: ICLR 2026
