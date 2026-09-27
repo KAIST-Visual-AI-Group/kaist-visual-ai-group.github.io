@@ -50,7 +50,7 @@ years:
         arXiv: https://arxiv.org/abs/2608.27417
       - name: 068-neurips26-dfp
         key: dfp
-        title: "Drifting Field Policy: Wasserstein Gradient Flow on Policy Space for Offline-to-Online RL"
+        title: "Drifting Field Policy: A One-Step Generative Policy via Wasserstein Gradient Flow"
         authors:
             - name: Juil Koo
               link: https://63days.github.io/
