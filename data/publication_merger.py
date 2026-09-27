@@ -1,27 +1,44 @@
-import os
-import glob
+from pathlib import Path
 
-base_dir = os.path.join(os.path.dirname(os.getcwd()), 'data')
-in_dir = os.path.join(base_dir, 'publications')
-out_file = os.path.join(base_dir, 'publications.yml')
 
-out_f = open(out_file, 'w')
-out_f.write("years:\n")
+def main():
+    base_dir = Path(__file__).resolve().parent
+    in_dir = base_dir / "publications"
+    out_file = base_dir / "publications.yml"
 
-years = os.listdir(in_dir)
-years.sort(reverse=True)
+    year_dirs = sorted(
+        (path for path in in_dir.iterdir()
+         if path.is_dir() and not path.name.startswith(".")),
+        key=lambda path: path.name,
+        reverse=True,
+    )
 
-for year in years:
-    out_f.write("  - year: {}\n".format(year))
-    out_f.write("    papers:\n")
-    yml_files = glob.glob(os.path.join(in_dir, year, '*.yml'))
-    yml_files.sort(reverse=True)
+    # Build the complete output before replacing the existing file.
+    lines = []
+    for year_dir in year_dirs:
+        yml_files = sorted(
+            (path for path in year_dir.glob("*.yml")
+             if path.is_file() and not path.name.startswith(".")),
+            key=lambda path: path.name,
+            reverse=True,
+        )
+        if not yml_files:
+            continue
 
-    for yml_file in yml_files:
-        basename = os.path.splitext(os.path.basename(yml_file))[0]
-        print(basename)
-        out_f.write("      - name: {}\n".format(basename))
-        with open(yml_file) as in_f:
-            lines = in_f.readlines()
-            for line in lines:
-                out_f.write("        {}".format(line))
+        lines.append(f"  - year: {year_dir.name}")
+        lines.append("    papers:")
+        for yml_file in yml_files:
+            content = yml_file.read_text(encoding="utf-8")
+            if not content.strip():
+                raise ValueError(f"Empty publication file: {yml_file}")
+            print(yml_file.stem)
+            lines.append(f"      - name: {yml_file.stem}")
+            lines.extend(f"        {line}" for line in content.splitlines())
+
+    header = "years:" if lines else "years: []"
+    output = "\n".join([header, *lines]) + "\n"
+    out_file.write_text(output, encoding="utf-8")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,6 +1,69 @@
 years:
   - year: 2026
     papers:
+      - name: 071-neurips26-muni
+        key: muni
+        title: "MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation"
+        authors:
+            - name: Kyeongmin Yeo\*
+              link: https://32v.github.io/
+            - name: Yunhong Min\*
+              link: https://myh4832.github.io/
+            - name: Minhyuk Sung
+        authors_note: equal contributions
+        venue: NeurIPS 2026
+        project: https://muni-proj.github.io/
+        arXiv: https://arxiv.org/abs/2606.16408
+        code: https://github.com/KAIST-Visual-AI-Group/MUNI
+      - name: 070-neurips26-cdm
+        key: cdm
+        title: "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion"
+        authors:
+            - name: Jaihoon Kim
+              link: https://jh27kim.github.io/
+            - name: Taehoon Yoon
+              link: https://taehoon-yoon.github.io/
+            - name: Prin Phunyaphibarn
+              link: https://prinphunya.github.io/
+            - name: Seungjun Kim
+              link: https://ksj626.github.io/
+            - name: Morteza Mardani
+              link: https://mortezamardani.github.io/
+            - name: Minhyuk Sung
+        venue: NeurIPS 2026
+        project: https://cdm-smc.github.io/
+        arXiv: https://arxiv.org/abs/2605.23346
+        code: https://github.com/KAIST-Visual-AI-Group/CDM
+      - name: 069-neurips26-vrhs
+        key: vrhs
+        title: "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information"
+        authors:
+            - name: Chanho Park
+              link: https://charlieppark.kr/
+            - name: Daehyeon Choi
+              link: https://choidaedae.github.io/
+            - name: Jihyun Lee
+              link: https://jyunlee.github.io/
+            - name: Minhyuk Sung
+        venue: NeurIPS 2026
+        project: https://visual-retrieval-heads.github.io/
+        arXiv: https://arxiv.org/abs/2608.27417
+      - name: 068-neurips26-dfp
+        key: dfp
+        title: "Drifting Field Policy: Wasserstein Gradient Flow on Policy Space for Offline-to-Online RL"
+        authors:
+            - name: Juil Koo
+              link: https://63days.github.io/
+            - name: Mingue Park
+              link: https://uygnim99.github.io/
+            - name: Jiwon Choi
+            - name: Yunhong Min
+              link: https://myh4832.github.io/
+            - name: Minhyuk Sung
+        venue: NeurIPS 2026
+        project: https://driftingpolicy.github.io/
+        arXiv: https://arxiv.org/abs/2605.07727
+        code: https://github.com/KAIST-Visual-AI-Group/DFP
       - name: 067-eccv26-noisetilt
         key: noisetilt
         title: "NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment"
