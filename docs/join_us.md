@@ -39,7 +39,7 @@ p { text-align: justify; }
 
 ### Introduction to the KAIST Visual AI Group
 
-In our group, we mainly research machine learning technologies for visual data. We currently focus on three main research topics (while not limited to these, we explore a wider range related to them):
+In our group, we mainly research machine learning technologies for visual data. We currently focus on the following research topics (while not limited to these, we explore a wider range related to them):
 
 - Generative Modeling
 - Protein and Biological Data Generation
@@ -47,7 +47,7 @@ In our group, we mainly research machine learning technologies for visual data. 
 - RL / Policy Learning
 - Multimodal Foundation Models
 
-Please check out our recent publications [**here**](../publications/){:target="_blank}. We actively publish papers in the following top-tier conferences in Machine Learning, Computer Vision, and Computer Graphics:
+Please check out our recent publications [**here**](publications.md){:target="_blank"}. We actively publish papers in the following top-tier conferences in Machine Learning, Computer Vision, and Computer Graphics:
 
 - ML: NeurIPS, ICML, ICLR, AISTATS
 - CV: CVPR, ICCV, ECCV
@@ -58,18 +58,18 @@ Please check out our recent publications [**here**](../publications/){:target="_
 
 To find more information about our group, visit the followings:
 
-- [**Group introduction slides (September 2025)**]({{page.meta.lab_intro_link}}){:target="_blank}
-- [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank}
-- [**Publications page**](../publications/){:target="_blank}
+- [**Group introduction slides (September 2025)**]({{page.meta.lab_intro_link}}){:target="_blank"}
+- [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank"}
+- [**Publications page**](publications.md){:target="_blank"}
 - **Course webpages**
-    - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank}
-    - [**Machine Learning for 3D Data (Spring 2025)**]({{page.meta.ml3d_course_link}}){:target="_blank}
+    - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank"}
+    - [**Machine Learning for 3D Data (Spring 2026)**]({{page.meta.ml3d_course_link}}){:target="_blank"}
 
 
-###Openings
+### Openings
 
 #### International Applicants
-For international applicants, we have special openings with no limitations on the available slots. Please [**contact**](../contact/){:target="_blank} us before applying for the Master’s program.
+For international applicants, we have special openings with no limitations on the available slots. Please [**contact**](contact.md){:target="_blank"} us before applying for the Master’s program.
 
 #### Korean Applicants
 For Korean applicants, we currently have year-round openings (for both Spring and Fall) for:
@@ -79,17 +79,17 @@ For Korean applicants, we currently have year-round openings (for both Spring an
 - One KAIST scholarship AI Graduate School  Master's student, and
 - One Metaverse Graduate School Master's student
 
-Using the KAIST scholarship openings is exceptional. To join our group, we recommend applying for the government-funded School of Computing Master's program or [**contacting**](../contact/){:target="_blank} us before applying.
+Using the KAIST scholarship openings is exceptional. To join our group, we recommend applying for the government-funded School of Computing Master's program or [**contacting**](contact.md){:target="_blank"} us before applying.
 
 #### Spring vs. Fall Admissions
-During the Fall admissions, only remaining openings that were not filled during the Spring admissions can be used. Therefore, we recommend applying in the Spring admissions. The likelihood of having openings for Fall applicants is low. If you must apply for the Fall admissions, please [**contact**](../contact/){:target="_blank} us by the summer (August) of the previous year.
+During the Fall admissions, only remaining openings that were not filled during the Spring admissions can be used. Therefore, we recommend applying in the Spring admissions. The likelihood of having openings for Fall applicants is low. If you must apply for the Fall admissions, please [**contact**](contact.md){:target="_blank"} us by the summer (August) of the previous year.
 
 If you have questions about which openings would be best to apply for, please reach out to us.
 
 
 ### Recruiting Criteria
 
-**We recruit Master’s students who are willing to pursue a Ph.D. in our group.** Students who have demonstrated strong performance through internships in our group will be given priority; however, we do not automatically select all students who have interned with us. Currently, approximately 30% of our graduate students joined without having interned in the group. Next, we prioritize students who have performed well in our courses. You can check the courses in the [**courses**](../courses/){:target="_blank} page.
+**We recruit Master’s students who are willing to pursue a Ph.D. in our group.** Students who have demonstrated strong performance through internships in our group will be given priority; however, we do not automatically select all students who have interned with us. Currently, approximately 30% of our graduate students joined without having interned in the group. Next, we prioritize students who have performed well in our courses. You can check the courses in the [**courses**](courses.md){:target="_blank"} page.
 
 We consider the following aspects: (* number: Importance)
 
@@ -107,7 +107,7 @@ We consider the following aspects: (* number: Importance)
 
 - Please do not send a contact email without any questions. Note that our recruiting process begins after the university's admission decision.
 
-- If you are curious about which openings would be best for you to apply for, or how many openings remain for late admissions, please [**contact**](../contact/){:target="_blank} us.
+- If you are curious about which openings would be best for you to apply for, or how many openings remain for late admissions, please [**contact**](contact.md){:target="_blank"} us.
 
 - When applying to our group, you will be asked to submit your KAIST graduate school application, transcript, and CV. Please ensure you have these documents prepared.
 
@@ -116,7 +116,7 @@ We consider the following aspects: (* number: Importance)
 
 ### Internships in Our Group
 
-We recruit undergraduate interns every summer and winter. Please check out the internship information [**here**](../internship/){:target="_blank}
+We recruit undergraduate interns every summer and winter. Please check out the internship information [**here**](internship.md){:target="_blank"}
 
 
 <br />

@@ -20,7 +20,7 @@ hide:
 .publication-description-cell {
     display: inline-table;
     width: calc(100% - 180px) !important;
-    width: 500px
+    width: 500px;
     vertical-align: top;
     p { margin: 0px; line-height: 140%; }
 }

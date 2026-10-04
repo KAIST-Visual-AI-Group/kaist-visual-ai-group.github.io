@@ -26,7 +26,7 @@ mhsung (at) kaist.ac.kr
 
 ## Address
 
-KAIST School of Computing
+KAIST Department of AI Computing
 
 Rm. 507, Bldg. E3-5 (KRAFTON Building),
 

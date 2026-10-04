@@ -99,7 +99,7 @@ years:
         code: https://github.com/KAIST-Visual-AI-Group/DiverseVAR
       - name: 065-eccv26-morphgs
         key: morphgs
-        title: "MorphGS: Morphology-Adaptive Articulated Motion Transfer from Videos"
+        title: "MorphGS: Morphology-Adaptive Articulated 3D Motion Transfer from Videos"
         authors:
             - name: Taeyeon Kim\*
             - name: Youngju Na\*
@@ -564,7 +564,7 @@ years:
         code: https://github.com/jyunlee/InterHandGen
       - name: 034-3dv24-smart
         key: smart
-        title: "Split, Merge, and Refine: Fitting Tight Bounding Boxes via Learned Over-Segmentation and Iterative Search"
+        title: "Split, Merge, and Refine: Fitting Tight Bounding Boxes via Over-Segmentation and Iterative Search"
         authors:
             - name: Chanhyeok Park
             - name: Minhyuk Sung
@@ -616,7 +616,7 @@ years:
               link: https://geometry.stanford.edu/member/guibas/
             - name: Minhyuk Sung
         authors_note: equal contributions
-        venue: Pacific Graphics 2023
+        venue: Pacific Graphics 2023 (Full Paper)
         project: https://soulmates2.github.io/publications/OptCtrlPoints/
         arXiv: https://arxiv.org/abs/2309.12899
         pdf: https://soulmates2.github.io/publications/OptCtrlPoints/static/OptCtrlPoints_Main.pdf

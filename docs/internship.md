@@ -68,19 +68,19 @@ As an intern, you'll have the opportunity to gain hands-on research experience i
 ### Resources
 To find more information about our group, visit the following:
 
-- [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank}
-- [**Group introduction slides (Spring 2026)**]({{page.meta.lab_intro_link}}){:target="_blank}
-- [**Publications page**](../publications/){:target="_blank}
+- [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank"}
+- [**Group introduction slides (Spring 2026)**]({{page.meta.lab_intro_link}}){:target="_blank"}
+- [**Publications page**](publications.md){:target="_blank"}
 - **Course webpages**
-    - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank}
-    - [**Machine Learning for 3D Data (Spring 2026)**]({{page.meta.ml3d_course_link}}){:target="_blank}
+    - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank"}
+    - [**Machine Learning for 3D Data (Spring 2026)**]({{page.meta.ml3d_course_link}}){:target="_blank"}
 
 
 ### Requirements
 - We're looking for students who have experience in developing any __deep learning__ techniques.
-- Candidates who have taken or audited the courses [__Diffusion and Flow Models__]({{page.meta.diff_course_link}}){:target="_blank} and/or [__Machine Learning for 3D Data__]({{page.meta.ml3d_course_link}}){:target="_blank} will be preferred (though this is not required).
+- Candidates who have taken or audited the courses [__Diffusion and Flow Models__]({{page.meta.diffusion_course_link}}){:target="_blank"} and/or [__Machine Learning for 3D Data__]({{page.meta.ml3d_course_link}}){:target="_blank"} will be preferred (though this is not required).
 - Interns will be required to be __physically present__ in our lab during the internship.<br>
-  Location: [__KAIST, KRAFTON SoC Building (E3-5), Rm 510, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank}
+  Location: [__KAIST, KRAFTON SoC Building (E3-5), Rm 510, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank"}
 - Candidates who are available to continue the internship for the following semester will be preferred. (Remote work can be considered for the extension.)
 
 

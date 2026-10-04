@@ -1,12 +1,17 @@
 - title: "Four papers have been accepted to NeurIPS 2026."
   time: Sep 2026
-- title : "NoiseTilt and DiverseVar will be presented as oral presentations at the LoViF Workshop at ECCV 2026."
+- title : "NoiseTilt and DiverseVAR will be presented as oral presentations at the LoViF Workshop at ECCV 2026."
   time: Sep 2026
+- title: "We are co-organizing \"BeNTo: Beyond Next-Token Prediction — Diffusion & Flow Models for Next-Generation Decoding\" at NeurIPS 2026. Click to check out the workshop webpage."
+  time: Jul 2026
+  link: https://bento-neurips.github.io/
 - title: "Seungwoo and Kyeongmin have been selected as recipients of the Presidential Science Scholarship for Graduate Students!"
   time: Jul 2026
 - title: "Minhyuk gave a talk at the SCALE Workshop at ICML 2026 titled \"Generative Modeling for Multimodal AI Agents: Reasoning, Action, and Simulation\". Click to download the slides."
   time: Jul 2026
   link: https://drive.google.com/file/d/1-4KPQBFMH-2P0WnK00lb7Nc5HSJcpwcl/view?usp=sharing
+- title: "Minhyuk is serving as an Action Editor for TMLR."
+  time: Jun 2026
 - title: "Three papers have been accepted to ECCV 2026."
   time: Jun 2026
 - title: "Minhyuk gave a talk at NVIDIA and Netflix titled \"Generative Modeling Beyond Scale: Efficiency, Guidance, and Multimodality\". Click to download the slides."
@@ -22,7 +27,9 @@
 - title: "Kyeongmin’s MatLat has been selected as a CVPR 2026 Highlight!"
   time: Apr 2026
 - title: "Minhyuk gave a talk at IVSP&MLHMI 2026 conference on \"Image and Video Generation: Present and Future\"."
-  time: April 2025
+  time: Mar 2026
+- title: "Minhyuk is serving as a co-program chair for the Korean Computer Graphics Society (KCGS) Conference 2026."
+  time: Feb 2026
 - title: "Two papers have been accepted to CVPR 2026."
   time: Feb 2026
 - title: "We are organizing the 2nd Workshop on Multimodal Spatial Intelligence at CVPR 2026. The Call for Papers is now open! Click to check out the workshop webpage."
@@ -37,6 +44,8 @@
   time: Jan 2026
 - title: "One paper has been accepted to TMLR."
   time: Jan 2026
+- title: "Minhyuk gave a talk at UC San Diego titled \"Inference-Time Guided Generation Using Diffusion and Flow Models\"."
+  time: Dec 2025
 - title: "Minhyuk has received the 2025 College of Engineering Technology Innovation Award at KAIST."
   time: Dec 2025
 - title: "Daehyeon received the National Excellence Scholarship for Master’s Students in Science and Engineering."
@@ -48,7 +57,7 @@
   link: https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-south-korea
 - title: "One paper has been accepted to 3DV 2026."
   time: Nov 2025
-- title: "One paper has been accepted to WACV 2026 (in the secound round)."
+- title: "One paper has been accepted to WACV 2026 (in the second round)."
   time: Nov 2025
 - title: "Our group participated in OpenKAIST and presented our research on \"AI techniques for perceiving the world like humans\"."
   time: Oct 2025
@@ -57,12 +66,16 @@
   time: Sep 2025
 - title: "One paper has been accepted to WACV 2026 (in the first round)."
   time: Sep 2025
+- title: "Minhyuk presented a tutorial at SIGGRAPH 2025 on \"Diffusion-Based Image/Video Generation\"."
+  time: Aug 2025
 - title: "Minhyuk talked about \"The Present and Future of Content Generation\" at the KAIST AI Transformation Workshop. Click to check out the recording."
   time: Aug 2025
   link: https://www.youtube.com/watch?v=148A4I1dJ4U
 - title: "Minhyuk gave talks at NVIDIA, Google, Stanford, and SFU titled \"Inference-Time Guided Generation Using Diffusion and Flow Models\". Click to download the slides."
   time: Aug 2025
   link: https://drive.google.com/file/d/1zexSlwFvJiuDY2ye2e2lwAurSlGM2F1l/view?pli=1
+- title: "Minhyuk participated as a panelist at Intel AI Summit Seoul 2025 in \"Shaping a Responsible and Sustainable AI Ecosystem\"."
+  time: Jul 2025
 - title: "Kyeongmin received the Young-Han Kim Global Leader Scholarship."
   time: Jul 2025
 - title: "Jaihoon begins internship at Amazon."
@@ -78,9 +91,12 @@
   time: Jun 2025
 - title: "Yunhong has been selected as one of 120 recipients of the 2nd Presidential Science Scholarship for Graduate Students out of 2,355 applicants."
   time: Jun 2025
-- title: "Minhyuk gave a keynote talk at CVM 2025 titled \"Inference-Time Guided Generation with Diffusion and Flow Models\". Click to download the slides."
+- title: "Minhyuk gave talks at HKUST (as a keynote at CVM 2025) and NTU (MMLab) titled \"Inference-Time Guided Generation with Diffusion and Flow Models\". Click to download the slides."
   time: Apr 2025
   link: https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy82MDU2MjAyM2I2NjQwMjgyL0VmbUF5YWFXTWloSnVpTEtrY3pOUGRFQnVSQV84TTQyRVFjU0dBWENuc1NSbnc&cid=60562023B6640282&id=60562023B6640282%21sa6c980f932964928ba22ca91cccd3dd1&parId=60562023B6640282%212031&o=OneUp
+- title: "Minhyuk gave a talk at the Asiagraphics Workshop on Intelligent Graphics titled \"Guidance in the Generative Process of Diffusion Models\". Click to download the slides."
+  time: Feb 2025
+  link: https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy82MDU2MjAyM2I2NjQwMjgyL0Vhd0Z1UDJrd0Y5RG5FOC1uS3ZzQjUwQm9XazlGVVRRanBKZC1QUWlOYW44bHc&cid=60562023B6640282&id=60562023B6640282%21sfdb805acc0a4435f9c4f3e9cabec079d&parId=60562023B6640282%212031&o=OneUp
 - title: "Two papers have been accepted to CVPR 2025."
   time: Feb 2025
 - title: "Seungwoo and Kyeongmin received the KAIST Global Leadership Award."
@@ -89,6 +105,8 @@
   time: Feb 2025
 - title: "One paper has been accepted to ICLR 2025."
   time: Jan 2025
+- title: "Minhyuk gave talks at the SIGGRAPH Asia 2024 pre-conference workshop and K-BOF on \"Visual Content Generation Using Diffusion Models\"."
+  time: Dec 2024
 - title: "Minhyuk gave a talk at the University of Tokyo on \"Visual Content Generation with Image Diffusion Models\"."
   time: Dec 2024
 - title: "Four papers have been accepted to NeurIPS 2024."
@@ -176,6 +194,8 @@
   time: Oct 2022
 - title: "Minhyuk is serving as a senior program committee member at AAAI 2023."
   time: Sep 2022
+- title: "Minhyuk gave an invited talk at the GrUVi Lab at Simon Fraser University during his visit for SIGGRAPH 2022."
+  time: Aug 2022
 - title: "We are hosting the 2022 Women Tech Stars workshop at KAIST, supported by the Google ExploreCSR program. Click this to check out the webpage."
   time: Aug 2022
   link: https://womentechstars.github.io/2022s/index.html
@@ -184,6 +204,8 @@
 - title: "Minhyuk wrote a blog post about 'How do I structure a paper?' at SIGGRAPH Research Career Development Committee (RCDC) webpage. Click to check it out."
   time: Aug 2022
   link: https://research.siggraph.org/blog/guides/how-do-i-structure-a-paper/
+- title: "Minhyuk gave an invited online talk to Mohamed Elhoseiny's group at KAUST on language and 3D."
+  time: Jul 2022
 - title: "Juil won the Outstanding Master’s Thesis Award at Korea Computer Graphics Society (KCGS 2022)."
   time: Jul 2022
 - title: "Minhyuk presented a keynote talk at the ICME Workshop on 3D Multimedia Analytics, Search and Generation. Click here for more details."
@@ -200,7 +222,7 @@
 - title: "Minhyuk is serving as a technical paper committee member at SIGGRAPH Asia 2022."
   time: Apr 2022
 - title: "Three papers have been accepted at CVPR 2022 including Juil's oral."
-  time: Mar 2021
+  time: Mar 2022
 - title: "Minhyuk gave a talk at Asiagraphics as a webinar speaker. Click here for more details."
   time: Feb 2022
   link: http://www.asiagraphics.org/webinar/#session7
