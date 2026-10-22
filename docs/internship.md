@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 
-application_link: https://form.typeform.com/to/yF96qyZS
+application_link: https://forms.gle/A9BXRGWiHjz3p73M9
 lab_intro_link: https://docs.google.com/presentation/d/1Ohw3EqYD9vQi8fEYfd8iJgA-mH7SnKKRIhEKvc-ELUA/edit?usp=sharing
 talk_link: https://drive.google.com/file/d/1gNBUsJcHuliuKctyuZrtFezg--v41gm4/view?usp=sharing
 diffusion_course_link: https://diffusion.kaist.ac.kr/
@@ -26,18 +26,16 @@ p { text-align: justify; }
 </style>
 
 
-# Call for Internship (Summer 2026) — Closed
-### We’ll begin recruiting Winter 2026–2027 interns in mid-October. Stay tuned for more updates!
+# Call for Internship (Winter 2026-2027)
+<!-- ### We’ll begin recruiting Winter 2026–2027 interns in mid-October. Stay tuned for more updates! -->
 
 
-<!--
-#### ==Application Deadline: May 16, 2026 (Saturday), 23:59 KST.==
-#### Internship Period: June 29, 2026 - August 28, 2026
+#### ==Application Deadline: Nov 7, 2026 (Saturday), 23:59 KST.==
+#### Internship Period: December 28, 2026 - February 26, 2026
 
 [Application Form]({{page.meta.application_link}}){:target="_blank" .md-button}
 <br />
 <br />
--->
 
 
 ### Research Topics
