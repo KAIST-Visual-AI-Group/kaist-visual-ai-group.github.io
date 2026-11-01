@@ -5,8 +5,8 @@ hide:
 
 application_link: https://forms.gle/A9BXRGWiHjz3p73M9
 lab_intro_link: https://docs.google.com/presentation/d/1Ohw3EqYD9vQi8fEYfd8iJgA-mH7SnKKRIhEKvc-ELUA/edit?usp=sharing
-talk_link: https://drive.google.com/file/d/1gNBUsJcHuliuKctyuZrtFezg--v41gm4/view?usp=sharing
-diffusion_course_link: https://diffusion.kaist.ac.kr/
+talk_link: https://drive.google.com/file/d/1rb22qjr01qkb-Ij0tHkAqLWqsX2qr7y8/view
+generative_models_course_link: https://generative-models.kaist.ac.kr/
 ml3d_course_link: https://3dml.kaist.ac.kr/
 map_link: https://naver.me/xZjWQAMo
 ---
@@ -40,43 +40,43 @@ p { text-align: justify; }
 
 ### Research Topics
 - Generative Modeling
-    - Cross-Modal Generative Modeling
+    - World Models
+    - Multimodal Generative Models
     - Continuous and Discrete Diffusion and Flow Models
-    - Reward-Guided Sampling
 - Generative Modeling for Biological Data
     - Protein and DNA Generation
-    - Energy-Based Generative Models
+    - Variable-Length Generation
+    - Reward Guidance
 - Generative Policy Learning
-    - Online and Offline Diffusion Policy Learning
     - Vision-Language-Action (VLA) Models
-- Spatial Intelligence
+    - Online and Offline Diffusion Policy Learning
+- Spatial Intelligence and Physical AI
     - Embodied Question Answering
-    - World Modeling
+    - 3D Perception and Understanding
 
 
 ### What You'll Do
 As an intern, you'll have the opportunity to gain hands-on research experience in research while participating in the following activities:
 
-- Tutorials: Curated coding assignments covering recent research topics.
 - Project: A small-scale research project based on an idea provided by our group. Interns are also welcome to pitch their own ideas for the project.
 - Weekly Meetings: In-depth discussions on technical papers led each week by two student presenters (including both graduate and undergraduate students).
-- Paper Digest Meetings: Lightweight meetings for briefly skimming through recent papers.
+- Paper Reading Groups: Lightweight meetings for briefly skimming through recent papers.
 
 
 ### Resources
 To find more information about our group, visit the following:
 
 - [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank"}
-- [**Group introduction slides (Spring 2026)**]({{page.meta.lab_intro_link}}){:target="_blank"}
 - [**Publications page**](publications.md){:target="_blank"}
 - **Course webpages**
-    - [**Diffusion and Flow Models (Fall 2025)**]({{page.meta.diffusion_course_link}}){:target="_blank"}
+    - [**Introduction to Generative Models (Fall 2026)**]({{page.meta.generative_models_course_link}}){:target="_blank"}
     - [**Machine Learning for 3D Data (Spring 2026)**]({{page.meta.ml3d_course_link}}){:target="_blank"}
 
+<!-- - [**Group introduction slides (Spring 2026)**]({{page.meta.lab_intro_link}}){:target="_blank"} -->
 
 ### Requirements
 - We're looking for students who have experience in developing any __deep learning__ techniques.
-- Candidates who have taken or audited the courses [__Diffusion and Flow Models__]({{page.meta.diffusion_course_link}}){:target="_blank"} and/or [__Machine Learning for 3D Data__]({{page.meta.ml3d_course_link}}){:target="_blank"} will be preferred (though this is not required).
+- Candidates who have taken or audited the courses [__Introduction to Generative Models__]({{page.meta.generative_models_course_link}}){:target="_blank"} and/or [__Machine Learning for 3D Data__]({{page.meta.ml3d_course_link}}){:target="_blank"} will be preferred (though this is not required).
 - Interns will be required to be __physically present__ in our lab during the internship.<br>
   Location: [__KAIST, KRAFTON SoC Building (E3-5), Rm 510, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141.__]({{page.meta.map_link}}){:target="_blank"}
 - Candidates who are available to continue the internship for the following semester will be preferred. (Remote work can be considered for the extension.)
