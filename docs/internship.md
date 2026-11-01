@@ -4,7 +4,7 @@ hide:
   - toc
 
 application_link: https://forms.gle/A9BXRGWiHjz3p73M9
-lab_intro_link: https://docs.google.com/presentation/d/1Ohw3EqYD9vQi8fEYfd8iJgA-mH7SnKKRIhEKvc-ELUA/edit?usp=sharing
+lab_intro_link: https://drive.google.com/file/d/1Po1pnDhyGGEFLzQjq2m1IDm3fPDghdwp/view?usp=sharing
 talk_link: https://drive.google.com/file/d/1rb22qjr01qkb-Ij0tHkAqLWqsX2qr7y8/view
 generative_models_course_link: https://generative-models.kaist.ac.kr/
 ml3d_course_link: https://3dml.kaist.ac.kr/
@@ -67,12 +67,12 @@ As an intern, you'll have the opportunity to gain hands-on research experience i
 To find more information about our group, visit the following:
 
 - [**Minhyuk's recent talk slides**]({{page.meta.talk_link}}){:target="_blank"}
+- [**Group introduction slides (June 2026)**]({{page.meta.lab_intro_link}}){:target="_blank"}
 - [**Publications page**](publications.md){:target="_blank"}
 - **Course webpages**
     - [**Introduction to Generative Models (Fall 2026)**]({{page.meta.generative_models_course_link}}){:target="_blank"}
     - [**Machine Learning for 3D Data (Spring 2026)**]({{page.meta.ml3d_course_link}}){:target="_blank"}
 
-<!-- - [**Group introduction slides (Spring 2026)**]({{page.meta.lab_intro_link}}){:target="_blank"} -->
 
 ### Requirements
 - We're looking for students who have experience in developing any __deep learning__ techniques.
