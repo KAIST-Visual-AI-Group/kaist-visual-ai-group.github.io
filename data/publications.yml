@@ -790,9 +790,7 @@ years:
         code: https://github.com/mikacuy/point2cyl
         video: https://www.youtube.com/watch?v=4R4Pi8qWXmo
         poster: https://point2cyl.github.io/assets/cvpr22_poster_final.pdf
-  - year: 2021
-    papers:
-      - name: 021-icra21-iln
+      - name: 021-icra22-iln
         key: iln
         title: "Implicit LiDAR Network: LiDAR Super-Resolution via Interpolation Weight Prediction"
         authors:
@@ -808,6 +806,8 @@ years:
         arXiv: https://arxiv.org/abs/2203.06413
         pdf: https://sgvr.kaist.ac.kr/~yskwon/papers/icra22-iln/ICRA22_iln.pdf
         code: https://github.com/PinocchioYS/iln
+  - year: 2021
+    papers:
       - name: 020-iccv21-cpfn
         key: cpfn
         title: "CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds"
